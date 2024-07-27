@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/vitepress/",
+  base: "/movie-theaters-reviews/",
   title: "Vitepress - Test GitHub Pages",
   description: "A VitePress Site",
   themeConfig: {
