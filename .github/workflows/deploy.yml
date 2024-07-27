@@ -14,6 +14,7 @@ on:
 # Define permissões GITHUB_TOKEN para a implantação no GitHub Pages
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
