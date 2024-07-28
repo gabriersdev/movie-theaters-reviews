@@ -9,11 +9,11 @@ next: false
 
 # Ranking
 
-## Resumo
+## Classificação dos [cinemas](./movie-theaters-list.html) visitados
 
-<!-- | Class. | Nome | Conceito | Avaliação |
+| Class. | Nome | Conceito | Avaliação |
 | :---: | :---: | :---: | :---: |
-| 1 | [Cineart IMAX - Shopping Boulevard](./reviews.html#cineart-imax-shopping-boulevard-imax) | Excelente | 5 |
-| 2 | [Cineart - Shopping Boulevard](./reviews.html#cineart-shopping-boulevard) | Excelente | 5 |
-| 3 | [Cineart - Minas Shopping](./reviews.html#cineart-minas-shopping) | Bom | 4 |
-| 4 | [Cineart - Shopping Cidade](./reviews.html#cineart-shopping-cidade) | Regular | 3 | -->
+| 1 | [Cineart IMAX - Shopping Boulevard](./movie-theaters-list.html#cineart-shopping-boulevard) | Excelente | 5 |
+| 2 | [Cineart - Shopping Boulevard](./movie-theaters-list.html#cineart-shopping-boulevard) | Excelente | 5 |
+| 3 | [Cineart - Minas Shopping](./movie-theaters-list.html#cineart-minas-shopping) | Bom | 4 |
+| 4 | [Cineart - Shopping Cidade](./movie-theaters-list.html#cineart-shopping-cidade) | Regular | 3 |
