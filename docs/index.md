@@ -26,12 +26,12 @@ features:
   #   details: Uma classificação de todos os cinemas de Belo Horizonte que já avaliei
   - title: ⭐ Avaliação dos cinemas
     details: Avaliando todos os cinemas da cidade de Belo Horizonte...
-  - link: /ranking.md
+  - link: /
     title: 🎖️ Ranking
     details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora
 ---
 
-<script setup> 
+<!-- <script setup> 
   let ok = false;
   const interval = setInterval(() => {
     try {
@@ -45,4 +45,4 @@ features:
       '#'
     }
   }, 1);
-</script>
+</script> -->
