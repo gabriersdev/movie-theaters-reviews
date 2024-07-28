@@ -3,27 +3,59 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/movie-theaters-reviews/",
-  title: "Vitepress - Test GitHub Pages",
-  description: "A VitePress Site",
+  title: "Movie Theaters Reviews",
+  description: "The best movie theaters reviews in the world! 🍿🎬",
   themeConfig: {
+    siteTitle: "Movie Theaters Reviews",
+    titleTemplate: ":title - Movie Theaters Reviews",
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      // { text: 'Home', link: '/' },
+      { text: 'Avaliações', link: '/reviews' },
+      { text: 'Cinemas', link: '/movie-theaters-list' },
+      { text: 'Ranking', link: '/ranking' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Navegue',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Sobre', link: '/about' },
+          { text: 'Avaliações', link: '/reviews' },
+          { text: 'Cinemas', link: '/movie-theaters-list' },
+          { text: 'Filmes', link: '/movies' },
+          { text: 'Ranking', link: '/ranking' },
+        ]
+      },
+      {
+        text: 'Desenvolvimento',
+        items: [
+          { text: 'Dev. no GitHub', link: 'https://github.com/gabriersdev' },
+          { text: 'Repositório', link: 'https://github.com/gabriersdev/movie-theaters-reviews' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/gabriersdev/movie-theaters-reviews' }
+    ],
+
+    footer: {
+      message: 'Feito com ❤️ usando <a href="https://vitepress.dev" target="_blank" rel="noreferrer noopener">VitePress</a>',
+      copyright: 'Copyright &copy; 2024 Gabriel Ribeiro'
+    },
+
+    editLink: {
+      pattern: 'https://github.com/gabriersdev/movie-theaters-reviews/edit/main/docs/:path'
+    },
+
+    lastUpdated: {
+      text: 'Modificado em',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
+    }, 
   }
 })
