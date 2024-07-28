@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // https://vitepress.dev/reference/default-theme-config
   base: "/movie-theaters-reviews/",
   title: "Movie Theaters Reviews",
   description: "The best movie theaters reviews in the world! 🍿🎬",
@@ -9,7 +10,12 @@ export default defineConfig({
     siteTitle: "Movie Theaters Reviews",
     titleTemplate: ":title - Movie Theaters Reviews",
 
-    // https://vitepress.dev/reference/default-theme-config
+    logo: "favicon.ico",
+    
+    head: [
+      ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ],
+
     nav: [
       // { text: 'Home', link: '/' },
       { text: 'Avaliações', link: '/reviews' },

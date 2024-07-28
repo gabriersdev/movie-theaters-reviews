@@ -6,9 +6,9 @@ hero:
   name: "Reviews dos Cinemas de Belo Horizonte"
   text: ""
   tagline: Avaliação de cinemas usando o SSG VitePress com Markdown
-  # image:
-  #   src: /movie-theater.jpg
-  #   alt: Cinemas
+  image:
+    src: /movie-theater.jpg
+    alt: Cinemas
   actions:
     - theme: brand
       text: Reviews
