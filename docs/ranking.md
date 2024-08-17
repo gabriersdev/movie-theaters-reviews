@@ -17,4 +17,3 @@ next: false
 | 2 | [Cineart - Shopping Boulevard](./movie-theaters-list.html#cineart-shopping-boulevard) | Excelente | 5 |
 | 3 | [Cineart - Minas Shopping](./movie-theaters-list.html#cineart-minas-shopping) | Bom | 4 |
 | 4 | [Cineart - Shopping Cidade](./movie-theaters-list.html#cineart-shopping-cidade) | Regular | 3 |
-| 5 | [Cineart - Ponteio](./movie-theaters-list.html#cineart-ponteio) | ... | ... |
