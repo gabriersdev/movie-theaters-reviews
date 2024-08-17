@@ -30,19 +30,3 @@ features:
     title: 🎖️ Ranking
     details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora
 ---
-
-<!-- <script setup> 
-  let ok = false;
-  const interval = setInterval(() => {
-    try {
-      if (document.querySelector('.tagline') && document.querySelector('.VPImage.image-src')) {
-        document.querySelector('.tagline').style.fontSize = "1.75rem";
-        document.querySelector('.VPImage.image-src').style.borderRadius = "15px";
-        ok = true;
-        clearInterval(interval);
-      }
-    } catch (e) {
-      '#'
-    }
-  }, 1);
-</script> -->
