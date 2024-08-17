@@ -29,3 +29,7 @@ O cinema da rede Cineart fica no 4º andar do Shopping Cidade (piso GG) e as sal
 ### Cineart - Minas Shopping
 
 O terceiro dessa lista, e o terceiro da rede Cineart. A entrada do cinema fica no 2º andar do Minas Shopping, de frente para a Praça de Alimentação. Possui cinco ou seis salas e assim como o Cineart do Shopping Cidade, as salas ficam num piso superior e são acessadas por escada rolante ou convencional.
+
+### Cineart - Ponteio
+
+...

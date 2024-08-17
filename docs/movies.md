@@ -17,6 +17,7 @@ head:
 |[Guerra Civil](#guerra-civil)|Ação|
 |[Godzilla e Kong](#godzilla-e-kong)|Ficção|
 |[Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado)|Ficção|
+|[Deadpool e Wolverine](#deadpoll-e-wolverine)|Ação|
 
 ## Sobre
 
@@ -44,3 +45,7 @@ Na Terra Oca, Kong machuca o dente e precisa da ajuda dos humanos para repará-l
 
 Um tirano tem sob o seu poder grupos e mais grupos de macacos. O objetivo dele é conseguir acesso a alta tecnologia que os humanos deixaram pra trás e para isso ele escraviza macacos em busca de abrir uma porta de um bunker que os humanos se estabeleceram. Nosso personagem principal, junto de seus amigos e uma "figura falante" desencadeiam grandes peripécias...
 > O filme é xôxo. Saí da sala com a percepção de que faltava algo. Talvez seja o desenrolar da história que foi bastante presível, ou a duração do filme, que não é o meu gênero mais preferido, ou ainda "figura falante" que não cativa muito e é desmascarada algumas vezes...
+
+### Deadpoll e Wolverine
+
+...
