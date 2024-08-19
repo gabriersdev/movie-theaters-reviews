@@ -3,18 +3,16 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
+  lang: 'pt-BR',
   base: "/movie-theaters-reviews/",
   title: "Movie Theaters Reviews",
   description: "The best movie theaters reviews in the world! 🍿🎬",
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   themeConfig: {
     siteTitle: "Movie Theaters Reviews",
     titleTemplate: ":title - Movie Theaters Reviews",
 
     logo: "favicon.ico",
-    
-    head: [
-      ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ],
 
     nav: [
       // { text: 'Home', link: '/' },
