@@ -8,6 +8,9 @@ head:
 
 # Filmes
 
+> [!WARNING]
+> Nesta seção há breves resumos sobre os filmes que assisti para avaliar os cinemas. **Pode haver spoiler.**
+
 ## Resumo
 
 |Filme|Gênero|
@@ -48,4 +51,9 @@ Um tirano tem sob o seu poder grupos e mais grupos de macacos. O objetivo dele �
 
 ### Deadpoll e Wolverine
 
-...
+Deadpoll retorna nesse filme movido pela força da amizade e o Wolverine pelo amargo arrependimento dos erros cometidos por ele no universo dele no passado. Nesse filme fan-service 🤓 e lotado de piadas e críticas, que já saturaram, envolvendo a Marvel, a Fox e a Disney, Deadpoll tem como objetivo salvar o mundo em que vive enquanto o Wolverine, por sua vez, ser reconhecido como um herói.
+
+Apesar de a trama ser concisa e eu não me recordar de nenhum furo de roteiro, a história é fraca - não dá vontade de continuar a ver o filme, e a vilã, irmã do professor Xavier, não é a melhor das vilões.
+
+O filme é mais um de multiverso.
+Mais um pra conta.
