@@ -21,6 +21,8 @@ head:
 |[Godzilla e Kong](#godzilla-e-kong)|Ficção|
 |[Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado)|Ficção|
 |[Deadpool e Wolverine](#deadpoll-e-wolverine)|Ação|
+|[The Crow (2024)](#the-crow-2024)|Terror|
+|[Pisque duas vezes](#pisque-duas-vezes)|Suspense|
 
 ## Sobre
 
