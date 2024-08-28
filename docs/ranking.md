@@ -16,5 +16,6 @@ next: false
 | 1 | [Cineart IMAX - Shopping Boulevard](./movie-theaters-list.html#cineart-shopping-boulevard) | Excelente | 5 | 5 | 5 | 5 |
 | 2 | [Cineart - Shopping Boulevard](./movie-theaters-list.html#cineart-shopping-boulevard) | Excelente | 5 | 5 | 5 | 5 |
 | 3 | [Cineart - Minas Shopping](./movie-theaters-list.html#cineart-minas-shopping) | Bom | 4 | 4 | 3 | 5 |
+| 3 | [Cinemark - Patio Savassi](./movie-theaters-list.html#cinemark-patio-savassi) | Bom | 4 | 4 | 3 | 5 |
 | 4 | [Cineart - Shopping Cidade](./movie-theaters-list.html#cineart-shopping-cidade) | Regular | 3 | 3 | 3 | 5 |
 <!-- | 5 | [Cineart - Ponteio](./movie-theaters-list.html#cineart-ponteio) | ... | ... | - | - | - | -->

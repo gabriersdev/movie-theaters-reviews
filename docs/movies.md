@@ -57,3 +57,13 @@ Apesar de a trama ser concisa e eu não me recordar de nenhum furo de roteiro, a
 
 O filme é mais um de multiverso.
 Mais um pra conta.
+
+### The Crow (2024)
+
+Apesar de um tanto violento, o filme é bom. O amor entre o Eric e a Shelly que rodeia a história é motivador (se é que esse é um sentimento que possa se ter vendo um relacionamento de fora). Ainda não assisti os outros filmes de corvo rsrs, mas depois de assitir à 1h50 do Eric (interpretado pelo Bill Skarsgard) morrendo 3 vezes, se apaixonando loucamente por uma moça que ele conheceu a pouquissímo tempo e sendo um jovem traumatizado pelo seu passado, com certeza os outros filmes entrarão na minha listinha para assistir.
+
+### Pisque duas vezes
+
+Confesso que antes de assistir eu vi a resenha da Isabela Boscov sobre esse filme, e lá ela chamava a atenção para o trabalho feito com as cores neste filme, e sim, é fascinante! Tudo foi pensado nos mínimos detalhes e os tons contrastantes, sempre bem saturados dão um tchan a mais nesse filme.
+
+A história, apesar de no início parecer só mais um filme como Corra e Midsommar, é bem construída. Em certo ponto do filme, o drama que a protagonista passa chega a ser palpável. Isso sem falar no plot twist, também que é maravilho para espectadores como eu, que esperam um final minimamente justo.
