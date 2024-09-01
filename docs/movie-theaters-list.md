@@ -25,9 +25,13 @@ head:
 
 O cinema da rede Cineart fica no 3º piso do Shopping Boulevard. Tem uma área ampla e espaçosa, assim como todo o Shopping. Conta com umas cinco ou seis salas normais e uma sala IMAX.
 
+O acesso ao shopping é muito fácil e em frente tem a estação de metrô Santa Efigênia.
+
 ### Cineart - Shopping Cidade
 
 O cinema da rede Cineart fica no 4º andar do Shopping Cidade (piso GG) e as salas num piso acima. Na parte de baixo, têm os totens de autoatendimento, os caixas e a bomboniere. Atráves de uma escada rolante ou convencial, acessamos uma das 8 salas de cinema.
+
+O acesso ao shopping é fácil. Possui três entradas/saídas para diferentes ruas e fica no centro de Belo Horizonte.
 
 Apesar de serem muitas as salas, nas duas vezes em que fui ao cinema, minha sessão foi na sala de número 4. Impressionantemente, nas duas ocasiões, havia um vagalume na sala. Porém, da primeira vez que fui, outra coisa me chamou a atenção: a limpeza. Muita pipoca e restos de embalagens no chão. Da segunda vez em que fui ao cinema, na mesma sala, não reparei na limpeza.
 
@@ -37,8 +41,12 @@ O terceiro dessa lista, e o terceiro da rede Cineart. A entrada do cinema fica n
 
 Os valores dos produtos da bomboniere, assim como os outros cinemas da Cineart, são "acessíveis". Dá pra você compra bastante pipoca e um refri médio por menos de 30 reais.
 
+O acesso ao shopping assim como os três anteriores é fácil. Ao lado do shopping tem a estação de metrô Minas Shopping e o centro de compras fica na avenida Cristiano Machado, uma das principais da cidade.
+
 ### Cinemark - Patio Savassi
 
 O primeiro cinema da rede avaliado aqui! Começando pela localização, que o shopping não ajuda. A distribuição das lojas que é feita é muito confusa. Não tem como encontrar quase nada ali sem a ajuda de um segurança.
 
 A entrada do cinema fica no 2º piso, que tem saída pra Rua Larvras, e ao final do corretor à primeira esquerda (espero ter explicado corretamente). Em um piso superior, fica a bomboniere e a entrada para as salas. Os preço dos produtos são bem altos. O menor combo (pipoca e refri) que você consegue, sem assinar um dos três tipos de planos que a Cinemark oferece, não sai por menos de 44 reais.
+
+Apesar de ficar numa das áreas mais movimentadas da cidade, na Savassi, não tem estação de metrô próxima ao shopping, nos horários de pico leva-se mais de 10 minutos para conseguir um carro por aplicativo. Contudo, há várias linhas de ônibus que atendem a região.
