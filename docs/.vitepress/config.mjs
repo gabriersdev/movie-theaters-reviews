@@ -26,6 +26,7 @@ export default defineConfig({
         text: 'Navegue',
         items: [
           { text: 'Sobre', link: '/about' },
+          { text: 'Metas', link: '/goals' },
           { text: 'Avaliações', link: '/reviews' },
           { text: 'Cinemas', link: '/movie-theaters-list' },
           { text: 'Filmes', link: '/movies' },
@@ -51,7 +52,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/gabriersdev/movie-theaters-reviews/edit/main/docs/:path'
+      pattern: 'https://github.com/gabriersdev/movie-theaters-reviews/edit/master/docs/:path'
     },
 
     lastUpdated: {
@@ -60,6 +61,6 @@ export default defineConfig({
         dateStyle: 'short',
         timeStyle: 'short'
       }
-    }, 
+    },
   }
 })
