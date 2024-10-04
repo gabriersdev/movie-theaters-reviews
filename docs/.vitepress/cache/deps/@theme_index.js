@@ -1,12 +1,12 @@
 import {
   useMediaQuery
-} from "./chunk-6IIPJ6N3.js";
+} from "./chunk-TULK623U.js";
 import {
   computed,
   ref,
   shallowRef,
   watch
-} from "./chunk-H4YLRMRE.js";
+} from "./chunk-CZX7GLWV.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
 import "C:/laragon/www/projetos/movie-theaters-reviews/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
