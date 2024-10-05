@@ -5,17 +5,22 @@
 - Cine Santa Tereza
 - Cine TJ - Pampulha Mall
 - Cineart - Del Rey
-- <s>Cineart - Minas Shopping</s> - ✅ Visitado
+- <s>Cineart - Minas Shopping</s> - <Badge type="tip">✅ Visitado</Badge>
 - Cineart - Ponteio
-- <s>Cineart - Shopping Boulevard</s> - ✅ Visitado
-- <s>Cineart - Shopping Cidade</s> - ✅ Visitado
+- <s>Cineart - Shopping Boulevard</s> - <Badge type="tip">✅ Visitado</Badge>
+- <s>Cineart - Shopping Cidade</s> - <Badge type="tip">✅ Visitado</Badge>
 - Cineart - Via Shopping
-- <s>Cineart IMAX - Shopping Boulevard</s> - ✅ Visitado
-- Cineart Premier - Ponteio
 - Cinemark - BH Shopping
 - Cinemark - Diamond
-- <s>Cinemark - Pátio Savassi</s> - ✅ Visitado
+- <s>Cinemark - Pátio Savassi</s> - <Badge type="tip">✅ Visitado</Badge>
 - Cinemark - Shopping Estação
 - Cinépolis - Shopping Estação BH
 - Cinesercla - Shopping Norte
 - Una Cine Belas Artes
+
+## Gráfico
+
+<figure>
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[4, 10]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
+  <figcaption></figcaption>
+</figure>

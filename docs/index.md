@@ -29,4 +29,7 @@ features:
   - link: /ranking.html
     title: 🎖️ Ranking
     details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora
+  - link: https://letterboxd.com/gabriers/
+    title: 🎭 Eu no Letterboxd
+    details: Filmes que vi com breves resenhas (a maioria ainda não tem rsrs)
 ---

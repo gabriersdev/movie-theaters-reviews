@@ -6,6 +6,13 @@ head:
       content: Description
 ---
 
+<!-- Variáveis -->
+[cineart-boulevard]:movie-theaters-list.html#cineart-shopping-boulevard
+[cineart-cidade]:movie-theaters-list.html#cineart-shopping-cidade
+[cineart-minas-shopping]:movie-theaters-list.html#cineart-minas-shopping
+[cinemark-patio-savassi]:movie-theaters-list.html#cinemark-patio-savassi
+<!-- Fim das variáveis -->
+
 # Filmes
 
 > [!WARNING]
@@ -13,16 +20,17 @@ head:
 
 ## Resumo
 
-|Filme|Gênero|
-|:---:|:---:|
-|[Minha irmã e eu](#minha-irma-e-eu)|Comédia|
-|[Duna 2](#duna-2)|Ficção|
-|[Guerra Civil](#guerra-civil)|Ação|
-|[Godzilla e Kong](#godzilla-e-kong)|Ficção|
-|[Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado)|Ficção|
-|[Deadpool e Wolverine](#deadpoll-e-wolverine)|Ação|
-|[The Crow (2024)](#the-crow-2024)|Terror|
-|[Pisque duas vezes](#pisque-duas-vezes)|Suspense|
+|Filme|Gênero|Cinema|
+|:---:|:---:|:---:|
+|[Minha irmã e eu](#minha-irma-e-eu)|Comédia|[Cineart Cidade][cineart-cidade]|
+|[Duna 2](#duna-2)|Ficção|[Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard]|
+|[Guerra Civil](#guerra-civil)|Ação|[Cineart Minas Shopping][cineart-minas-shopping]|
+|[Godzilla e Kong](#godzilla-e-kong)|Ficção|[Cineart Boulevard][cineart-boulevard]|
+|[Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado)|Ficção|[Cineart Cidade][cineart-cidade]|
+|[Deadpool e Wolverine](#deadpoll-e-wolverine)|Ação|[Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard]|
+|[The Crow (2024)](#the-crow-2024)|Terror|[Cinemark Patio Savassi][cinemark-patio-savassi]|
+|[Pisque duas vezes](#pisque-duas-vezes)|Suspense|[Cinemark Patio Savassi][cinemark-patio-savassi]|
+|[Coringa: Delírio a dois](#coringa-delirio-a-dois)|Triller e Musical|[Cineart Boulevard][cineart-boulevard]|
 
 ## Sobre
 
@@ -69,3 +77,9 @@ Apesar de um tanto violento, o filme é bom. O amor entre o Eric e a Shelly que 
 Confesso que antes de assistir eu vi a resenha da Isabela Boscov sobre esse filme, e lá ela chamava a atenção para o trabalho feito com as cores neste filme, e sim, é fascinante! Tudo foi pensado nos mínimos detalhes e os tons contrastantes, sempre bem saturados dão um tchan a mais nesse filme.
 
 A história, apesar de no início parecer só mais um filme como Corra e Midsommar, é bem construída. Em certo ponto do filme, o drama que a protagonista passa chega a ser palpável. Isso sem falar no plot twist, também que é maravilho para espectadores como eu, que esperam um final minimamente justo.
+
+### Coringa: Delírio a dois
+
+É ruim. É péssimo. É terrível. É um musical...  
+
+> Esse filme vai ficar sem resumo mesmo.
