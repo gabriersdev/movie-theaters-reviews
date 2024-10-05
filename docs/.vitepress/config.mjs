@@ -13,6 +13,7 @@ export default defineConfig({
     titleTemplate: ":title - Movie Theaters Reviews",
 
     logo: "favicon.ico",
+    outlineTitle: 'Nesta página',
 
     nav: [
       // { text: 'Home', link: '/' },
