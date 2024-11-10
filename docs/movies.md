@@ -31,6 +31,7 @@ head:
 |[The Crow (2024)](#the-crow-2024)|Terror|[Cinemark Patio Savassi][cinemark-patio-savassi]|
 |[Pisque duas vezes](#pisque-duas-vezes)|Suspense|[Cinemark Patio Savassi][cinemark-patio-savassi]|
 |[Coringa: Delírio a dois](#coringa-delirio-a-dois)|Triller e Musical|[Cineart Boulevard][cineart-boulevard]|
+|[Venom: A Última Rodada](#venom-a-ultima-rodada)|Ação|[Cineart Cidade][cineart-cidade]|
 
 ## Sobre
 
@@ -83,3 +84,23 @@ A história, apesar de no início parecer só mais um filme como Corra e Midsomm
 É ruim. É péssimo. É terrível. É um musical...  
 
 > Esse filme vai ficar sem resumo mesmo.
+
+### Venom: A Última Rodada
+
+Cineart Cidade
+
+30/10
+
+“A Última Rodada" foi o título escolhido para o último filme da saga de Eddie Brock e o simbionte Venom. O filme é mais um filme de “super herói” genérico que segue a já cansada jornada do herói.
+
+No filme, Venom e Eddie estão sendo cassados por possuir o codex (nome muito bom e original, diga-se de passagem) - que é basicamente, uma espécie de fórmula para criar outros simbiontes.
+
+Na tentativa de fuga, Eddie acaba **acidentalmente** encontrando uma família meio conspiracionista meio hippie que estão em busca de ver a área 51 antes que ela fosse desativada e a partir daí, praticamente, que o filme começa.
+
+No filme tem tudo do mais clichê:
+
+- O general ignorante que acha que as coisas devem ser feitas do jeito dele
+- Os cientistas, muito humanos, querendo fazer tudo direitinho
+- e um indivíduo que sabe de tudo o que vai acontecer e é a Wikipédia do filme
+
+Não é bom. Também não é engraçado e não se salva por esse aspecto como o filme anterior do Venom.

@@ -25,11 +25,11 @@ O acesso ao shopping é muito fácil e em frente tem a estação de metrô Santa
 
 ## Cineart - Shopping Cidade
 
-O cinema da rede Cineart fica no 4º andar do Shopping Cidade (piso GG) e as salas num piso acima. Na parte de baixo, têm os totens de autoatendimento, os caixas e a bomboniere. Atráves de uma escada rolante ou convencial, acessamos uma das 8 salas de cinema.
+Na última vez que fui ao shopping, a entrada do cinema era no andar GG. Mas da última vez que fui, assistir ao filme do Venom, o Cinema mudou. Agora a entrada fica no piso G5, que é uma garagem. Para chegar até lá precisa pegar o elevador ou ir de escada.
 
 O acesso ao shopping é fácil. Possui três entradas/saídas para diferentes ruas e fica no centro de Belo Horizonte.
 
-Apesar de serem muitas as salas, nas duas vezes em que fui ao cinema, minha sessão foi na sala de número 4. Impressionantemente, nas duas ocasiões, havia um vagalume na sala. Porém, da primeira vez que fui, outra coisa me chamou a atenção: a limpeza. Muita pipoca e restos de embalagens no chão. Da segunda vez em que fui ao cinema, na mesma sala, não reparei na limpeza.
+Apesar de serem muitas as salas, nas duas vezes primeiras em que fui ao cinema, minha sessão foi na sala de número 4. Impressionantemente, nas duas ocasiões, havia um vagalume na sala. Porém, da primeira vez que fui, outra coisa me chamou a atenção: a limpeza. Muita pipoca e restos de embalagens no chão. Da segunda vez em que fui ao cinema, na mesma sala, não reparei na limpeza. Na terceira vez em que fui ao Cidade, a sala 6 estava bem limpa e agradável
 
 ## Cineart - Minas Shopping
 
