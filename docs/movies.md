@@ -87,10 +87,6 @@ A história, apesar de no início parecer só mais um filme como Corra e Midsomm
 
 ### Venom: A Última Rodada
 
-Cineart Cidade
-
-30/10
-
 “A Última Rodada" foi o título escolhido para o último filme da saga de Eddie Brock e o simbionte Venom. O filme é mais um filme de “super herói” genérico que segue a já cansada jornada do herói.
 
 No filme, Venom e Eddie estão sendo cassados por possuir o codex (nome muito bom e original, diga-se de passagem) - que é basicamente, uma espécie de fórmula para criar outros simbiontes.
