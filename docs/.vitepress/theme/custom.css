@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 /* Component: Home */
 /* Home Title */
 .clip {
