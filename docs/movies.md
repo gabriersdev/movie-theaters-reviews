@@ -100,3 +100,11 @@ No filme tem tudo do mais clichê:
 - e um indivíduo que sabe de tudo o que vai acontecer e é a Wikipédia do filme
 
 Não é bom. Também não é engraçado e não se salva por esse aspecto como o filme anterior do Venom.
+
+### O segundo ato
+
+...
+
+### Ainda estou aqui
+
+...

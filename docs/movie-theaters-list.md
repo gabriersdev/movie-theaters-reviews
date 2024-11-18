@@ -48,3 +48,7 @@ A entrada do cinema fica no 2º piso, que tem saída pra Rua Larvras, e é ao fi
 Apesar de ficar numa das áreas mais movimentadas da cidade, na Savassi, não tem estação de metrô próxima ao shopping e nos horários de pico leva-se mais de 10 minutos para conseguir um carro por aplicativo. Porém, tem várias linhas de ônibus que atendem a região.
 
 > Recomendação de aplicativo de mobilidade: [Moovit](https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-Belo_Horizonte-843)
+
+## Cineart - Ponteio
+
+...
