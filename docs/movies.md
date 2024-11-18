@@ -11,6 +11,7 @@ head:
 [cineart-cidade]:movie-theaters-list.html#cineart-shopping-cidade
 [cineart-minas-shopping]:movie-theaters-list.html#cineart-minas-shopping
 [cinemark-patio-savassi]:movie-theaters-list.html#cinemark-patio-savassi
+[cineart-ponteio]:movie-theaters-list.html#cineart-ponteio
 <!-- Fim das variáveis -->
 
 # Filmes
@@ -20,18 +21,21 @@ head:
 
 ## Resumo
 
-|Filme|Gênero|Cinema|
-|:---:|:---:|:---:|
-|[Minha irmã e eu](#minha-irma-e-eu)|Comédia|[Cineart Cidade][cineart-cidade]|
-|[Duna 2](#duna-2)|Ficção|[Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard]|
-|[Guerra Civil](#guerra-civil)|Ação|[Cineart Minas Shopping][cineart-minas-shopping]|
-|[Godzilla e Kong](#godzilla-e-kong)|Ficção|[Cineart Boulevard][cineart-boulevard]|
-|[Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado)|Ficção|[Cineart Cidade][cineart-cidade]|
-|[Deadpool e Wolverine](#deadpoll-e-wolverine)|Ação|[Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard]|
-|[The Crow (2024)](#the-crow-2024)|Terror|[Cinemark Patio Savassi][cinemark-patio-savassi]|
-|[Pisque duas vezes](#pisque-duas-vezes)|Suspense|[Cinemark Patio Savassi][cinemark-patio-savassi]|
-|[Coringa: Delírio a dois](#coringa-delirio-a-dois)|Triller e Musical|[Cineart Boulevard][cineart-boulevard]|
-|[Venom: A Última Rodada](#venom-a-ultima-rodada)|Ação|[Cineart Cidade][cineart-cidade]|
+|                              Filme                               |      Gênero       |                                Cinema                                 |
+| :--------------------------------------------------------------: | :---------------: | :-------------------------------------------------------------------: |
+|               [Minha irmã e eu](#minha-irma-e-eu)                |      Comédia      |                   [Cineart Cidade][cineart-cidade]                    |
+|                        [Duna 2](#duna-2)                         |      Ficção       | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                  [Guerra Civil](#guerra-civil)                   |       Ação        |           [Cineart Minas Shopping][cineart-minas-shopping]            |
+|               [Godzilla e Kong](#godzilla-e-kong)                |      Ficção       |                [Cineart Boulevard][cineart-boulevard]                 |
+| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |      Ficção       |                   [Cineart Cidade][cineart-cidade]                    |
+|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |       Ação        | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                [The Crow (2024)](#the-crow-2024)                 |      Terror       |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
+|             [Pisque duas vezes](#pisque-duas-vezes)              |     Suspense      |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
+|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        | Triller e Musical |                [Cineart Boulevard][cineart-boulevard]                 |
+|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |       Ação        |                   [Cineart Cidade][cineart-cidade]                    |
+|                 [O segundo ato](#o-segundo-ato)                  |       Drama       |                  [Cineart Ponteio][cineart-ponteio]                   |
+|              [Ainda estou aqui](#ainda-estou-aqui)               |       Drama       |                  [Cineart Ponteio][cineart-ponteio]                   |
+
 
 ## Sobre
 
