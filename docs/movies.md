@@ -95,7 +95,7 @@ A história, apesar de no início parecer só mais um filme como Corra e Midsomm
 
 No filme, Venom e Eddie estão a ser cassados por possuir o codex (nome ótimo e original, diga-se de passagem) - que é basicamente, uma espécie de fórmula para criar outros simbiontes.
 
-Na tentativa de fuga, Eddie acaba **acidentalmente** encontrando uma família meio conspiracionista meio ‘hippie’ em busca de ver a área 51 antes que ela fosse desativada e a partir daí, praticamente, que o filme começa.
+Na tentativa de fuga, Eddie acaba **acidentalmente** encontrando uma família meio conspiracionista meio 'hippie' em busca de ver a área 51 antes que ela fosse desativada e a partir daí, praticamente, que o filme começa.
 
 No filme tem tudo do mais clichê:
 
@@ -103,12 +103,18 @@ No filme tem tudo do mais clichê:
 - Os cientistas, muito humanos, querendo fazer tudo direitinho
 - e um indivíduo que sabe de tudo o que vai acontecer e é a Wikipédia do filme
 
-Não é bom. Também não é engraçado e não se salva por esse aspeto como o filme anterior do Venom.
+Não é bom. Também não é engraçado e não se salva por esse aspecto como o filme anterior do Venom.
 
 ### O segundo ato
 
-...
+É um filme francês sobre um filme que está a ser gravado, escrito e dirigido por uma AI. O filme é uma comédia leve e bem humorada, com cenas e diálogos longuíssimos que quebram a quarta parede dentro da quarta parede (a primeira pelo filme que está a ser gravado, a segunda pelo filme que estamos a assistir).
+
+O filme é bom, é uma crítica bem humorada ao cinema e a indústria cinematográfica.  
 
 ### Ainda estou aqui
 
-...
+Até agora, da lista, este é o filme mais emocionante. Por ser um filme baseado em 'fatos reais' e o desaparecimento ser o fato que desencadeia a história, o filme é muito emocionante. 
+
+A atuação da Fernanda Torres enquanto mãe de cinco filhos e uma esposa atrás do seu marido é um dos destaques do filme. No final, a participação da mãe dela, a Fernanda Montenegro é a estaca que faltava para o espectador se debruçar em lágrimas. 
+
+Nesse filme, as pequenas coisas são as que mais importam. No final, já nos créditos, as fotografias reais da família que inspirou o filme são mostradas e aí, se sobrou alguma ficha, ela cai.
