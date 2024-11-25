@@ -32,4 +32,7 @@ features:
   - link: https://letterboxd.com/gabriers/
     title: 🎭 Eu no Letterboxd
     details: Filmes que vi com breves resenhas (a maioria ainda não tem rsrs)
+  - link: https://maps.google.com
+    title: 🗺️ Roteiro de cinemas
+    details: Roteiro de cinemas de Belo Horizonte para você visitar!
 ---
