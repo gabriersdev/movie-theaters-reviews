@@ -22,7 +22,7 @@ head:
 ## Lista
 
 |                              Filme                               |      Gênero       |                                Cinema                                 |
-| :--------------------------------------------------------------: | :---------------: | :-------------------------------------------------------------------: |
+|:----------------------------------------------------------------:|:-----------------:|:---------------------------------------------------------------------:|
 |               [Minha irmã e eu](#minha-irma-e-eu)                |      Comédia      |                   [Cineart Cidade][cineart-cidade]                    |
 |                        [Duna 2](#duna-2)                         |      Ficção       | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
 |                  [Guerra Civil](#guerra-civil)                   |       Ação        |           [Cineart Minas Shopping][cineart-minas-shopping]            |
@@ -35,6 +35,7 @@ head:
 |         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |       Ação        |                   [Cineart Cidade][cineart-cidade]                    |
 |                 [O segundo ato](#o-segundo-ato)                  |       Drama       |                  [Cineart Ponteio][cineart-ponteio]                   |
 |              [Ainda estou aqui](#ainda-estou-aqui)               |       Drama       |                  [Cineart Ponteio][cineart-ponteio]                   |
+|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |     Comédiao      |           [Cineart Minas Shopping][cineart-minas-shopping]            |
 
 
 ## Minha irmã e eu
@@ -116,3 +117,7 @@ Até agora, da lista, este é o filme mais emocionante. Por ser um filme baseado
 A atuação da Fernanda Torres enquanto mãe de cinco filhos e uma esposa atrás do seu marido é um dos destaques do filme. No final, a participação da mãe dela, a Fernanda Montenegro é a estaca que faltava para o espectador se debruçar em lágrimas. 
 
 Nesse filme, as pequenas coisas são as que mais importam. No final, já nos créditos, as fotografias reais da família que inspirou o filme são mostradas e aí, se sobrou alguma ficha, ela cai.
+
+## O Auto da Compadecida 2 
+
+O filme é uma comédia leve e bem humorada. Não espere muito desse filme, por quê é uma continuação de filme que estreou há 20 anos. Vários personagens aqui foram substituídos, e não houve cuidado algum com a similaridade entre os atores. O filme é bom, mas não é o melhor filme de comédia que você vai assistir.   
