@@ -7944,7 +7944,6 @@ function useSwipe(target, options = {}) {
     lengthX: diffX,
     lengthY: diffY,
     stop,
-    // TODO: Remove in the next major version
     isPassiveEventSupported: true
   };
 }
