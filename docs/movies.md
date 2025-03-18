@@ -26,22 +26,23 @@ head:
 
 ## Lista
 
-|                              Filme                               |      Gênero       |                                Cinema                                 |
-|:----------------------------------------------------------------:|:-----------------:|:---------------------------------------------------------------------:|
-|               [Minha irmã e eu](#minha-irma-e-eu)                |      Comédia      |                   [Cineart Cidade][cineart-cidade]                    |
-|                        [Duna 2](#duna-2)                         |      Ficção       | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                  [Guerra Civil](#guerra-civil)                   |       Ação        |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|               [Godzilla e Kong](#godzilla-e-kong)                |      Ficção       |                [Cineart Boulevard][cineart-boulevard]                 |
-| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |      Ficção       |                   [Cineart Cidade][cineart-cidade]                    |
-|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |       Ação        | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                [The Crow (2024)](#the-crow-2024)                 |      Terror       |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
-|             [Pisque duas vezes](#pisque-duas-vezes)              |     Suspense      |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
-|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        | Triller e Musical |                [Cineart Boulevard][cineart-boulevard]                 |
-|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |       Ação        |                   [Cineart Cidade][cineart-cidade]                    |
-|                 [O segundo ato](#o-segundo-ato)                  |       Drama       |                  [Cineart Ponteio][cineart-ponteio]                   |
-|              [Ainda estou aqui](#ainda-estou-aqui)               |       Drama       |                  [Cineart Ponteio][cineart-ponteio]                   |
-|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |     Comédiao      |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|                      [Conclave](#conclave)                       |     Thriller      |                [Cineart Boulevard][cineart-boulevard]                 | 
+|                              Filme                               |  Gênero  |                                Cinema                                 |
+|:----------------------------------------------------------------:|:--------:|:---------------------------------------------------------------------:|
+|               [Minha irmã e eu](#minha-irma-e-eu)                | Comédia  |                   [Cineart Cidade][cineart-cidade]                    |
+|                        [Duna 2](#duna-2)                         |  Ficção  | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                  [Guerra Civil](#guerra-civil)                   |   Ação   |           [Cineart Minas Shopping][cineart-minas-shopping]            |
+|               [Godzilla e Kong](#godzilla-e-kong)                |  Ficção  |                [Cineart Boulevard][cineart-boulevard]                 |
+| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |  Ficção  |                   [Cineart Cidade][cineart-cidade]                    |
+|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |   Ação   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                [The Crow (2024)](#the-crow-2024)                 |  Terror  |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
+|             [Pisque duas vezes](#pisque-duas-vezes)              | Suspense |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
+|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        | Musical  |                [Cineart Boulevard][cineart-boulevard]                 |
+|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |   Ação   |                   [Cineart Cidade][cineart-cidade]                    |
+|                 [O segundo ato](#o-segundo-ato)                  |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
+|              [Ainda estou aqui](#ainda-estou-aqui)               |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
+|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        | Comédiao |           [Cineart Minas Shopping][cineart-minas-shopping]            |
+|                      [Conclave](#conclave)                       | Thriller |                [Cineart Boulevard][cineart-boulevard]                 |
+|                  [O Brutalista](#o-brutalista)                   |  Drama   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
 
 ## Minha irmã e eu
 
@@ -95,8 +96,7 @@ reconhecido como um herói.
 Apesar de a trama ser concisa e eu não me recordar de nenhum furo de roteiro, a história é fraca - não dá vontade de
 continuar a ver o filme, e a vilã, irmã do professor Xavier, não é a melhor dos vilões.
 
-O filme é mais um de multiverso.
-Mais um para conta.
+> O filme é mais um de multiverso. Mais um para conta.
 
 ## The Crow (2024)
 
@@ -139,7 +139,7 @@ No filme tem tudo do mais clichê:
 - Os cientistas, muito humanos, querendo fazer tudo direitinho
 - e um indivíduo que sabe de tudo o que vai acontecer e é a Wikipédia do filme
 
-Não é bom. Também não é engraçado e não se salva por esse aspecto como o filme anterior do Venom.
+> Não é bom. Também não é engraçado e não se salva por esse aspecto como o filme anterior do Venom.
 
 ## O segundo ato
 
@@ -169,4 +169,53 @@ filme é bom, mas não é o melhor filme de comédia que você vai assistir.
 
 ## Conclave
 
-É bárbaro!! ... 
+É bárbaro!! No filme, o papa morreu e a cerimônia de escolha do novo papa precisa ser feita. O cardeal Lawrence,
+protagonista do filme está em dúvidas quanto a sua fé na Igreja e, ao mesmo tempo, é o responsável por organizar o
+conclave.
+
+Antes mesmo de começar, fica claro que há uma disputa entre várias facções (termo que o próprio filme usa) dentro da
+cúpula da Igreja, cada qual com sua agenda e interesses específicos. O aparecimento de um sarcedote do Afeganistão
+intriga os membros da cerimônia. Com o início do conclave, as disputas ficam ainda mais intensas, um suposto caso de
+corrupção e a existência de filho de um membro da Igreja contribuem para deixar o clima ainda mais hostil.
+
+Do lado de fora do Vaticano, atentados estão a ocorrer. Muitos ficam feridos e o cardeal tem que lidar com tudo isso.
+
+> É um filme tenso do início ao fim. O ator que faz o cardeal Lawrence é impecável. Um excelente filme.
+
+## O Brutalista
+
+Eu já falei muito mal desse filme, mas "volto atrás" em tudo que disse.
+
+Laslo Tóth é um arquiteto judeu que acabou de ser liberto de um campo de concentração. Ele foi separado da sua filha e
+da esposa, e agora está a caminho dos Estados Unidos. Com esperanças de construir a sua vida de novo, ele chega a NY e a
+primeira coisa que vê é a estátua da Liberdade. Mas, na visão dele, ela não está como a conhecemos. Normalmente
+esperaríamos ver a estátua de baixo para cima, mas Laslo vê uma estátua distorcida, que se movimenta e chega a fica de
+ponta a cabeça...
+
+Em NY ele recebe a ajuda do seu primo, que construiu uma pequena empresa de móveis. A ideia é que junto de Laslo ele
+possa ter mais clientes. A esposa de do arquiteto mandava cartas para o primo e contou que estava na Europa junto da
+filha. Mas a parceria não dura muito. A esposa do seu primo, descontente com ter Laslo na sua casa, cria uma intriga e o
+arquiteto acaba morando em albergue, vivendo de bicos e de caridade. Ele faz uso frequente de drogas, heroína, eu acho.
+
+Laslo, então, é convidado por um empresário para construir um espaço para a comunidade, na sua propriedade. O projeto é
+grande e Laslo o projeta em dimensões colossais: com amplas salas e corredores e uma capela, onde se forma uma cruz no
+altar através da luz do sol - dependendo da perspectiva a cruz fica invertida. Para o arquiteto, o objetivo do projeto é
+ser um bem social, mas com o tempo ficam claros os reais interesses do empresário. A sua esposa e filha finalmente
+deixam à Europa e passam a morar com o arquiteto. A mulher é jornalista e tem uma doença que a faz ter fortes dores e
+que dificultam a locomoção. Mas ela vive bem, com a ajuda da filha - uma menina recatada e retraída.
+
+Conforme as obras vão a avançar e os problemas de orçamento e imprevistos acontecem, Laslo fecha o seu mundo cada vez
+mais para dentro das paredes que ele projetou. Ele não aceita opiniões de outros profissionais, briga com os
+trabalhadores e negligencia a própria família. O uso de heroína agora se tornou um vício.
+
+[Disclaimer: a partir daqui o filme começa a correr e as coisas acontecem de forma muito rápida, fica um pouco confuso.]
+Ele vai até a Itália com o empresário, para escolherem o mármore, nessa viagem um "episódio de demonstração de poder".
+Novamente nos Estados Unidos, a esposa dele têm uma overdose. Quando se recupera, ela confronta o empresário, que
+desaparece.
+
+E aí o filme acaba. O que vêm depois é o mesmo que acontece em ["Ainda Estou Aqui"](#ainda-estou-aqui): uma retrospetiva
+contando o que aconteceu nos anos seguintes.
+
+> Apesar de o final ficar em aberto e o filme ser muito longo - e não é cansativo - é um bom filme. Claro que muitos não
+> vão gostar, talvez pelo tamanho, ou pelo fato de apenas contar uma história ou ainda pelo fato de ser totalmente
+> ficcional.
