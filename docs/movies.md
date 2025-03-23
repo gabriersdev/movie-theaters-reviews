@@ -40,9 +40,11 @@ head:
 |         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |   Ação   |                   [Cineart Cidade][cineart-cidade]                    |
 |                 [O segundo ato](#o-segundo-ato)                  |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
 |              [Ainda estou aqui](#ainda-estou-aqui)               |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
-|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        | Comédiao |           [Cineart Minas Shopping][cineart-minas-shopping]            |
+|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        | Comédia  |           [Cineart Minas Shopping][cineart-minas-shopping]            |
 |                      [Conclave](#conclave)                       | Thriller |                [Cineart Boulevard][cineart-boulevard]                 |
 |                  [O Brutalista](#o-brutalista)                   |  Drama   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                         [Better Man](#)                          | Musical  |                  [Cineart Ponteio][cineart-ponteio]                   | 
+|                           [Vitória](#)                           |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
 
 ## Minha irmã e eu
 
@@ -219,3 +221,5 @@ contando o que aconteceu nos anos seguintes.
 > Apesar de o final ficar em aberto e o filme ser muito longo - e não é cansativo - é um bom filme. Claro que muitos não
 > vão gostar, talvez pelo tamanho, ou pelo fato de apenas contar uma história ou ainda pelo fato de ser totalmente
 > ficcional.
+
+## Filme XXX
