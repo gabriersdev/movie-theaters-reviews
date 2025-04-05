@@ -1,4 +1,4 @@
-# Avaliações
+# Como funcionam as avaliações
 
 ## Objetivo
 

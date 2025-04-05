@@ -17,7 +17,7 @@ export default defineConfig({
 
     nav: [
       // { text: 'Home', link: '/' },
-      { text: 'Avaliações', link: '/reviews' },
+      { text: 'Avaliações', link: '/movies' },
       { text: 'Cinemas', link: '/movie-theaters-list' },
       { text: 'Ranking', link: '/ranking' },
     ],
@@ -28,7 +28,7 @@ export default defineConfig({
         items: [
           { text: 'Sobre', link: '/about' },
           { text: 'Metas', link: '/goals' },
-          { text: 'Avaliações', link: '/reviews' },
+          { text: 'Como funciona?', link: '/reviews' },
           { text: 'Cinemas', link: '/movie-theaters-list' },
           { text: 'Filmes', link: '/movies' },
           { text: 'Ranking', link: '/ranking' },
@@ -45,7 +45,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/gabriersdev/movie-theaters-reviews' }
+      { icon: 'github', link: 'https://github.com/gabriersdev/movie-theaters-reviews' },
+      { icon: 'letterboxd', link: 'https://letterboxd.com/gabriers/' }
     ],
 
     footer: {

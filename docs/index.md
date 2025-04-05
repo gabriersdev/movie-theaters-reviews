@@ -30,10 +30,10 @@ features:
   - link: /ranking.html
     title: 🎖️ Ranking
     details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora
+  - link: /map.html
+    title: 📌 Roteiro de cinemas
+    details: Todos os cinemas que foram ou serão visitados, reunidos em um mapa, pra você ver
   - link: https://letterboxd.com/gabriers/
     title: 🎭 Eu no Letterboxd
     details: Filmes que vi com breves resenhas (a maioria ainda não tem rsrs)
-#  - link: https://maps.google.com
-#    title: 🗺️ Roteiro de cinemas
-#    details: Roteiro de cinemas de Belo Horizonte para você visitar!
 ---
