@@ -1,7 +1,3 @@
-<script setup>
-  import DateStrFormatted from "./components/DateStrFormatted.vue";
-</script>
-
 ---
 layout: doc
 head:
@@ -9,6 +5,10 @@ head:
     - name: description
       content: Description
 ---
+
+<script setup>
+  import DateStrFormatted from "./components/DateStrFormatted.vue";
+</script>
 
 <!-- Variáveis -->
 
