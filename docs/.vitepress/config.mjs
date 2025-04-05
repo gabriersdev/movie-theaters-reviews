@@ -66,5 +66,19 @@ export default defineConfig({
         timeStyle: 'short'
       }
     },
-  }
+  },
+  
+  build: {
+    outDir: "./dist/",
+    rollupOptions: {
+      emptyOutDir: true,
+      output: {
+        manualChunks(id) {
+          if (id.includes("node_modules")) {
+            return id.split("/node_modules/").pop()?.split("/")[0];
+          }
+        }
+      }
+    }
+  },
 })

@@ -7,4 +7,6 @@
 > [!NOTE]
 > Quer saber em quais cinemas eu já fui? [Veja aqui](/goals.html)
 
-<MapWithPins/>
+<ClientOnly>
+  <MapWithPins/>
+</ClientOnly>
