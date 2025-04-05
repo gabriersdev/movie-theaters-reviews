@@ -1,6 +1,10 @@
 <template>
   <section class="mt-8 rounded-lg">
     <div id="map" class="h-[100vh] lg:h-[60vh] rounded-lg rounded-br-none"></div>
+    <div>
+      <h2>Lista</h2>
+      <ul id="list-items"></ul>
+    </div>
   </section>
 </template>
 
@@ -94,8 +98,15 @@ onMounted(() => {
     }
   ]
 
-  places.forEach(place => {
+  const divListItems = document.querySelector("#list-items")
+
+  places.toSorted((a, b) => a.name.localeCompare(b.name)).forEach(place => {
     L.marker([place.coords.x, place.coords.y]).addTo(map).bindPopup(`<b>${place.name}</b>&nbsp;<a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${place.coords.x},${place.coords.y}" rel="noopener noreferrer" target="_blank">Abrir</a>`)
+    if (divListItems) {
+      const li = document.createElement("li")
+      li.innerHTML = `<span>${place.name}</span><br><a href="https://www.google.com/maps/search/?api=1&query=${place.address}" target="_blank" rel="noreferrer noopener">${place.address}</a>`
+      divListItems.appendChild(li)
+    }
   })
 })
 </script>
