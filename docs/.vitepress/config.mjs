@@ -33,6 +33,7 @@ export default defineConfig({
           { text: 'Filmes', link: '/movies' },
           { text: 'Ranking', link: '/ranking' },
           { text: 'Galeria 🆕', link: '/imgs' },
+          { text: 'Roteiro 🆕', link: '/map' },
         ]
       },
       {
