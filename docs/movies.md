@@ -1,3 +1,7 @@
+<script setup>
+  import DateStrFormatted from "./components/DateStrFormatted.vue";
+</script>
+
 ---
 layout: doc
 head:
@@ -224,6 +228,8 @@ contando o que aconteceu nos anos seguintes.
 
 ## Better Man
 
+<DateStrFormatted date="23-03-2025" />
+
 > [!CAUTION]
 > **⚠️ Gatilho: suicídio, abuso de drogas e dependência** 
 >   
@@ -238,6 +244,8 @@ contando o que aconteceu nos anos seguintes.
 Fato é que o filme é bom. Em vários momentos tem mudanças bruscas no cenário em que a história se passa. Por sinal, é também muito bem produzido. Desse filme não tenho muito o que dizer, é a biografia dele, a história dele e da carreira que ele construiu. É a história do relacionamento complicado com o pai - que nunca foi presente na vida do menino, da avó paterna - e essa parte me pegou - que fez parte do crescimento dele e ele não esteve presente nos últimos momentos de vida dela...
 
 ## Vitória
+
+<DateStrFormatted date="23-03-2025" />
 
 No início eu fiquei confuso, meio incomodado com a atuação da Fernanda Montenegro, ela falava baixo e meio embolado, ficava difícil de entender e também em vários momentos era lenta - mas isso é coisa da idade. Chegar aos 90 anos não é pra qualquer um, passar dos 90 então...
 

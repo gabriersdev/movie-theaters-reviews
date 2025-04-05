@@ -32,6 +32,7 @@ export default defineConfig({
           { text: 'Cinemas', link: '/movie-theaters-list' },
           { text: 'Filmes', link: '/movies' },
           { text: 'Ranking', link: '/ranking' },
+          { text: 'Galeria 🆕', link: '/imgs' },
         ]
       },
       {
