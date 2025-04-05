@@ -16,7 +16,7 @@ head:
 |    [Cineart Cidade](#cineart-shopping-cidade)     |   Shopping Cidade    |      3      |
 | [Cineart Minas Shopping](#cineart-minas-shopping) |    Minas Shopping    |      1      |
 | [Cinemark Patio Savassi](#cinemark-patio-savassi) |    Patio Savassi     |      1      |
-|        [Cineart Ponteio](#cineart-ponteio)        | Ponteio Lar Shopping |      1      |
+|        [Cineart Ponteio](#cineart-ponteio)        | Ponteio Lar Shopping |      2      |
 
 ## Cineart - Shopping Boulevard
 

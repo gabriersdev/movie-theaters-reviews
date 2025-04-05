@@ -24,7 +24,8 @@ features:
   # - link: /movie-theaters-list
   #   title: Lista de Cinemas
   #   details: Uma classificação de todos os cinemas de Belo Horizonte que já avaliei
-  - title: ⭐ Avaliação dos cinemas
+  - link: /movies.html
+    title: ⭐ Avaliação dos cinemas e filmes
     details: Avaliando todos os cinemas da cidade de Belo Horizonte...
   - link: /ranking.html
     title: 🎖️ Ranking

@@ -24,7 +24,7 @@ head:
 > [!WARNING]
 > Nesta seção há breves resumos sobre os filmes que assisti para avaliar os cinemas. **Pode haver spoiler.**
 
-## Lista
+## ➡️ Lista - comece por aqui
 
 |                              Filme                               |  Gênero  |                                Cinema                                 |
 |:----------------------------------------------------------------:|:--------:|:---------------------------------------------------------------------:|
@@ -43,8 +43,8 @@ head:
 |       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        | Comédia  |           [Cineart Minas Shopping][cineart-minas-shopping]            |
 |                      [Conclave](#conclave)                       | Thriller |                [Cineart Boulevard][cineart-boulevard]                 |
 |                  [O Brutalista](#o-brutalista)                   |  Drama   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                         [Better Man](#)                          | Musical  |                  [Cineart Ponteio][cineart-ponteio]                   | 
-|                           [Vitória](#)                           |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
+|                    [Better Man](#better-man)                     | Musical  |                  [Cineart Ponteio][cineart-ponteio]                   | 
+|                       [Vitória](#vitoria)                        |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
 
 ## Minha irmã e eu
 
@@ -218,11 +218,35 @@ desaparece.
 E aí o filme acaba. O que vêm depois é o mesmo que acontece em ["Ainda Estou Aqui"](#ainda-estou-aqui): uma retrospetiva
 contando o que aconteceu nos anos seguintes.
 
-> Apesar de o final ficar em aberto e o filme ser muito longo - e não é cansativo - é um bom filme. Claro que muitos não
+> Apesar de o final ficar em aberto e o filme ser muito longo - mas não é cansativo - é um bom filme. Claro que muitos não
 > vão gostar, talvez pelo tamanho, ou pelo fato de apenas contar uma história ou ainda pelo fato de ser totalmente
 > ficcional.
 
-## Filme XXX
+## Better Man
 
-...
+> [!CAUTION]
+> **⚠️ Gatilho: suicídio, abuso de drogas e dependência** 
+>   
+> Este filme aborda o tema de forma explícita e visual. Se você é sensível ao tema ou está num momento difícil, não assista. 
 
+> Comecei com o filme rolando há uns 30 minutos. Me atrasei por quê confundi os pontos de ônibus do 3050...
+
+"Better Man", ou "Melhor Homem", em português é um filme fantástico. Este foi o primeiro musical que vi nos últimos anos genuinamente bom e que não me causou uma crise de ansiedade, esperando pelo final. 
+
+É a história de Robbie Willians, um músico que eu sequer sabia da existência. No filme, ele é um chimpanzé - provavelmente porquê para as pessoas ele era muito descolado e divertido, sei lá. 
+
+Fato é que o filme é bom. Em vários momentos tem mudanças bruscas no cenário em que a história se passa. Por sinal, é também muito bem produzido. Desse filme não tenho muito o que dizer, é a biografia dele, a história dele e da carreira que ele construiu. É a história do relacionamento complicado com o pai - que nunca foi presente na vida do menino, da avó paterna - e essa parte me pegou - que fez parte do crescimento dele e ele não esteve presente nos últimos momentos de vida dela...
+
+## Vitória
+
+No início eu fiquei confuso, meio incomodado com a atuação da Fernanda Montenegro, ela falava baixo e meio embolado, ficava difícil de entender e também em vários momentos era lenta - mas isso é coisa da idade. Chegar aos 90 anos não é pra qualquer um, passar dos 90 então...
+
+Com alguns minutos de tela já dá pra acostumar. Se você viu o trailer sabe do que se trata. Se não, eu vou contar: é a história de uma moradora de um bairro na periferia do Rio. Atordoada pelo crescimento do tráfico e da violência da região ela resolve tomar alguma atitude.
+
+Ela mora sozinha e ganha a vida fazendo massagens - ela aprendeu vendo a massagista de uma antiga patroa trabalhando. Mora em um prédio pequeno e de frente pra ele têm um aglomerado de casas - é lá que ficam os traficantes e é de lá também que saem as imagens que ela captura.
+
+A Fernanda com certeza foi a atriz perfeita para o papel - não somente pelo fato de ela, apenas fisicamente, já impactar quem vê com as atitudes que ela toma, mas também por conseguir emocionar quem assiste, ao ver o quão disposta a idosa estava para que alguém - ela queria a polícia - tomasse alguma atitude com aquilo que ela via pela janela.
+
+Vitória não é um filme policial, não é de investigação, não é um filme de suspense. É baseado em uma história real, não só da idosa que inspirou o filme, mas também de milhões de outros brasileiros que dia sim, dia também, vê - talvez não de uma janela - a inação do poder público, a canalice comendo solta e o crime, na frente de casa.
+
+> Se filmes genuinamente merecedores ganhassem o Oscar, "Vitória" mereceria um.
