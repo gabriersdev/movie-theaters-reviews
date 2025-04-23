@@ -14,7 +14,7 @@ head:
 |:-------------------------------------------------:|:--------------------:|:-----------:|
 | [Cineart Boulevard](#cineart-shopping-boulevard)  |  Shopping Boulevard  |      6      |
 |    [Cineart Cidade](#cineart-shopping-cidade)     |   Shopping Cidade    |      3      |
-| [Cineart Minas Shopping](#cineart-minas-shopping) |    Minas Shopping    |      1      |
+| [Cineart Minas Shopping](#cineart-minas-shopping) |    Minas Shopping    |      3      |
 | [Cinemark Patio Savassi](#cinemark-patio-savassi) |    Patio Savassi     |      1      |
 |        [Cineart Ponteio](#cineart-ponteio)        | Ponteio Lar Shopping |      2      |
 
@@ -50,6 +50,9 @@ bastante pipoca e um refri médio por menos de 30 reais.
 
 O acesso ao shopping assim como os três anteriores é fácil. Ao lado do shopping tem a estação de metrô Minas Shopping e
 o centro de compras fica na avenida Cristiano Machado, uma das principais da cidade.
+
+> [!NOTE]
+> A qualidade da imagem na tela não é das melhores, para não dizer que é ruim. Na última vez que fui, em 19 de abril de 2025, a imagem da tela na sala 04 estava muito escura, prejudicando, enormemente a experiência assistindo ao filme.
 
 > O atendimento dessa unidade em específico não é dos melhores.
 

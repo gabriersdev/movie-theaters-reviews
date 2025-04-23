@@ -30,25 +30,26 @@ head:
 
 ## ➡️ Lista - comece por aqui
 
-|                              Filme                               |  Gênero  |                                Cinema                                 |
-|:----------------------------------------------------------------:|:--------:|:---------------------------------------------------------------------:|
-|               [Minha irmã e eu](#minha-irma-e-eu)                | Comédia  |                   [Cineart Cidade][cineart-cidade]                    |
-|                        [Duna 2](#duna-2)                         |  Ficção  | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                  [Guerra Civil](#guerra-civil)                   |   Ação   |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|               [Godzilla e Kong](#godzilla-e-kong)                |  Ficção  |                [Cineart Boulevard][cineart-boulevard]                 |
-| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |  Ficção  |                   [Cineart Cidade][cineart-cidade]                    |
-|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |   Ação   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                [The Crow (2024)](#the-crow-2024)                 |  Terror  |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
-|             [Pisque duas vezes](#pisque-duas-vezes)              | Suspense |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
-|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        | Musical  |                [Cineart Boulevard][cineart-boulevard]                 |
-|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |   Ação   |                   [Cineart Cidade][cineart-cidade]                    |
-|                 [O segundo ato](#o-segundo-ato)                  |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
-|              [Ainda estou aqui](#ainda-estou-aqui)               |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
-|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        | Comédia  |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|                      [Conclave](#conclave)                       | Thriller |                [Cineart Boulevard][cineart-boulevard]                 |
-|                  [O Brutalista](#o-brutalista)                   |  Drama   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                    [Better Man](#better-man)                     | Musical  |                  [Cineart Ponteio][cineart-ponteio]                   | 
-|                       [Vitória](#vitoria)                        |  Drama   |                  [Cineart Ponteio][cineart-ponteio]                   |
+|                              Filme                               |   Gênero   |                                Cinema                                 |
+|:----------------------------------------------------------------:|:----------:|:---------------------------------------------------------------------:|
+|               [Minha irmã e eu](#minha-irma-e-eu)                |  Comédia   |                   [Cineart Cidade][cineart-cidade]                    |
+|                        [Duna 2](#duna-2)                         |   Ficção   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                  [Guerra Civil](#guerra-civil)                   |    Ação    |           [Cineart Minas Shopping][cineart-minas-shopping]            |
+|               [Godzilla e Kong](#godzilla-e-kong)                |   Ficção   |                [Cineart Boulevard][cineart-boulevard]                 |
+| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |   Ficção   |                   [Cineart Cidade][cineart-cidade]                    |
+|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |    Ação    | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                [The Crow (2024)](#the-crow-2024)                 |   Terror   |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
+|             [Pisque duas vezes](#pisque-duas-vezes)              |  Suspense  |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
+|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        |  Musical   |                [Cineart Boulevard][cineart-boulevard]                 |
+|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |    Ação    |                   [Cineart Cidade][cineart-cidade]                    |
+|                 [O segundo ato](#o-segundo-ato)                  |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
+|              [Ainda estou aqui](#ainda-estou-aqui)               |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
+|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |  Comédia   |           [Cineart Minas Shopping][cineart-minas-shopping]            |
+|                      [Conclave](#conclave)                       |  Thriller  |                [Cineart Boulevard][cineart-boulevard]                 |
+|                  [O Brutalista](#o-brutalista)                   |   Drama    | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
+|                    [Better Man](#better-man)                     |  Musical   |                  [Cineart Ponteio][cineart-ponteio]                   | 
+|                       [Vitória](#vitoria)                        |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
+|                     [Pecadores](#pecadores)                      | Terror (?) |           [Cineart Minas Shopping][cineart-minas-shopping]            |
 
 ## Minha irmã e eu
 
@@ -231,17 +232,18 @@ contando o que aconteceu nos anos seguintes.
 <DateStrFormatted date="23-03-2025" />
 
 > [!CAUTION]
-> **⚠️ Gatilho: suicídio, abuso de drogas e dependência** 
->   
-> Este filme aborda o tema de forma explícita e visual. Se você é sensível ao tema ou está num momento difícil, não assista. 
+> **⚠️ Gatilho: suicídio, abuso de drogas e dependência**
+>
+> Este filme aborda o tema de forma explícita e visual. Se você é sensível ao tema ou está num momento difícil, não assista.
 
 > Comecei com o filme rolando há uns 30 minutos. Me atrasei por quê confundi os pontos de ônibus do 3050...
 
-"Better Man", ou "Melhor Homem", em português é um filme fantástico. Este foi o primeiro musical que vi nos últimos anos genuinamente bom e que não me causou uma crise de ansiedade, esperando pelo final. 
+"Better Man", ou "Melhor Homem", em português é um filme fantástico. Este foi o primeiro musical que vi nos últimos anos genuinamente bom e que não me causou uma crise de ansiedade, esperando pelo final.
 
-É a história de Robbie Willians, um músico que eu sequer sabia da existência. No filme, ele é um chimpanzé - provavelmente porquê para as pessoas ele era muito descolado e divertido, sei lá. 
+É a história de Robbie Willians, um músico que eu sequer sabia da existência. No filme, ele é um chimpanzé - provavelmente porquê para as pessoas ele era muito descolado e divertido, sei lá.
 
-Fato é que o filme é bom. Em vários momentos tem mudanças bruscas no cenário em que a história se passa. Por sinal, é também muito bem produzido. Desse filme não tenho muito o que dizer, é a biografia dele, a história dele e da carreira que ele construiu. É a história do relacionamento complicado com o pai - que nunca foi presente na vida do menino, da avó paterna - e essa parte me pegou - que fez parte do crescimento dele e ele não esteve presente nos últimos momentos de vida dela...
+Fato é que o filme é bom. Em vários momentos tem mudanças bruscas no cenário em que a história se passa. Por sinal, é também muito bem produzido. Desse filme não tenho muito o que dizer, é a biografia dele, a história dele e da carreira que ele construiu. É a história do relacionamento complicado com o pai - que nunca foi presente na vida do menino, da avó paterna - e essa parte me pegou - que fez
+parte do crescimento dele e ele não esteve presente nos últimos momentos de vida dela...
 
 ## Vitória
 
@@ -258,3 +260,17 @@ A Fernanda com certeza foi a atriz perfeita para o papel - não somente pelo fat
 Vitória não é um filme policial, não é de investigação, não é um filme de suspense. É baseado em uma história real, não só da idosa que inspirou o filme, mas também de milhões de outros brasileiros que dia sim, dia também, vê - talvez não de uma janela - a inação do poder público, a canalice comendo solta e o crime, na frente de casa.
 
 > Se filmes genuinamente merecedores ganhassem o Oscar, "Vitória" mereceria um.
+
+## Pecadores
+
+<DateStrFormatted date="19-04-2025" />
+
+Uma patacoada. Sinceramente, se você espera alguma coisa desse filme você vive em Marte - ou não, talvez você só tenha mais saco que eu para a história do filme. 
+
+Para quem não está ligado, a lore é a seguinte: dois irmãos encrenqueiros e metidos à gangster deixam Chicago e voltam para um vilarejo que eles já viveram algum tempo. Em Chicago eles roubaram alguém muito rico e que tinha muitos destilados, aí eles levam toda a carga roubada e uma bolada de dinheiro para este vilarejo.
+
+Lá, eles compram um seleiro e nele resolvem construir um bar. Na inauguração, eles chamam a comunidade para festejar, bebem e dançam horrores e no meio da festa, um trio de estranhos aparecem e querem ser convidados para entrar. Eles desconfiam e não deixam, mas a namorada (ou ficante) de um dos irmãos resolve por conta própria e livre e espontânea vontade ir falar com os estranhos. Nessa, ela acaba virando um vampiro e a partir dai é ladeira abaixo.
+
+Não sei se algo salva essa bomba, talvez a trilha sonora, a edição - cheia de cortes que quebram a sequência de interações ou talvez o fato de o filme terminar - eles mostram os créditos junto de trechos da história - e depois continua, como se fosse um pós-créditos dentro do filme.
+
+> Não é perseguição, mas este é mais um filme ruim, péssimo, terrível, para o currículo do Michael B. Jordan - que até então só tem filmes ruins... (minha opinião)
