@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="columns-2 gap-4 space-y-4">
-      <img v-for="(img, index) in images" :key="index" :src="img" class="w-full rounded-lg" alt="Foto do cinema e/ou do deslocamento para o cinema" @click="handleCLick"/>
+      <img v-for="(img, index) in images" :key="index" :src="img" class="w-full rounded-lg cursor-pointer" alt="Foto do cinema e/ou do deslocamento para o cinema" @click="handleCLick"/>
     </div>
   </div>
 </template>
