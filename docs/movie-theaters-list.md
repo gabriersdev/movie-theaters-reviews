@@ -13,7 +13,7 @@ head:
 |                      Cinema                       |        Local         | N.º visitas |
 |:-------------------------------------------------:|:--------------------:|:-----------:|
 | [Cineart Boulevard](#cineart-shopping-boulevard)  |  Shopping Boulevard  |      6      |
-|    [Cineart Cidade](#cineart-shopping-cidade)     |   Shopping Cidade    |      3      |
+|    [Cineart Cidade](#cineart-shopping-cidade)     |   Shopping Cidade    |      4      |
 | [Cineart Minas Shopping](#cineart-minas-shopping) |    Minas Shopping    |      3      |
 | [Cinemark Patio Savassi](#cinemark-patio-savassi) |    Patio Savassi     |      1      |
 |        [Cineart Ponteio](#cineart-ponteio)        | Ponteio Lar Shopping |      2      |
@@ -37,7 +37,7 @@ O acesso ao shopping é fácil. Possui três entradas/saídas para diferentes ru
 Apesar de serem muitas as salas, nas duas vezes primeiras em que fui ao cinema, minha sessão foi na sala de número 4.
 Impressionantemente, nas duas ocasiões, havia um vagalume na sala. Porém, da primeira vez que fui, outra coisa me chamou
 a atenção: a limpeza. Muita pipoca e restos de embalagens no chão. Da segunda vez em que fui ao cinema, na mesma sala,
-não reparei na limpeza. Na terceira vez em que fui ao Cidade, a sala 6 estava bem limpa e agradável
+não reparei na limpeza. Na terceira vez em que fui ao Cidade, a sala 6 estava bem limpa e agradável. Na 4ª vez que fui ao Cineart deles, na sala 5, também tinha um vagalume :D
 
 ## Cineart - Minas Shopping
 
