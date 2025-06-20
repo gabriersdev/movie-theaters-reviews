@@ -4,12 +4,12 @@ import {onMounted, ref} from 'vue'
 const map = ref(null)
 
 onMounted(async () => {
-  const L = await import('leaflet')
-  const mapInstance = L.map('map').setView([-19.9191, -43.9386], 11)
-
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-  }).addTo(mapInstance)
+  // const L = await import('leaflet')
+  // const mapInstance = L.map('map').setView([-19.9191, -43.9386], 11)
+  //
+  // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  //   attribution: '&copy; OpenStreetMap contributors'
+  // }).addTo(mapInstance)
 
   const places = [
     {
@@ -92,20 +92,20 @@ onMounted(async () => {
   const divListItems = document.querySelector("#list-items")
 
   places.toSorted((a, b) => a.name.localeCompare(b.name)).forEach(place => {
-    L.marker([parseFloat(place.coords.x), parseFloat(place.coords.y)]).addTo(mapInstance).bindPopup(`<b>${place.name}</b>&nbsp;<a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${place.coords.x},${place.coords.y}" rel="noopener noreferrer" target="_blank">Abrir</a>`)
+    // L.marker([parseFloat(place.coords.x), parseFloat(place.coords.y)]).addTo(mapInstance).bindPopup(`<b>${place.name}</b>&nbsp;<a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${place.coords.x},${place.coords.y}" rel="noopener noreferrer" target="_blank">Abrir</a>`)
     if (divListItems) {
       const li = document.createElement("li")
       li.innerHTML = `<span>${place.name}</span><br><a href="https://www.google.com/maps/search/?api=1&query=${place.address}" target="_blank" rel="noreferrer noopener">${place.address}</a>`
       divListItems.appendChild(li)
     }
   })
-  map.value = mapInstance
+  // map.value = mapInstance
 })
 </script>
 
 <template>
   <section class="mt-8 rounded-lg">
-    <div id="map" class="h-[100vh] lg:h-[60vh] rounded-lg rounded-br-none"></div>
+    <!-- <div id="map" class="h-[100vh] lg:h-[60vh] rounded-lg rounded-br-none"></div> -->
     <div>
       <h2>Lista</h2>
       <ul id="list-items"></ul>
