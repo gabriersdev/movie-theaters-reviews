@@ -5,7 +5,12 @@ import './custom.css'
 
 export default {
   ...DefaultTheme,
+  enhanceApp({app, router, siteData}) {
+    if (typeof document === 'undefined') return null;
+  },
   setup() {
+    if (typeof document === 'undefined') return null;
+    
     const defaultSetup = DefaultTheme.setup ? DefaultTheme.setup() : undefined;
     const router = useRouter();
     

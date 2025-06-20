@@ -44,7 +44,9 @@ const handleCLick = (e: MouseEvent): void => {
   const {src} = e.target
 
   if (src) {
-    const dialog = document.createElement('dialog')
+    if (typeof document === 'undefined') return;
+
+    const dialog = document?.createElement('dialog')
     dialog.classList.add('modal-dialog')
 
     const onclickEvent = dialog.onclick = () => {
@@ -52,9 +54,9 @@ const handleCLick = (e: MouseEvent): void => {
       console.log("Clicked outside dialog")
     }
 
-    const div = document.createElement('div')
+    const div = document?.createElement('div')
 
-    const img = document.createElement('img')
+    const img = document?.createElement('img')
     img.classList.value = 'img-dialog'
     img.src = src
 
@@ -67,7 +69,7 @@ const handleCLick = (e: MouseEvent): void => {
     div.appendChild(img)
     dialog.appendChild(div)
 
-    document.body.appendChild(dialog)
+    document?.body.appendChild(dialog)
     dialog.showModal()
 
     dialog.addEventListener('close', () => {

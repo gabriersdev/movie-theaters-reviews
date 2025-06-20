@@ -18,7 +18,7 @@ hero:
       link: /movies
 
 features:
-  - link: /ranking
+  - link: /movie-theaters-list
     title: 🎖️ Ranking e reviews dos cinemas
     details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora.
   - link: /movies
