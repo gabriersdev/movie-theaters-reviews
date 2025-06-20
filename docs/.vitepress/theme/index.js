@@ -1,7 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import {onMounted, watch} from "vue";
 import {useRouter} from "vitepress";
-import './style.css'
+import './custom.css'
 
 export default {
   ...DefaultTheme,
@@ -12,7 +12,7 @@ export default {
     const updateTexts = () => {
       // Traduz textos
       Array.from(document.querySelectorAll("body *")).filter(el => [
-        "note", "important", "tip", "previous page", "next page", "caution", "search"
+        "note", "important", "tip", "previous page", "next page", "caution", "search", "warning",
       ].includes(el.textContent.toLowerCase())).forEach(el => {
         switch (el.textContent.toLowerCase()) {
           case 'note':
@@ -20,6 +20,9 @@ export default {
             break;
           case 'important':
             el.textContent = 'IMPORTANTE';
+            break;
+          case 'warning':
+            el.textContent = 'ATENÇÃO';
             break;
           case 'tip':
             el.textContent = 'SAIBA MAIS';
