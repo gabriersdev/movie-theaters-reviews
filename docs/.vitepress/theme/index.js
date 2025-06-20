@@ -11,7 +11,7 @@ export default {
     
     const updateTexts = () => {
       // Traduz textos
-      Array.from(document.querySelectorAll("body *")).filter(el => [
+      Array.from(document?.querySelectorAll("body *")).filter(el => [
         "note", "important", "tip", "previous page", "next page", "caution", "search", "warning",
       ].includes(el.textContent.toLowerCase())).forEach(el => {
         switch (el.textContent.toLowerCase()) {
@@ -44,7 +44,7 @@ export default {
     }
     
     const updateElementClasses = () => {
-      Array.from(document.querySelectorAll(".VPFeatures.VPHomeFeatures .container .items .item")).forEach((el, i) => {
+      Array.from(document?.querySelectorAll(".VPFeatures.VPHomeFeatures .container .items .item")).forEach((el, i) => {
         if ([0, 1].includes(i)) el.classList.value = "item grid-2"
         else if ([2, 3].includes(i)) el.classList.value = "item grid-4"
         else el.classList.value = "item grid-2"
