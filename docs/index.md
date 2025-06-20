@@ -5,16 +5,19 @@ layout: home
 hero:
   name: "Reviews dos Cinemas de Belo Horizonte"
   text: ""
-  tagline: Avaliação de cinemas usando o SSG VitePress com Markdown
+  tagline: Avaliação de cinemas da cidade. Falo aqui também dos filmes que vi.
   image:
     src: /movie-theater.jpg
     alt: Cinemas
   actions:
     - theme: brand
-      text: Reviews
-      link: /reviews
+      text: Ranking
+      link: /ranking
+    - theme: brand
+      text: Falação sobre os filmes
+      link: /filmes
     - theme: alt
-      text: Cinemas avaliados
+      text: Review dos Cinemas avaliados
       link: /movie-theaters-list
 
 features:
