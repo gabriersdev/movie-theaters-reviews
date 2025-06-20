@@ -12,24 +12,18 @@ hero:
   actions:
     - theme: brand
       text: Ranking e review dos cinemas
-      link: /ranking
+      link: /movie-theaters-list
     - theme: alt
       text: Falação sobre os filmes
       link: /movies
 
 features:
-  # - link: /reviews
-  #   title: Reviews
-  #   details: Veja todos os cinemas de Belo Horizonte avaliados por mim até agora
-  # - link: /movie-theaters-list
-  #   title: Lista de Cinemas
-  #   details: Uma classificação de todos os cinemas de Belo Horizonte que já avaliei
-  - link: /movies
-    title: ⭐ Falação sobre os filmes
-    details: Falando dos filmes que vi nos cinemas da cidade de Belo Horizonte...
   - link: /ranking
     title: 🎖️ Ranking e reviews dos cinemas
     details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora.
+  - link: /movies
+    title: ⭐ Falação sobre os filmes
+    details: Falando dos filmes que vi nos cinemas da cidade de Belo Horizonte...
   - link: /map
     title: 📌 Roteiro dos cinemas
     details: Todos os cinemas que foram ou serão visitados, reunidos em um mapa, pra você ver.

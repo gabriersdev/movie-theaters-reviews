@@ -28,7 +28,7 @@ export default {
             el.textContent = 'SAIBA MAIS';
             break;
           case 'caution':
-            el.textContent = 'ATENÇÃO';
+            el.textContent = 'AVISO';
             break;
           case 'previous page':
             el.textContent = 'Página anterior';

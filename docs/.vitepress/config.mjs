@@ -16,9 +16,8 @@ export default defineConfig({
     outlineTitle: 'Nesta página',
 
     nav: [
-      // { text: 'Home', link: '/' },
-      { text: 'Falação sobre os filmes', link: '/movies' },
       { text: 'Ranking e review dos cinemas', link: '/movie-theaters-list' },
+      { text: 'Falação sobre os filmes', link: '/movies' },
     ],
 
     sidebar: [

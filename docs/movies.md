@@ -21,6 +21,11 @@ head:
 [cinemark-patio-savassi]:movie-theaters-list.html#cinemark-patio-savassi
 
 [cineart-ponteio]:movie-theaters-list.html#cineart-ponteio
+
+[cineart-del-rey]:[/movies-threaters-list#cineart-del-rey]
+
+[una-belas-artes]:[/movies-threaters-list#una-belas-artes]
+
 <!-- Fim das variáveis -->
 
 # Filmes
@@ -29,6 +34,8 @@ head:
 > Nesta seção há breves resumos sobre os filmes que assisti para avaliar os cinemas. **Pode haver spoiler.**
 
 ## ➡️ Lista - comece por aqui
+
+Listado em ordem crescente a partir da data em que vi os filmes
 
 |                              Filme                               |   Gênero   |                                Cinema                                 |
 |:----------------------------------------------------------------:|:----------:|:---------------------------------------------------------------------:|
@@ -51,10 +58,10 @@ head:
 |                       [Vitória](#vitoria)                        |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
 |                     [Pecadores](#pecadores)                      | Terror (?) |           [Cineart Minas Shopping][cineart-minas-shopping]            |
 |            [A mulher no jardim](#a-mulher-no-jardim)             | Terror (?) |                   [Cineart Cidade][cineart-cidade]                    |
-|                       Lilo & Stich (2025)                        |  Infantil  |                                  ...                                  |
-|                            Bailarina                             |    Ação    |                                  ...                                  |
-|                              Manas                               |   Drama    |                                  ...                                  |
-|                        Entre dois mundos                         |   Drama    |                                  ...                                  |
+|             [Lilo & Stich (2025)](#lilo-stich-2025)              |  Infantil  |                  [Cineart Del Rey][cineart-del-rey]                   |
+|                     [Bailarina](#bailarina)                      |    Ação    |                  [Cineart Del Rey][cineart-del-rey]                   |
+|                         [Manas](#manas)                          |   Drama    |                  [Una Belas Artes][una-belas-artes]                   |
+|             [Entre dois mundos](#entre-dois-mundos)              |   Drama    |                  [Una Belas Artes][una-belas-artes]                   |
 
 ## Minha irmã e eu
 
@@ -119,6 +126,9 @@ loucamente por uma moça que ele conheceu a pouquíssimo tempo e sendo um jovem 
 os outros filmes entrarão na minha listinha para assistir.
 
 ## Pisque duas vezes
+
+> [!CAUTION]
+> ⚠️ Gatilho: abuso, violência
 
 Confesso que antes de assistir eu vi a resenha da Isabela Boscov sobre esse filme, e lá ela chamava a atenção para o
 trabalho feito com as cores neste filme, e sim, é fascinante! Tudo foi pensado nos mínimos detalhes e os tons
@@ -237,7 +247,7 @@ contando o que aconteceu nos anos seguintes.
 <DateStrFormatted date="23-03-2025" />
 
 > [!CAUTION]
-> **⚠️ Gatilho: suicídio, abuso de drogas e dependência**
+> ⚠️ Gatilho: suicídio, abuso de drogas e dependência
 >
 > Este filme aborda o tema de forma explícita e visual. Se você é sensível ao tema ou está num momento difícil, não assista.
 
@@ -296,3 +306,64 @@ Em um dia, uma mulher aparece no gramado da família. Ela é misteriosa, usa um 
 O tempo vai passando e a mulher chegando mais perto da casa, até que, em determinado momento, no fim de tarde, quando a noite estava prestes a chegar a mulher do jardim entra e começa o corre-corre para fugir dela.
 
 > A história não é interessante. A lore não te prende. Também não é um filme que te assusta. Eu me interessei por esse filme pela capa, não vi resenha, não vi ninguém falando sobre. Mas é bem ruim. Poderia dizer que a atuação do ator que interpreta filho é boa mas ele não teve muito o que fazer nesse filme, já que é tudo muito monótono e chato.
+
+## Lilo & Stich 2025
+
+<DateStrFormatted date="10-06-2025" />
+
+É literalmente o live action da animação. Com poucas mudanças, tipo:
+
+- Menos tempo de tela para o cientista que criou o Stich e o moço magrelo que vem com ele para a Terra
+- No live action o Stich aparece depois que a Lilo briga na apresentação de dança (na animação ele aparece antes)
+- E nesse filme também, diferente da animação o cientista é mais malvado. 
+
+Ainda assim é um filme legal. Entretivo. 
+
+## Bailarina 
+
+<DateStrFormatted date="10-06-2025" />
+
+É um filme do universo de John Wick. A protagonista do filme é uma menina que viu o pai ser morto quando era criança. Ela cresce dentro de uma legião e treinada para ser uma assassina. E é isso que ela se torna. Porém, quando encontram pessoas que tinham as mesmas cicatriz daquelas que mataram seu pai ela resolve ir atrás de justiça. 
+
+Bem, e isso que ela consegue. Até mandam o John Wick para parar ela mas ele "se solidariza" pela causa e ela consegue finalizar o plano, mas é claro, gera consequências. 
+
+Esse filme, é bem igual ao primeiro do John Wick. Uma coisa triste acontece e depois é o gatilho para iniciar a matança. E assim como no primeiro filme, no final de Bailarina, fazem um contrato pela morte dela no valor de 5 milhões. 
+
+Um bom filme. Ação bacana. Quem curte o universo de John Wick vai gostar desse filme. Ele foi o último papel do ator que faz o mordomo do Continental de NY, antes dele falecer.
+
+## Manas
+
+<DateStrFormatted date="11-06-2025" />
+
+> [!CAUTION]
+> ⚠️ Gatilho: abuso, violência
+
+Até então, "Vitória" tinha sido o último filme que tinha me tocado no cinema. Escolhi assistir Manas pela sinopse que estava no site do cinema:
+
+> Marcielle, uma jovem de 13 anos que vive na Ilha do Marajó (PA), começa a entender que o futuro não lhe reserva muitas opções. Encurralada pela resignação da mãe e movida pela idealização da figura da irmã que partiu, ela decide confrontar a engrenagem violenta que rege a sua família e as mulheres da sua comunidade.
+
+Eu juro que não tinha lido "Ilha de Marajó", por que senão lembraria imediatamente da fake news que circulou no ano passado (2024). Mas ainda assim, essa sinopse diz muito pouco sobre o que é o filme. E tá certo. Eu também não vi o traileir. Mas da metade em diante, o filme aborda diretamente as violências que as jovens da região sofrem.  
+
+Sem a presença do estado e no meio da Floresta Amazônica, cercada de água por todos os lados, viver na ilha é um exercício diário de sobrevivência. "Manas" é como as meninas se chamam. O filme não aborda as violências de forma escraxada. 
+
+Muito bem filmado, o espectador precisa estar atento ao que a câmera mostra. E é uma realidade desoladora e cruel.  
+
+Sem meios para se sustentar, as mulheres vivem dependendo dos seus maridos. E é essa a realidade na casa de Marcielle. A mãe, uma jovem, de uns vinte e poucos anos está a espera do quinto filho. Marcielle, é a filha mais velha na casa, mas tem uma irmã, Claúdia, que deixou a realidade e deu os próprios pulos para sair dali. 
+
+Na casa de palafita vive ela, o pai, a mãe, dois irmãos e uma outra irmã mais nova. Marcielle vai a escola, que não tem parede, onde vê outras meninas assim como ela, e também participa dos cultos e das atividades da igreja na ilha. 
+
+Ela não opções de um futuro ali. Com as violências diárias na vida da menina ela vai buscar alternativas, já que justiça, ali, não existe.
+
+> Eu saí da sala de cinema anestesiado. Eu escrevo esse texto mais de uma semana depois de ver o filme, e, sinceramente, até agora não superei. Tudo é muito triste.
+
+A diretora teve todo o cuidado de não tornar o filme um espetáculo público de violência. O que é mostrado é para que você, individualmente, tome consciência do que acontece lá e em tantos outros lugares onde crianças e adolescentes crescem à própria sorte.
+
+## Entre dois mundos
+
+<DateStrFormatted date="11-06-2025" />
+
+Não esperava nada desse filme e entregou tudo. Também escolhi assisti pelo resumo: "uma escritora resolve trabalhar como faxineira para escrever seu livro sobre faxineiras. Porém como será que as pessoas vão reagir ao saber da verdade?" - era mais ou menos isso. 
+
+Assim como o último filme francês que vi, [O Segundo Ato](#o-segundo-ato) esse filme é para refletir sobre a desigualdade - não de classe, mas de profissões. É impossível negar que esta desigualdade exista e esteja presente no dia à dia. E no filme isso vai ser escancarado no momento em que as melhores amigas - em especial a que é mãe de três meninos - descobre que a amiga, até então faxineira como ela, é, na verdade uma escritora, e está fazendo um livro sobre faxineiras. 
+
+A última frase do filme é algo tipo assim: "É melhor cada um saber o seu lugar".
