@@ -8,15 +8,20 @@ head:
 
 # Cinemas
 
-## Resumo
+## Classificação dos cinemas visitados
 
-|                      Cinema                       |        Local         | N.º visitas |
-|:-------------------------------------------------:|:--------------------:|:-----------:|
-| [Cineart Boulevard](#cineart-shopping-boulevard)  |  Shopping Boulevard  |      6      |
-|    [Cineart Cidade](#cineart-shopping-cidade)     |   Shopping Cidade    |      4      |
-| [Cineart Minas Shopping](#cineart-minas-shopping) |    Minas Shopping    |      3      |
-| [Cinemark Patio Savassi](#cinemark-patio-savassi) |    Patio Savassi     |      1      |
-|        [Cineart Ponteio](#cineart-ponteio)        | Ponteio Lar Shopping |      2      |
+Listado a partir dos melhores aos piores
+
+|                                                      Nome                                                       | Conceito  | Conforto, qualidade, preço e localização | Variedade do catálogo | N.º de visitas |
+|:---------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------:|:---------------------:|:--------------:|
+|                     [Belas Artes - Una Belas Artes](./movie-theaters-list#una-belas-artes)                      | Excelente |                    4                     |           5           |       1        |
+| [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |                    5                     |           4           |       4        |
+|                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |                    5                     |           5           |       2        |
+|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |                    5                     |           4           |       2        |
+|                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |                    4                     |           4           |       1        |
+|                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |                    4                     |           3           |       3        |
+|                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |                    3                     |           3           |       1        |
+|                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |                    3                     |           3           |       4        |
 
 ## Cineart - Shopping Boulevard
 
@@ -81,18 +86,25 @@ depois da praça de alimentação. O cinema é um pouco escondido, mas seguindo 
 Das 4 salas, uma, (a sala 1), é Cineart Premier - a sala mais cara da rede. Mais confortável, com poltronas reclináveis
 e um espaço maior entre as fileiras, além de ser mais exclusiva, pois tem um número menor de lugares.
 
-Na minha visita, fui às salas 2 e 4. Ambas são praticamente iguais, porém as poltronas da sala 2 são mais confortáveis e
+Na minha primeira visita, fui às salas 2 e 4. Ambas são praticamente iguais, porém as poltronas da sala 2 são mais confortáveis e
 reclinam mais, além de terem um suporte para comida. As duas bem limpas, a temperatura agradável, a qualidade da imagem
 na tela excelente e o som estava ótimo.
 
-O cinema é conhecido por exibir filmes mais alternativos e independentes, na semana anterior a minha visita estavam em
+O cinema é conhecido por exibir filmes mais alternativos e independentes (em comparação as outras unidades, mas nem sempre é assim). Na semana anterior a minha visita estavam em
 exibição vários filmes franceses, uma iniciativa do Festival Varilux de Cinema Francês. Filmes como "A História de
 Souleymane", "O Último Judeu", "O Segundo Ato" e "Diamante Bruto", estavam em cartaz.
 
-Como o Ponteio é um shopping voltado a venda de móveis, o cinema é um dos únicos atrativos para quem não quer comprar
-móveis. O cinema é pequeno, mas é bem limpo, organizado e aconchegante. A bomboniere é bem pequena, mas os preços são
-acessíveis e seguem o padrão dos outros cinemas da rede.
+Como o Ponteio é um shopping voltado a venda de móveis, o cinema é um dos únicos atrativos para quem não quer comprar um sofá de 16 ou uma mesa de 6 mil reais. 
 
-Assim como o Pátio Savassi, se você não tiver carro, vai ter que pegar um ônibus ou um táxi para chegar ao shopping, que
-fica na Avenida Nossa Senhora do Carmo, uma das principais da cidade, e tem várias linhas de ônibus que atendem a
-região.
+O cinema é pequeno, mas é bem limpo, organizado e aconchegante. A bomboniere é bem pequena, os preços são
+levemente mais caros que os outros cinemas da rede.
+
+Assim como o Pátio Savassi, se você não tiver carro, vai ter que pegar um ônibus, táxi ou aplicativo para chegar ao shopping.
+
+## Cineart Del Rey
+
+...
+
+## Una Belas Artes <Badge type="tip">Cinema de rua</Badge>
+
+...

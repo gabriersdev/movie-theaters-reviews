@@ -43,16 +43,29 @@ export default {
       })
     }
     
-    onMounted(() => {
+    const updateElementClasses = () => {
+      Array.from(document.querySelectorAll(".VPFeatures.VPHomeFeatures .container .items .item")).forEach((el, i) => {
+        if ([0, 1].includes(i)) el.classList.value = "item grid-2"
+        else if ([2, 3].includes(i)) el.classList.value = "item grid-4"
+        else el.classList.value = "item grid-2"
+      })
+    }
+    
+    const callAllFunctions = () => {
       updateTexts();
+      updateElementClasses();
+    }
+    
+    onMounted(() => {
+      callAllFunctions();
     });
     
     router.onAfterRouteChanged = (() => {
-      updateTexts();
+      callAllFunctions();
     })
     
     watch(() => {
-      updateTexts()
+      updateTexts();
     });
     
     return defaultSetup;

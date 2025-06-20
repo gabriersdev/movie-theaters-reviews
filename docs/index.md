@@ -11,14 +11,11 @@ hero:
     alt: Cinemas
   actions:
     - theme: brand
-      text: Ranking
+      text: Ranking e review dos cinemas
       link: /ranking
-    - theme: brand
-      text: Falação sobre os filmes
-      link: /filmes
     - theme: alt
-      text: Review dos Cinemas avaliados
-      link: /movie-theaters-list
+      text: Falação sobre os filmes
+      link: /movies
 
 features:
   # - link: /reviews
@@ -27,16 +24,19 @@ features:
   # - link: /movie-theaters-list
   #   title: Lista de Cinemas
   #   details: Uma classificação de todos os cinemas de Belo Horizonte que já avaliei
-  - link: /movies.html
-    title: ⭐ Avaliação dos cinemas e filmes
-    details: Avaliando todos os cinemas da cidade de Belo Horizonte...
-  - link: /ranking.html
-    title: 🎖️ Ranking
-    details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora
-  - link: /map.html
-    title: 📌 Roteiro de cinemas
-    details: Todos os cinemas que foram ou serão visitados, reunidos em um mapa, pra você ver
+  - link: /movies
+    title: ⭐ Falação sobre os filmes
+    details: Falando dos filmes que vi nos cinemas da cidade de Belo Horizonte...
+  - link: /ranking
+    title: 🎖️ Ranking e reviews dos cinemas
+    details: Ranking atualizado dos melhores cinemas da cidade avaliados até agora.
+  - link: /map
+    title: 📌 Roteiro dos cinemas
+    details: Todos os cinemas que foram ou serão visitados, reunidos em um mapa, pra você ver.
+  - link: /about
+    title: ℹ️ Sobre o projeto
+    details: Explicando aí sobre o projeto. Está aqui para preencher espaço mesmo. Pode ignorar.
   - link: https://letterboxd.com/gabriers/
     title: 🎭 Eu no Letterboxd
-    details: Filmes que vi com breves resenhas (a maioria ainda não tem rsrs)
+    details: Filmes que vi com breves resenhas (a maioria ainda não tem rsrs). Alguns tem avaliação lá mas eu não vi no cinema. Fique a vontade para seguir.
 ---

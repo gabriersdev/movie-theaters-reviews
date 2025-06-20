@@ -17,30 +17,28 @@ export default defineConfig({
 
     nav: [
       // { text: 'Home', link: '/' },
-      { text: 'Avaliações', link: '/movies' },
-      { text: 'Cinemas', link: '/movie-theaters-list' },
-      { text: 'Ranking', link: '/ranking' },
+      { text: 'Falação sobre os filmes', link: '/movies' },
+      { text: 'Ranking e review dos cinemas', link: '/movie-theaters-list' },
     ],
 
     sidebar: [
       {
         text: 'Navegue',
         items: [
-          { text: 'Sobre', link: '/about' },
-          { text: 'Metas', link: '/goals' },
-          { text: 'Como funciona?', link: '/reviews' },
-          { text: 'Cinemas', link: '/movie-theaters-list' },
-          { text: 'Filmes', link: '/movies' },
-          { text: 'Ranking', link: '/ranking' },
+          { text: 'Filmes assistidos', link: '/movies' },
+          { text: 'Ranking e Cinemas', link: '/movie-theaters-list' },
           { text: 'Galeria 🆕', link: '/gallery' },
           { text: 'Roteiro 🆕', link: '/map' },
+          { text: 'Metas', link: '/goals' },
+          { text: 'Sobre', link: '/about' },
         ]
       },
       {
-        text: 'Desenvolvimento',
+        text: 'O projeto e eu',
         items: [
           { text: 'Dev. no GitHub', link: 'https://github.com/gabriersdev' },
           { text: 'Repositório', link: 'https://github.com/gabriersdev/movie-theaters-reviews' },
+          { text: 'Letterboxd', link: 'https://letterboxd.com/gabriers/' },
         ]
       }
     ],

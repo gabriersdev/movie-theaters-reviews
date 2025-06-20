@@ -51,6 +51,10 @@ head:
 |                       [Vitória](#vitoria)                        |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
 |                     [Pecadores](#pecadores)                      | Terror (?) |           [Cineart Minas Shopping][cineart-minas-shopping]            |
 |            [A mulher no jardim](#a-mulher-no-jardim)             | Terror (?) |                   [Cineart Cidade][cineart-cidade]                    |
+|                       Lilo & Stich (2025)                        |  Infantil  |                                  ...                                  |
+|                            Bailarina                             |    Ação    |                                  ...                                  |
+|                              Manas                               |   Drama    |                                  ...                                  |
+|                        Entre dois mundos                         |   Drama    |                                  ...                                  |
 
 ## Minha irmã e eu
 
@@ -266,11 +270,12 @@ Vitória não é um filme policial, não é de investigação, não é um filme 
 
 <DateStrFormatted date="19-04-2025" />
 
-Uma patacoada. Sinceramente, se você espera alguma coisa desse filme você vive em Marte - ou não, talvez você só tenha mais saco que eu para a história do filme. 
+Uma patacoada. Sinceramente, se você espera alguma coisa desse filme você vive em Marte - ou não, talvez você só tenha mais saco que eu para a história do filme.
 
 Para quem não está ligado, a lore é a seguinte: dois irmãos encrenqueiros e metidos à gangster deixam Chicago e voltam para um vilarejo que eles já viveram algum tempo. Em Chicago eles roubaram alguém muito rico e que tinha muitos destilados, aí eles levam toda a carga roubada e uma bolada de dinheiro para este vilarejo.
 
-Lá, eles compram um seleiro e nele resolvem construir um bar. Na inauguração, eles chamam a comunidade para festejar, bebem e dançam horrores e no meio da festa, um trio de estranhos aparecem e querem ser convidados para entrar. Eles desconfiam e não deixam, mas a namorada (ou ficante) de um dos irmãos resolve por conta própria e livre e espontânea vontade ir falar com os estranhos. Nessa, ela acaba virando um vampiro e a partir dai é ladeira abaixo.
+Lá, eles compram um seleiro e nele resolvem construir um bar. Na inauguração, eles chamam a comunidade para festejar, bebem e dançam horrores e no meio da festa, um trio de estranhos aparecem e querem ser convidados para entrar. Eles desconfiam e não deixam, mas a namorada (ou ficante) de um dos irmãos resolve por conta própria e livre e espontânea vontade ir falar com os estranhos. Nessa, ela
+acaba virando um vampiro e a partir dai é ladeira abaixo.
 
 Não sei se algo salva essa bomba, talvez a trilha sonora, a edição - cheia de cortes que quebram a sequência de interações ou talvez o fato de o filme terminar - eles mostram os créditos junto de trechos da história - e depois continua, como se fosse um pós-créditos dentro do filme.
 
@@ -280,12 +285,14 @@ Não sei se algo salva essa bomba, talvez a trilha sonora, a edição - cheia de
 
 <DateStrFormatted date="11-05-2025" />
 
-Assim como pecadores um filme de "Terror (?)". Mas é pior. Bem pior para falar a verdade. A história é desencadeada por um drama familiar, em que a mãe da família não é feliz com o seu casamento/vida. Em uma noite, voltando de um jantar conturbado, ela e o seu marido se envolvem em um acidente. Ele morre e ela sobrevive, mas têm que usar uma tala na perna. Naquela noite ela pediu para morrer, mas a morte não veio.
+Assim como pecadores um filme de "Terror (?)". Mas é pior. Bem pior para falar a verdade. A história é desencadeada por um drama familiar, em que a mãe da família não é feliz com o seu casamento/vida. Em uma noite, voltando de um jantar conturbado, ela e o seu marido se envolvem em um acidente. Ele morre e ela sobrevive, mas têm que usar uma tala na perna. Naquela noite ela pediu para morrer, mas
+a morte não veio.
 
-Corta para alguns meses depois (3 se não me engano) e a família passa por dificuldades. A personagem principal, a mãe da família vive numa casa velha, em uma espécie de chácara, longe de tudo, com seus dois filhos: o mais velho - um adolescente questionador e imprudente (assim como todos os adolescentes) e a irmã mais nova - uma menina bem pequena que está aprendendo a escrever. A mãe está bastante deprimida com tudo o que aconteceu e aparenta estar cansada da vida.
+Corta para alguns meses depois (3 se não me engano) e a família passa por dificuldades. A personagem principal, a mãe da família vive numa casa velha, em uma espécie de chácara, longe de tudo, com seus dois filhos: o mais velho - um adolescente questionador e imprudente (assim como todos os adolescentes) e a irmã mais nova - uma menina bem pequena que está aprendendo a escrever. A mãe está
+bastante deprimida com tudo o que aconteceu e aparenta estar cansada da vida.
 
-Em um dia, uma mulher aparece no gramado da família. Ela é misteriosa, usa um pano que cobre a face e seu tronco e fala de coisas que não deveria saber. A mãe da família é quem tem o primeiro contato com ela e descobre que aquela não é uma mulher qualquer e que está ali porquê ela fez um pedido. 
+Em um dia, uma mulher aparece no gramado da família. Ela é misteriosa, usa um pano que cobre a face e seu tronco e fala de coisas que não deveria saber. A mãe da família é quem tem o primeiro contato com ela e descobre que aquela não é uma mulher qualquer e que está ali porquê ela fez um pedido.
 
-O tempo vai passando e a mulher chegando mais perto da casa, até que, em determinado momento, no fim de tarde, quando a noite estava prestes a chegar a mulher do jardim entra e começa o corre-corre para fugir dela. 
+O tempo vai passando e a mulher chegando mais perto da casa, até que, em determinado momento, no fim de tarde, quando a noite estava prestes a chegar a mulher do jardim entra e começa o corre-corre para fugir dela.
 
 > A história não é interessante. A lore não te prende. Também não é um filme que te assusta. Eu me interessei por esse filme pela capa, não vi resenha, não vi ninguém falando sobre. Mas é bem ruim. Poderia dizer que a atuação do ator que interpreta filho é boa mas ele não teve muito o que fazer nesse filme, já que é tudo muito monótono e chato.
