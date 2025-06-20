@@ -5,7 +5,7 @@
 # Roteiro de cinemas
 
 > [!NOTE]
-> Quer saber em quais cinemas eu já fui? [Veja aqui](/goals.html)
+> Quer saber em quais cinemas eu já fui? [Veja aqui](./goals)
 
 <ClientOnly>
   <MapWithPins/>

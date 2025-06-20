@@ -12,19 +12,19 @@ head:
 
 <!-- Variáveis -->
 
-[cineart-boulevard]:movie-theaters-list.html#cineart-shopping-boulevard
+[cineart-boulevard]:./movie-theaters-list#cineart-shopping-boulevard
 
-[cineart-cidade]:movie-theaters-list.html#cineart-shopping-cidade
+[cineart-cidade]:./movie-theaters-list#cineart-shopping-cidade
 
-[cineart-minas-shopping]:movie-theaters-list.html#cineart-minas-shopping
+[cineart-minas-shopping]:./movie-theaters-list#cineart-minas-shopping
 
-[cinemark-patio-savassi]:movie-theaters-list.html#cinemark-patio-savassi
+[cinemark-patio-savassi]:./movie-theaters-list#cinemark-patio-savassi
 
-[cineart-ponteio]:movie-theaters-list.html#cineart-ponteio
+[cineart-ponteio]:./movie-theaters-list#cineart-ponteio
 
-[cineart-del-rey]:[/movies-threaters-list#cineart-del-rey]
+[cineart-del-rey]:./movie-theaters-list#cineart-del-rey]
 
-[una-belas-artes]:[/movies-threaters-list#una-belas-artes]
+[una-belas-artes]:./movie-theaters-list#una-belas-artes]
 
 <!-- Fim das variáveis -->
 
