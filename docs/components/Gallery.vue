@@ -38,6 +38,10 @@ const images = [
   "./gallery/20240811_171012.jpg",
   "./gallery/20250322_165809.jpg",
   "./gallery/20250322_154555.jpg",
+  "./gallery/20250611_155620.jpg",
+  "./gallery/20250611_153643.jpg",
+  "./gallery/20250611_153345.jpg",
+  "./gallery/20250628_193118.jpg"
 ]
 
 const handleCLick = (e: MouseEvent): void => {
