@@ -17,10 +17,11 @@
 - Cinépolis - Shopping Estação BH
 - Cinesercla - Shopping Norte
 - <s>Una Cine Belas Artes</s> - <Badge type="tip">✅ Visitado</Badge>
+- <s>Cinema Minas Tenis Club</s> - <Badge type="tip">✅ Visitado</Badge>
 
 ## Gráfico
 
 <figure>
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[7, 8]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[8, 8]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
   <figcaption></figcaption>
 </figure>

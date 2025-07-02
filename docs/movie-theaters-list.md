@@ -6,6 +6,10 @@ head:
       content: Description
 ---
 
+<script setup>
+  import {VPBadge} from "vitepress/theme";
+</script>
+
 # Cinemas
 
 > [!INFO]
@@ -23,6 +27,7 @@ Listado a partir dos melhores aos piores
 |                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |   5   |     4      |    2    |
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
+|                    [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club)                     |    Bom    |   4   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
 |                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    4    |
 
@@ -125,7 +130,7 @@ A sala 4 e 2 são muito diferentes entre sim. A 4 é muito apertada. Não tem mu
 
 O atendimento foi bom. Ah, para chegar ao shopping é muito tranquilo. Tem ônibus que vai até ele saindo direto do centrão da cidade.
 
-## Una Belas Artes <Badge type="tip">Cinema de rua</Badge>
+## Una Belas Artes <VPBadge type="tip">Cinema de rua</VPBadge>
 
 O primeiro shopping de rua que fui. Para chegar lá deu um certo trabalho. Ele fica próximo a Praça da Liberdade e é só subida o caminho todo. Fui a pé e cansei legal.
 
@@ -146,3 +151,23 @@ A outra sala que fui, foi a sala 3, que fica no primeiro piso. Eu cheguei lá, e
 Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas poutronas, a tela do mesmo tamanho. Um letreiro pequeno em neon escrito "Proibido fumar" e outro, do outro lado escrito "Saída".
 
 Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir despretenciosamente um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for pra te fazer pensar. 
+
+## Cinema Minas Tenis Club <VPBadge type="tip">Cinema de rua</VPBadge>
+
+É um cinema elitizado. Não que as coisas sejam caras e muito fora do que é praticado, mas falo das pessoas que frequentam esse cinema. O Cinema é dentro da área do Minas Tenis Club e da Unimed. E o Minas Tenis Club é frequentado pela classe A e B. Por isso começo dizendo que é um cinema elitizado. Isso pode incomodar quem for lá. Me incomodou, mas isso pode ser "pira" minha.
+
+Já disse onde fica mas não falei em qual andar. É no subsolo. Muito limpo, organizado e com uma baita estrutura. Fica próximo de uma cafeteria da Mellita que tem dentro do clube. 
+
+Possui três salas. Todas iguais. O que muda é só a entrada. São salas pequenas, que comportam no máximo 50 pessoas. A distância entre a poltrona e a cadeira é bem pequena. É muito fácil você sem querer ficar empurrando a poltrona da frente, e isso vai incomodar quem tiver nela. 
+
+Na primeira vez que fui tive que me expremer quatro vezes para pessoas que estavam no final da fileira sairem. 
+
+Os ombros das poltronas não tem lugar para colocar copo. Se for beber alguma coisa, ou toma tudo de uma vez ou deixa no chão. As poltronas também não são muito confortáveis. 
+
+Por falar em beber, o cinema tem uma bomboniere. Vende pipoca, doces e guloseimas e refrigerante de lata. As coisas não são muito caras, tipo, o Batom, aquele chocolate da Nestlé, é vendido por R$ 2,20. 
+
+O banheiro tem uma cabine e alguns mictórios. É de fácil acesso. [Na galeria têm uma foto que tirei de um adesivo que colocaram encima de um dos mictórios.](/gallery)
+
+Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasado, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada. 
+
+Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stich (2025)"](/movies#lilo-stich-2025) estava em cartaz lá.

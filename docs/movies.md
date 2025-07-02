@@ -8,6 +8,7 @@ head:
 
 <script setup>
   import DateStrFormatted from "./components/DateStrFormatted.vue";
+  import {VPBadge} from "vitepress/theme";
 </script>
 
 <!-- Variáveis -->
@@ -22,9 +23,11 @@ head:
 
 [cineart-ponteio]:./movie-theaters-list#cineart-ponteio
 
-[cineart-del-rey]:./movie-theaters-list#cineart-del-rey]
+[cineart-del-rey]:./movie-theaters-list#cineart-del-rey
 
-[una-belas-artes]:./movie-theaters-list#una-belas-artes]
+[una-belas-artes]:./movie-theaters-list#una-belas-artes-cinema-de-rua
+
+[cinema-minas-tenis-club]:./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua
 
 <!-- Fim das variáveis -->
 
@@ -37,31 +40,33 @@ head:
 
 Listado em ordem crescente a partir da data em que vi os filmes
 
-|                              Filme                               |   Gênero   |                                Cinema                                 |
-|:----------------------------------------------------------------:|:----------:|:---------------------------------------------------------------------:|
-|               [Minha irmã e eu](#minha-irma-e-eu)                |  Comédia   |                   [Cineart Cidade][cineart-cidade]                    |
-|                        [Duna 2](#duna-2)                         |   Ficção   | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                  [Guerra Civil](#guerra-civil)                   |    Ação    |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|               [Godzilla e Kong](#godzilla-e-kong)                |   Ficção   |                [Cineart Boulevard][cineart-boulevard]                 |
-| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |   Ficção   |                   [Cineart Cidade][cineart-cidade]                    |
-|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |    Ação    | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                [The Crow (2024)](#the-crow-2024)                 |   Terror   |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
-|             [Pisque duas vezes](#pisque-duas-vezes)              |  Suspense  |           [Cinemark Patio Savassi][cinemark-patio-savassi]            |
-|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        |  Musical   |                [Cineart Boulevard][cineart-boulevard]                 |
-|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |    Ação    |                   [Cineart Cidade][cineart-cidade]                    |
-|                 [O segundo ato](#o-segundo-ato)                  |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
-|              [Ainda estou aqui](#ainda-estou-aqui)               |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
-|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |  Comédia   |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|                      [Conclave](#conclave)                       |  Thriller  |                [Cineart Boulevard][cineart-boulevard]                 |
-|                  [O Brutalista](#o-brutalista)                   |   Drama    | [Cineart Boulevard <Badge type="tip">IMAX</Badge>][cineart-boulevard] |
-|                    [Better Man](#better-man)                     |  Musical   |                  [Cineart Ponteio][cineart-ponteio]                   | 
-|                       [Vitória](#vitoria)                        |   Drama    |                  [Cineart Ponteio][cineart-ponteio]                   |
-|                     [Pecadores](#pecadores)                      | Terror (?) |           [Cineart Minas Shopping][cineart-minas-shopping]            |
-|            [A mulher no jardim](#a-mulher-no-jardim)             | Terror (?) |                   [Cineart Cidade][cineart-cidade]                    |
-|             [Lilo & Stich (2025)](#lilo-stich-2025)              |  Infantil  |                  [Cineart Del Rey][cineart-del-rey]                   |
-|                     [Bailarina](#bailarina)                      |    Ação    |                  [Cineart Del Rey][cineart-del-rey]                   |
-|                         [Manas](#manas)                          |   Drama    |                  [Una Belas Artes][una-belas-artes]                   |
-|             [Entre dois mundos](#entre-dois-mundos)              |   Drama    |                  [Una Belas Artes][una-belas-artes]                   |
+|                              Filme                               |      Gênero      |                                  Cinema                                   |
+|:----------------------------------------------------------------:|:----------------:|:-------------------------------------------------------------------------:|
+|               [Minha irmã e eu](#minha-irma-e-eu)                |     Comédia      |                     [Cineart Cidade][cineart-cidade]                      |
+|                        [Duna 2](#duna-2)                         |      Ficção      | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
+|                  [Guerra Civil](#guerra-civil)                   |       Ação       |             [Cineart Minas Shopping][cineart-minas-shopping]              |
+|               [Godzilla e Kong](#godzilla-e-kong)                |      Ficção      |                  [Cineart Boulevard][cineart-boulevard]                   |
+| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |      Ficção      |                     [Cineart Cidade][cineart-cidade]                      |
+|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |       Ação       | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
+|                [The Crow (2024)](#the-crow-2024)                 |      Terror      |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
+|             [Pisque duas vezes](#pisque-duas-vezes)              |     Suspense     |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
+|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        |     Musical      |                  [Cineart Boulevard][cineart-boulevard]                   |
+|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |       Ação       |                     [Cineart Cidade][cineart-cidade]                      |
+|                 [O segundo ato](#o-segundo-ato)                  |      Drama       |                    [Cineart Ponteio][cineart-ponteio]                     |
+|              [Ainda estou aqui](#ainda-estou-aqui)               |      Drama       |                    [Cineart Ponteio][cineart-ponteio]                     |
+|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |     Comédia      |             [Cineart Minas Shopping][cineart-minas-shopping]              |
+|                      [Conclave](#conclave)                       |     Thriller     |                  [Cineart Boulevard][cineart-boulevard]                   |
+|                  [O Brutalista](#o-brutalista)                   |      Drama       | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
+|                    [Better Man](#better-man)                     |     Musical      |                    [Cineart Ponteio][cineart-ponteio]                     | 
+|                       [Vitória](#vitoria)                        |      Drama       |                    [Cineart Ponteio][cineart-ponteio]                     |
+|                     [Pecadores](#pecadores)                      |    Terror (?)    |             [Cineart Minas Shopping][cineart-minas-shopping]              |
+|            [A mulher no jardim](#a-mulher-no-jardim)             |    Terror (?)    |                     [Cineart Cidade][cineart-cidade]                      |
+|             [Lilo & Stich (2025)](#lilo-stich-2025)              |     Infantil     |                    [Cineart Del Rey][cineart-del-rey]                     |
+|                     [Bailarina](#bailarina)                      |       Ação       |                    [Cineart Del Rey][cineart-del-rey]                     |
+|                         [Manas](#manas)                          |      Drama       |                    [Una Belas Artes][una-belas-artes]                     |
+|             [Entre dois mundos](#entre-dois-mundos)              |      Drama       |                    [Una Belas Artes][una-belas-artes]                     |
+|          [Silencio das ostras](#o-silencio-das-ostras)           | Documentário (?) |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
+|   [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista)    |     Comédia      |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
 
 ## Minha irmã e eu
 
@@ -315,19 +320,19 @@ O tempo vai passando e a mulher chegando mais perto da casa, até que, em determ
 
 - Menos tempo de tela para o cientista que criou o Stich e o moço magrelo que vem com ele para a Terra
 - No live action o Stich aparece depois que a Lilo briga na apresentação de dança (na animação ele aparece antes)
-- E nesse filme também, diferente da animação o cientista é mais malvado. 
+- E nesse filme também, diferente da animação o cientista é mais malvado.
 
-Ainda assim é um filme legal. Entretivo. 
+Ainda assim é um filme legal. Entretivo.
 
-## Bailarina 
+## Bailarina
 
 <DateStrFormatted date="10-06-2025" />
 
-É um filme do universo de John Wick. A protagonista do filme é uma menina que viu o pai ser morto quando era criança. Ela cresce dentro de uma legião e treinada para ser uma assassina. E é isso que ela se torna. Porém, quando encontram pessoas que tinham as mesmas cicatriz daquelas que mataram seu pai ela resolve ir atrás de justiça. 
+É um filme do universo de John Wick. A protagonista do filme é uma menina que viu o pai ser morto quando era criança. Ela cresce dentro de uma legião e treinada para ser uma assassina. E é isso que ela se torna. Porém, quando encontram pessoas que tinham as mesmas cicatriz daquelas que mataram seu pai ela resolve ir atrás de justiça.
 
-Bem, e isso que ela consegue. Até mandam o John Wick para parar ela mas ele "se solidariza" pela causa e ela consegue finalizar o plano, mas é claro, gera consequências. 
+Bem, e isso que ela consegue. Até mandam o John Wick para parar ela mas ele "se solidariza" pela causa e ela consegue finalizar o plano, mas é claro, gera consequências.
 
-Esse filme, é bem igual ao primeiro do John Wick. Uma coisa triste acontece e depois é o gatilho para iniciar a matança. E assim como no primeiro filme, no final de Bailarina, fazem um contrato pela morte dela no valor de 5 milhões. 
+Esse filme, é bem igual ao primeiro do John Wick. Uma coisa triste acontece e depois é o gatilho para iniciar a matança. E assim como no primeiro filme, no final de Bailarina, fazem um contrato pela morte dela no valor de 5 milhões.
 
 Um bom filme. Ação bacana. Quem curte o universo de John Wick vai gostar desse filme. Ele foi o último papel do ator que faz o mordomo do Continental de NY, antes dele falecer.
 
@@ -342,15 +347,15 @@ Até então, "Vitória" tinha sido o último filme que tinha me tocado no cinema
 
 > Marcielle, uma jovem de 13 anos que vive na Ilha do Marajó (PA), começa a entender que o futuro não lhe reserva muitas opções. Encurralada pela resignação da mãe e movida pela idealização da figura da irmã que partiu, ela decide confrontar a engrenagem violenta que rege a sua família e as mulheres da sua comunidade.
 
-Eu juro que não tinha lido "Ilha de Marajó", por que senão lembraria imediatamente da fake news que circulou no ano passado (2024). Mas ainda assim, essa sinopse diz muito pouco sobre o que é o filme. E tá certo. Eu também não vi o traileir. Mas da metade em diante, o filme aborda diretamente as violências que as jovens da região sofrem.  
+Eu juro que não tinha lido "Ilha de Marajó", por que senão lembraria imediatamente da fake news que circulou no ano passado (2024). Mas ainda assim, essa sinopse diz muito pouco sobre o que é o filme. E tá certo. Eu também não vi o traileir. Mas da metade em diante, o filme aborda diretamente as violências que as jovens da região sofrem.
 
-Sem a presença do estado e no meio da Floresta Amazônica, cercada de água por todos os lados, viver na ilha é um exercício diário de sobrevivência. "Manas" é como as meninas se chamam. O filme não aborda as violências de forma escraxada. 
+Sem a presença do estado e no meio da Floresta Amazônica, cercada de água por todos os lados, viver na ilha é um exercício diário de sobrevivência. "Manas" é como as meninas se chamam. O filme não aborda as violências de forma escraxada.
 
-Muito bem filmado, o espectador precisa estar atento ao que a câmera mostra. E é uma realidade desoladora e cruel.  
+Muito bem filmado, o espectador precisa estar atento ao que a câmera mostra. E é uma realidade desoladora e cruel.
 
-Sem meios para se sustentar, as mulheres vivem dependendo dos seus maridos. E é essa a realidade na casa de Marcielle. A mãe, uma jovem, de uns vinte e poucos anos está a espera do quinto filho. Marcielle, é a filha mais velha na casa, mas tem uma irmã, Claúdia, que deixou a realidade e deu os próprios pulos para sair dali. 
+Sem meios para se sustentar, as mulheres vivem dependendo dos seus maridos. E é essa a realidade na casa de Marcielle. A mãe, uma jovem, de uns vinte e poucos anos está a espera do quinto filho. Marcielle, é a filha mais velha na casa, mas tem uma irmã, Claúdia, que deixou a realidade e deu os próprios pulos para sair dali.
 
-Na casa de palafita vive ela, o pai, a mãe, dois irmãos e uma outra irmã mais nova. Marcielle vai a escola, que não tem parede, onde vê outras meninas assim como ela, e também participa dos cultos e das atividades da igreja na ilha. 
+Na casa de palafita vive ela, o pai, a mãe, dois irmãos e uma outra irmã mais nova. Marcielle vai a escola, que não tem parede, onde vê outras meninas assim como ela, e também participa dos cultos e das atividades da igreja na ilha.
 
 Ela não opções de um futuro ali. Com as violências diárias na vida da menina ela vai buscar alternativas, já que justiça, ali, não existe.
 
@@ -362,8 +367,40 @@ A diretora teve todo o cuidado de não tornar o filme um espetáculo público de
 
 <DateStrFormatted date="11-06-2025" />
 
-Não esperava nada desse filme e entregou tudo. Também escolhi assisti pelo resumo: "uma escritora resolve trabalhar como faxineira para escrever seu livro sobre faxineiras. Porém como será que as pessoas vão reagir ao saber da verdade?" - era mais ou menos isso. 
+Não esperava nada desse filme e entregou tudo. Também escolhi assisti pelo resumo: "uma escritora resolve trabalhar como faxineira para escrever seu livro sobre faxineiras. Porém como será que as pessoas vão reagir ao saber da verdade?" - era mais ou menos isso.
 
-Assim como o último filme francês que vi, [O Segundo Ato](#o-segundo-ato) esse filme é para refletir sobre a desigualdade - não de classe, mas de profissões. É impossível negar que esta desigualdade exista e esteja presente no dia à dia. E no filme isso vai ser escancarado no momento em que as melhores amigas - em especial a que é mãe de três meninos - descobre que a amiga, até então faxineira como ela, é, na verdade uma escritora, e está fazendo um livro sobre faxineiras. 
+Assim como o último filme francês que vi, [O Segundo Ato](#o-segundo-ato) esse filme é para refletir sobre a desigualdade - não de classe, mas de profissões. É impossível negar que esta desigualdade exista e esteja presente no dia à dia. E no filme isso vai ser escancarado no momento em que as melhores amigas - em especial a que é mãe de três meninos - descobre que a amiga, até então faxineira como ela, é, na verdade uma escritora, e está fazendo um livro sobre faxineiras.
 
 A última frase do filme é algo tipo assim: "É melhor cada um saber o seu lugar".
+
+## Silencio das ostras
+
+<DateStrFormatted date="28-06-2025" />
+
+Nas primeiras 1h30 esse documentário é uma coisa. nos 30 minutos finais é outra, completamente diferente. É como um trabalho de escola que você faz a sua parte separado. Chega no dia de entregar e só junta as coisas. O documentário (que tá mais pra um filme) começa contando as vivências de uma família num vilarejo que é inteiramente dependente da mineradora que tem lá. A família inicialmente formada pela mãe, 4 ou 5 filhos homens, a filha, a personagem principal e o avô - um senhor bem debilitado e já muito velho, é continuamente reduzida a medida em que os filhos conseguem oportunidades de trabalho melhores para sair da extrema pobreza.
+
+A mineradora é a única fonte de renda do lugar, então tudo gira em torno dela. A filha - como eu já disse, personagem principal - é abandonada pela mãe ainda criança. Não fica bem explicado o que acontece, o documentário/filme têm vários momentos em que coisas aparecem como vultos e em uma dessas vezes, a mãe aparece morta, boiando na represa d'agua que a mineradora usa. Em outro trecho ela aparece deitada numa casa abandonada, e é isso.
+
+A filha têm um curioso e incômodo hobbie - colecionar insetos. Quando ela cresce, enche a casa de vários objetos de decoração feitos com os esqueletos dos insetos. Ela não fala muito e o sons (da água e principalmente dos insetos), contam boa parte da história.
+
+Os irmãos vão abandonando o vilarejo e a filha - ninguém quer ficar ali naquele lugar, sem futuro.
+
+Eles trabalham quebrando pedras sobre o solo, assim como os mineiros em desenhos animados, só que ao ar livre, depois as pedras passam por um processamento e são reduzidas, e, provavelmente depois disso o mineral é separado do rejeito, e o rejeito, armazenado na represa.
+
+Sobre a primeira parte do documentário/filme é isso. E podia bem que ele podia parar mais ou menos por aqui. Por quê o que vem depois é um amontoado de histórias, uma nada haver com a outra, completamente desconexas e, algumas, pra ser sincero, bem incômodas de se ver.
+
+Tudo começa quando o documentário/filme mostra vídeos do rompimento da barragem de Mariana, em 2015. Tudo bem, afinal é uma produção feita para mostrar o que aconteceu e cobrar justiça. Eles mostram imagens filmadas por celular e, depois, vídeos do rompimento da barragem de Brumadinho, em 2019.
+
+E depois volta a "contar a história" da personagem principal. Ela aparece num lugar cheiinho de lama, junto de vários cachorros. E pouco tempo depois se depara com um sujeito preso num buraco na lama - essa foi a cena mais vergonha alheia que já vi em um filme - e eles ficam ali, vários segundos, talvez minutos tentando sair do buraco. Ele conta que estava procurando a filha, que a esposa e outro filho conseguiram sobreviver, mas não vai arredar o pé dali até encontrar o corpo dela. Ele também fala que a lama já chegou no mar, através do estado do Espírito Santo.
+
+Depois, a nossa nobre personagem principal passa mal (quase morre) e é socorrida por índios - e aqui tem uma intervenção, que não tinha havido sido feita antes, como é de costume nos documentários. Entra um narrador e conta a história dos índios. Também são mostradas cenas de celebrações que eles fazem. A nossa personagem principal passa um tempo breve com eles e depois resolve começar uma andança. Durante essa andança ela quase morre (mais uma vez). E fica nessa cena dela se contorcendo por vários segundos - e, assim como na outra em que ela tentava tirar o homem do buraco na lama - talvez minutos.
+
+Ela anda tanto que chega no mar. E o documentário acaba. O que vêm depois são as letrinhas num fundo preto, citam os dois crimes ambientais, falam do número de mortos e dos desaparecidos. E, por fim, falam que as empresas não foram condenadas - e foi isso que mais me pegou. Não porquê eu não sabia do desatre ou que tudo se resumiu a multas, mas sim, porquê um senhor que estava na sala, levantou para sair e disse: "E não vão (ser condenadas) nunca".
+
+## O Barbeiro Conspiracionista
+
+<DateStrFormatted date="28-06-2025" />
+
+Uma comédia italiana. Certo dia um barbeiro conspiracionista percebe que o poste em frente a sua barbearia pisca como um padrão. Ele então descobre que as piscadas são uma mensagem, em código morse. A partir daí a história começa a ganhar grande proporção, atraindo uma legião de gente e a atenção de um político da região.
+
+Maravilhoso, entretivo, muito bom. 

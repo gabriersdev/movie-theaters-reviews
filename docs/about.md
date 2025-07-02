@@ -10,6 +10,6 @@ head:
 
 Esse projeto visa avaliar de forma simples e objetiva os cinemas da cidade de Belo Horizonte.
 
-> Não sou crítico de cinema e não sou especialista em roteiro, filmagem ou cena. Sou apenas um admirador da sétima arte.
+> Não sou crítico de cinema e não sou especialista em roteiro, filmagem ou cena. Sou apenas um admirador da sétima arte - não sei quais são as outras 6.
 
 Movie Theater Reviews é feito com o gerador de site estático VitePress usando Markdown, JavaScript e Vue.js. Veja o repositório no GitHub, [clicando aqui](https://github.com/gabrieszin/movie-theaters-reviews).
