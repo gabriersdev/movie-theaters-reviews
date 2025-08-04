@@ -21,7 +21,7 @@ Listado a partir dos melhores aos piores
 
 |                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
 |:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                            [Una Belas Artes](./movie-theaters-list#una-belas-artes)                             | Excelente |   4   |     5      |    1    |
+|                            [Una Belas Artes](./movie-theaters-list#una-belas-artes)                             | Excelente |   4   |     4      |    2    |
 | [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
 |                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    3    |
 |                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |   5   |     4      |    2    |
@@ -52,7 +52,7 @@ O acesso ao shopping é fácil. Possui três entradas/saídas para diferentes ru
 Apesar de serem muitas as salas, nas duas vezes primeiras em que fui ao cinema, minha sessão foi na sala de número 4.
 Impressionantemente, nas duas ocasiões, havia um vagalume na sala. Porém, da primeira vez que fui, outra coisa me chamou
 a atenção: a limpeza. Muita pipoca e restos de embalagens no chão. Da segunda vez em que fui ao cinema, na mesma sala,
-não reparei na limpeza. Na terceira vez em que fui ao Cidade, a sala 6 estava bem limpa e agradável. 
+não reparei na limpeza. Na terceira vez em que fui ao Cidade, a sala 6 estava bem limpa e agradável.
 
 Na 4ª vez que fui ao cinema, na sala 5, também tinha um vagalume :D.
 
@@ -147,24 +147,24 @@ A outra sala que fui, foi a sala 3, que fica no primeiro piso. Eu cheguei lá, e
 
 Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas poutronas, a tela do mesmo tamanho. Um letreiro pequeno em neon escrito "Proibido fumar" e outro, do outro lado escrito "Saída".
 
-Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir despretenciosamente um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for pra te fazer pensar. 
+Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir despretenciosamente um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for pra te fazer pensar.
 
 ## Cinema Minas Tenis Club <VPBadge type="tip">Cinema de rua</VPBadge>
 
 É um cinema elitizado. Não que as coisas sejam caras e muito fora do que é praticado, mas falo das pessoas que frequentam esse cinema. O Cinema é dentro da área do Minas Tenis Club e da Unimed. E o Minas Tenis Club é frequentado pela classe A e B. Por isso começo dizendo que é um cinema elitizado. Isso pode incomodar quem for lá. Me incomodou, mas isso pode ser "pira" minha.
 
-Já disse onde fica mas não falei em qual andar. É no subsolo. Muito limpo, organizado e com uma baita estrutura. Fica próximo de uma cafeteria da Mellita que tem dentro do clube. 
+Já disse onde fica mas não falei em qual andar. É no subsolo. Muito limpo, organizado e com uma baita estrutura. Fica próximo de uma cafeteria da Mellita que tem dentro do clube.
 
-Possui três salas. Todas iguais. O que muda é só a entrada. São salas pequenas, que comportam no máximo 50 pessoas. A distância entre a poltrona e a cadeira é bem pequena. É muito fácil você sem querer ficar empurrando a poltrona da frente, e isso vai incomodar quem tiver nela. 
+Possui três salas. Todas iguais. O que muda é só a entrada. São salas pequenas, que comportam no máximo 50 pessoas. A distância entre a poltrona e a cadeira é bem pequena. É muito fácil você sem querer ficar empurrando a poltrona da frente, e isso vai incomodar quem tiver nela.
 
-Na primeira vez que fui tive que me expremer quatro vezes para pessoas que estavam no final da fileira sairem. 
+Na primeira vez que fui tive que me expremer quatro vezes para pessoas que estavam no final da fileira sairem.
 
-Os ombros das poltronas não tem lugar para colocar copo. Se for beber alguma coisa, ou toma tudo de uma vez ou deixa no chão. As poltronas também não são muito confortáveis. 
+Os ombros das poltronas não tem lugar para colocar copo. Se for beber alguma coisa, ou toma tudo de uma vez ou deixa no chão. As poltronas também não são muito confortáveis.
 
-Por falar em beber, o cinema tem uma bomboniere. Vende pipoca, doces e guloseimas e refrigerante de lata. As coisas não são muito caras, tipo, o Batom, aquele chocolate da Nestlé, é vendido por R$ 2,20. 
+Por falar em beber, o cinema tem uma bomboniere. Vende pipoca, doces e guloseimas e refrigerante de lata. As coisas não são muito caras, tipo, o Batom, aquele chocolate da Nestlé, é vendido por R$ 2,20.
 
 O banheiro tem uma cabine e alguns mictórios. É de fácil acesso. [Na galeria têm uma foto que tirei de um adesivo que colocaram encima de um dos mictórios.](/gallery)
 
-Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasado, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada. 
+Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasado, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada.
 
 Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stich (2025)"](/movies#lilo-stich-2025) estava em cartaz lá.

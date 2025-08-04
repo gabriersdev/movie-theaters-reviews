@@ -34,39 +34,41 @@ head:
 # Filmes
 
 > [!WARNING]
-> Nesta seção há breves resumos sobre os filmes que assisti para avaliar os cinemas. **Pode haver spoiler.**
+> Nesta seção há breves resumos (ou avaliações, não sei qual o termo correto para isso) sobre os filmes que assisti para avaliar os cinemas. **Eventualmente pode conter algum spoiler.**
 
 ## ➡️ Lista - comece por aqui
 
 Listado em ordem crescente a partir da data em que vi os filmes
 
-|                              Filme                               |      Gênero      |                                  Cinema                                   |
-|:----------------------------------------------------------------:|:----------------:|:-------------------------------------------------------------------------:|
-|               [Minha irmã e eu](#minha-irma-e-eu)                |     Comédia      |                     [Cineart Cidade][cineart-cidade]                      |
-|                        [Duna 2](#duna-2)                         |      Ficção      | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                  [Guerra Civil](#guerra-civil)                   |       Ação       |             [Cineart Minas Shopping][cineart-minas-shopping]              |
-|               [Godzilla e Kong](#godzilla-e-kong)                |      Ficção      |                  [Cineart Boulevard][cineart-boulevard]                   |
-| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |      Ficção      |                     [Cineart Cidade][cineart-cidade]                      |
-|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |       Ação       | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                [The Crow (2024)](#the-crow-2024)                 |      Terror      |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
-|             [Pisque duas vezes](#pisque-duas-vezes)              |     Suspense     |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
-|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        |     Musical      |                  [Cineart Boulevard][cineart-boulevard]                   |
-|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |       Ação       |                     [Cineart Cidade][cineart-cidade]                      |
-|                 [O segundo ato](#o-segundo-ato)                  |      Drama       |                    [Cineart Ponteio][cineart-ponteio]                     |
-|              [Ainda estou aqui](#ainda-estou-aqui)               |      Drama       |                    [Cineart Ponteio][cineart-ponteio]                     |
-|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |     Comédia      |             [Cineart Minas Shopping][cineart-minas-shopping]              |
-|                      [Conclave](#conclave)                       |     Thriller     |                  [Cineart Boulevard][cineart-boulevard]                   |
-|                  [O Brutalista](#o-brutalista)                   |      Drama       | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                    [Better Man](#better-man)                     |     Musical      |                    [Cineart Ponteio][cineart-ponteio]                     | 
-|                       [Vitória](#vitoria)                        |      Drama       |                    [Cineart Ponteio][cineart-ponteio]                     |
-|                     [Pecadores](#pecadores)                      |    Terror (?)    |             [Cineart Minas Shopping][cineart-minas-shopping]              |
-|            [A mulher no jardim](#a-mulher-no-jardim)             |    Terror (?)    |                     [Cineart Cidade][cineart-cidade]                      |
-|             [Lilo & Stich (2025)](#lilo-stich-2025)              |     Infantil     |                    [Cineart Del Rey][cineart-del-rey]                     |
-|                     [Bailarina](#bailarina)                      |       Ação       |                    [Cineart Del Rey][cineart-del-rey]                     |
-|                         [Manas](#manas)                          |      Drama       |                    [Una Belas Artes][una-belas-artes]                     |
-|             [Entre dois mundos](#entre-dois-mundos)              |      Drama       |                    [Una Belas Artes][una-belas-artes]                     |
-|          [Silencio das ostras](#o-silencio-das-ostras)           | Documentário (?) |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
-|   [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista)    |     Comédia      |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
+|                              Filme                               |           Gênero           |                                  Cinema                                   |
+|:----------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------:|
+|               [Minha irmã e eu](#minha-irma-e-eu)                |          Comédia           |                     [Cineart Cidade][cineart-cidade]                      |
+|                        [Duna 2](#duna-2)                         |           Ficção           | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
+|                  [Guerra Civil](#guerra-civil)                   |            Ação            |             [Cineart Minas Shopping][cineart-minas-shopping]              |
+|               [Godzilla e Kong](#godzilla-e-kong)                |           Ficção           |                  [Cineart Boulevard][cineart-boulevard]                   |
+| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |           Ficção           |                     [Cineart Cidade][cineart-cidade]                      |
+|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |            Ação            | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
+|                [The Crow (2024)](#the-crow-2024)                 |           Terror           |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
+|             [Pisque duas vezes](#pisque-duas-vezes)              |          Suspense          |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
+|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        |          Musical           |                  [Cineart Boulevard][cineart-boulevard]                   |
+|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |            Ação            |                     [Cineart Cidade][cineart-cidade]                      |
+|                 [O segundo ato](#o-segundo-ato)                  |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
+|              [Ainda estou aqui](#ainda-estou-aqui)               |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
+|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |          Comédia           |             [Cineart Minas Shopping][cineart-minas-shopping]              |
+|                      [Conclave](#conclave)                       |          Thriller          |                  [Cineart Boulevard][cineart-boulevard]                   |
+|                  [O Brutalista](#o-brutalista)                   |           Drama            | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
+|                    [Better Man](#better-man)                     |          Musical           |                    [Cineart Ponteio][cineart-ponteio]                     | 
+|                       [Vitória](#vitoria)                        |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
+|                     [Pecadores](#pecadores)                      |         Terror (?)         |             [Cineart Minas Shopping][cineart-minas-shopping]              |
+|            [A mulher no jardim](#a-mulher-no-jardim)             |         Terror (?)         |                     [Cineart Cidade][cineart-cidade]                      |
+|             [Lilo & Stich (2025)](#lilo-stich-2025)              |          Infantil          |                    [Cineart Del Rey][cineart-del-rey]                     |
+|                     [Bailarina](#bailarina)                      |            Ação            |                    [Cineart Del Rey][cineart-del-rey]                     |
+|                         [Manas](#manas)                          |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|             [Entre dois mundos](#entre-dois-mundos)              |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|          [Silencio das ostras](#o-silencio-das-ostras)           |      Documentário (?)      |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
+|   [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista)    |          Comédia           |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
+|                     [Vermiglio](#vermiglio)                      |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     | 
 
 ## Minha irmã e eu
 
@@ -377,6 +379,9 @@ A última frase do filme é algo tipo assim: "É melhor cada um saber o seu luga
 
 <DateStrFormatted date="28-06-2025" />
 
+> [!NOTE]
+> Descobri depois de escrever a review que o gênero oficial do filme é ficção. Faz bem mais sentido. Não sei de onde tirei que era um documentário, peço desculpas.
+
 Nas primeiras 1h30 esse documentário é uma coisa. nos 30 minutos finais é outra, completamente diferente. É como um trabalho de escola que você faz a sua parte separado. Chega no dia de entregar e só junta as coisas. O documentário (que tá mais pra um filme) começa contando as vivências de uma família num vilarejo que é inteiramente dependente da mineradora que tem lá. A família inicialmente formada pela mãe, 4 ou 5 filhos homens, a filha, a personagem principal e o avô - um senhor bem debilitado e já muito velho, é continuamente reduzida a medida em que os filhos conseguem oportunidades de trabalho melhores para sair da extrema pobreza.
 
 A mineradora é a única fonte de renda do lugar, então tudo gira em torno dela. A filha - como eu já disse, personagem principal - é abandonada pela mãe ainda criança. Não fica bem explicado o que acontece, o documentário/filme têm vários momentos em que coisas aparecem como vultos e em uma dessas vezes, a mãe aparece morta, boiando na represa d'agua que a mineradora usa. Em outro trecho ela aparece deitada numa casa abandonada, e é isso.
@@ -403,4 +408,25 @@ Ela anda tanto que chega no mar. E o documentário acaba. O que vêm depois são
 
 Uma comédia italiana. Certo dia um barbeiro conspiracionista percebe que o poste em frente a sua barbearia pisca como um padrão. Ele então descobre que as piscadas são uma mensagem, em código morse. A partir daí a história começa a ganhar grande proporção, atraindo uma legião de gente e a atenção de um político da região.
 
-Maravilhoso, entretivo, muito bom. 
+Maravilhoso, entretivo, muito bom.
+
+## Vermiglio
+
+<DateStrFormatted date="03-08-2025" />
+
+Quando eu cheguei o filme já tava rolando há 40 minutos. É muito triste. O filme gira em torno de uma família no vilarejo de Vermiglio, na Italia, durante a Segunda Guerra Mundial e os eventos são desencadeados depois que dois soldados desertam e vão para o vilarejo.
+
+A filha mais velha da família casa com um dos soldados desertores, que era de fora, da Sicília. Eles casam, a guerra acaba e o soldado - agora marido - vai para a cidade natal, promete mandar cartas para a esposa assim que chegar lá, mas as cartas não chegam. 
+
+Eles descobrem o que aconteceu com o marido, Pietro, quando em um dia leem o jornal. O que acontece depois são consequências de uma sociedade extremamente conservadora e arcaica. 
+
+## Cloud - Nuvem de vingança
+
+<DateStrFormatted date="03-08-2025" />
+
+Não esperava muito desse filme, para falar a verdade não esperava nada. Há algum tempo eu não assisto à 'trailers' antes de assistir a algum filme, nem vejo resenhas para ter uma experiência e um julgamento melhor assistindo ao filme. Com 'Cloud' não foi diferente, e que bom.
+
+No início fui surpreendido, pois o filme é japonês, depois tive mais uma surpresa com uma história extremamente original e diferenciada. E no final saí da sala maravilhado com todo o filme - que oficialmente é de terror, até tem um pouco de terror, mas têm muito mais 'suspense' e ação, principalmente do meio para o final.  
+
+> Se puderem, apenas assistam a esse filme. Serão 2 horas de tela, com quase todas as cenas muito bem-feitas e trabalhadas. 
+> Apesar de a mensagem que o filme deixa ser muito individualista, e o enredo girar em torno de uma prática antiética, o conjunto da obra é bom. 
