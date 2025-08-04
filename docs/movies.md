@@ -345,7 +345,7 @@ Um bom filme. Ação bacana. Quem curte o universo de John Wick vai gostar desse
 > [!CAUTION]
 > ⚠️ Gatilho: abuso, violência
 
-Até então, "Vitória" tinha sido o último filme que tinha me tocado no cinema. Escolhi assistir Manas pela sinopse que estava no site do cinema:
+Até então, "Vitória" tinha sido o último filme que me tinha tocado no cinema. Escolhi assistir Manas pela sinopse que estava no 'site' do cinema:
 
 > Marcielle, uma jovem de 13 anos que vive na Ilha do Marajó (PA), começa a entender que o futuro não lhe reserva muitas opções. Encurralada pela resignação da mãe e movida pela idealização da figura da irmã que partiu, ela decide confrontar a engrenagem violenta que rege a sua família e as mulheres da sua comunidade.
 
