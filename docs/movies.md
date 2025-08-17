@@ -57,7 +57,7 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |          Comédia           |             [Cineart Minas Shopping][cineart-minas-shopping]              |
 |                      [Conclave](#conclave)                       |          Thriller          |                  [Cineart Boulevard][cineart-boulevard]                   |
 |                  [O Brutalista](#o-brutalista)                   |           Drama            | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                    [Better Man](#better-man)                     |          Musical           |                    [Cineart Ponteio][cineart-ponteio]                     | 
+|                    [Better Man](#better-man)                     |          Musical           |                    [Cineart Ponteio][cineart-ponteio]                     |
 |                       [Vitória](#vitoria)                        |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
 |                     [Pecadores](#pecadores)                      |         Terror (?)         |             [Cineart Minas Shopping][cineart-minas-shopping]              |
 |            [A mulher no jardim](#a-mulher-no-jardim)             |         Terror (?)         |                     [Cineart Cidade][cineart-cidade]                      |
@@ -68,7 +68,8 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |          [Silencio das ostras](#o-silencio-das-ostras)           |      Documentário (?)      |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
 |   [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista)    |          Comédia           |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
 |                     [Vermiglio](#vermiglio)                      |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     | 
+|      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     |
+|      [A Luz](#a-luz)                                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 
 ## Minha irmã e eu
 
@@ -416,9 +417,9 @@ Maravilhoso, entretivo, muito bom.
 
 Quando eu cheguei o filme já tava rolando há 40 minutos. É muito triste. O filme gira em torno de uma família no vilarejo de Vermiglio, na Italia, durante a Segunda Guerra Mundial e os eventos são desencadeados depois que dois soldados desertam e vão para o vilarejo.
 
-A filha mais velha da família casa com um dos soldados desertores, que era de fora, da Sicília. Eles casam, a guerra acaba e o soldado - agora marido - vai para a cidade natal, promete mandar cartas para a esposa assim que chegar lá, mas as cartas não chegam. 
+A filha mais velha da família casa com um dos soldados desertores, que era de fora, da Sicília. Eles casam, a guerra acaba e o soldado - agora marido - vai para a cidade natal, promete mandar cartas para a esposa assim que chegar lá, mas as cartas não chegam.
 
-Eles descobrem o que aconteceu com o marido, Pietro, quando em um dia leem o jornal. O que acontece depois são consequências de uma sociedade extremamente conservadora e arcaica. 
+Eles descobrem o que aconteceu com o marido, Pietro, quando em um dia leem o jornal. O que acontece depois são consequências de uma sociedade extremamente conservadora e arcaica.
 
 ## Cloud - Nuvem de vingança
 
@@ -428,5 +429,11 @@ Não esperava muito desse filme, para falar a verdade não esperava nada. Há al
 
 No início fui surpreendido, pois o filme é japonês, depois tive mais uma surpresa com uma história extremamente original e diferenciada. E no final saí da sala maravilhado com todo o filme - que oficialmente é de terror, até tem um pouco de terror, mas têm muito mais 'suspense' e ação, principalmente do meio para o final.  
 
-> Se puderem, apenas assistam a esse filme. Serão 2 horas de tela, com quase todas as cenas muito bem-feitas e trabalhadas. 
-> Apesar de a mensagem que o filme deixa ser muito individualista, e o enredo girar em torno de uma prática antiética, o conjunto da obra é bom. 
+> Se puderem, apenas assistam a esse filme. Serão 2 horas de tela, com quase todas as cenas muito bem-feitas e trabalhadas.
+> Apesar de a mensagem que o filme deixa ser muito individualista, e o enredo girar em torno de uma prática antiética, o conjunto da obra é bom.
+
+## A Luz
+
+<DateStrFormatted date="16-08-2025" />
+
+Nada nesse filme tem lé com cré. Você começa achando que o filme é sobre uma coisa, depois o enredo muda e termina sem entender nada - ou até entende um pouquinho. Não vou "cimentá" sobre esse filme, porquê acho que não vale muito a pena. Também não recomendaria para ninguém.
