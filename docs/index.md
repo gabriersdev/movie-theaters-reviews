@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Reviews dos Cinemas de Belo Horizonte"
+  name: Reviews dos Cinemas de 🅱️elo 🏢orizonte 
   text: ""
   tagline: Avaliação de cinemas da cidade. Falo aqui também dos filmes que vi.
   image:
