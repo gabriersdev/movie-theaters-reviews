@@ -3,47 +3,50 @@
 @tailwind utilities;
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 /* Component: Home */
 /* Home Title */
 .clip {
-  -webkit-background-clip: text !important;
-  background-clip: text !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
 }
 
 /* Home IMG */
 .VPImage.image-src {
-  border-radius: 10px;
-  rotate: 5deg;
+    border-radius: 10px;
+    rotate: 5deg;
 }
 
 @media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
+    :root {
+        --vp-home-hero-image-filter: blur(56px);
+    }
 }
 
 @media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
+    :root {
+        --vp-home-hero-image-filter: blur(68px);
+    }
 }
 
 /* Component: VPContent */
 .VPHero {
-  margin-top: 0.5rem !important;
+    margin-top: 0.5rem !important;
 }
 
 .tagline {
-  font-size: 1.5rem;
-  font-weight: 500;
-  margin-top: 0.5rem;
-  text-wrap: balance;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 0.5rem;
+    text-wrap: balance;
 }
 
-
 .VPBadge {
-  font-size: 13px !important;
+    font-size: 13px !important;
+}
+
+.vp-doc img {
+    border-radius: 8px !important;
 }

@@ -36,6 +36,8 @@ Listado a partir dos melhores aos piores
 
 ## Cineart - Shopping Boulevard
 
+![Cineart Boulevard](/movie-theaters/boulevard.jpg)
+
 O cinema da rede Cineart fica no 3º piso do Shopping Boulevard. Tem uma área ampla e espaçosa, assim como todo o
 Shopping. Conta com umas cinco ou seis salas normais e uma sala IMAX.
 
@@ -43,6 +45,8 @@ O acesso ao shopping é muito fácil e em frente tem a estação de metrô Santa
 mais vazio que os outros de BH.
 
 ## Cineart - Shopping Cidade
+
+![Cineart Cidade](/movie-theaters/cidade.jpg)
 
 Na última vez que fui ao shopping, a entrada do cinema era no andar GG. Agora (final de 2024 e atualmente, em 2025) a entrada fica no piso G5, que é uma garagem. Para chegar até lá precisa pegar o elevador
 ou ir de escada.
@@ -90,6 +94,8 @@ nos horários de pico leva-se mais de 10 minutos para conseguir um carro por apl
 
 ## Cineart - Ponteio
 
+![Cineart Ponteio](/movie-theaters/ponteio.jpg)
+
 O ponteio é um shopping que fica na região do Bairro Santa Lúcia. O cinema da rede Cineart fica no 2º piso do shopping,
 depois da praça de alimentação. O cinema é um pouco escondido, mas seguindo as placas é fácil de achar.
 
@@ -128,6 +134,8 @@ A sala 4 e 2 são muito diferentes entre sim. A 4 é muito apertada. Não tem mu
 O atendimento foi bom. Ah, para chegar ao shopping é muito tranquilo. Tem ônibus que vai até ele saindo direto do centrão da cidade.
 
 ## Una Belas Artes <VPBadge type="tip">Cinema de rua</VPBadge>
+
+![Una Belas Artes](/movie-theaters/belas-artes.jpg)
 
 O primeiro shopping de rua que fui. Para chegar lá deu um certo trabalho. Ele fica próximo a Praça da Liberdade e é só subida o caminho todo. Fui a pé e cansei legal.
 
