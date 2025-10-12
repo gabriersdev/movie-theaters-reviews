@@ -15,19 +15,19 @@ head:
 > [!INFO]
 > [Confira a galeria, com imagem dos cinemas e/ou dos passeios](./gallery)
 
-## Classificação dos cinemas visitados
+## ➡️ Classificação dos cinemas visitados
 
 Listado a partir dos melhores aos piores
 
 |                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
 |:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                            [Una Belas Artes](./movie-theaters-list#una-belas-artes)                             | Excelente |   4   |     4      |    2    |
+|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    3    |
 | [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
-|                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    3    |
-|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |   5   |     4      |    2    |
+|                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
+|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |   5   |     4      |    3    |
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
-|                    [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club)                     |    Bom    |   4   |     3      |    1    |
+|             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
 |                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    4    |
 
@@ -66,8 +66,8 @@ O terceiro dessa lista, e o terceiro da rede Cineart. A entrada do cinema fica n
 para a Praça de Alimentação. Possui cinco ou seis salas e assim como o Cineart do Shopping Cidade, as salas ficam num
 piso superior e são acessadas por escada rolante ou convencional.
 
-Os valores dos produtos da bomboniere, assim como os outros cinemas da Cineart, são "acessíveis". Dá pra você compra
-bastante pipoca e um refri médio por menos de 30 reais.
+Os valores dos produtos da bomboniere, assim como os outros cinemas da Cineart, são "acessíveis". Dá para você compra
+bastante pipoca e um refrigerante médio por menos de 30 reais.
 
 O acesso ao shopping, assim como os três anteriores, é fácil. Bem ao lado tem a estação de metrô Minas Shopping e o shopping fica na avenida Cristiano Machado, uma das principais da cidade.
 
@@ -81,8 +81,8 @@ O acesso ao shopping, assim como os três anteriores, é fácil. Bem ao lado tem
 O primeiro cinema da rede avaliado aqui! Começando pela localização, que o shopping não ajuda. A distribuição das lojas
 que é feita é muito confusa. Não tem como encontrar quase nada ali sem a ajuda de um segurança.
 
-A entrada do cinema fica no 2º piso, que tem saída pra Rua Lavras, e é ao final do corretor à primeira esquerda (espero
-ter explicado corretamente). Em um piso superior, fica a bomboniere e a entrada para as salas. Os preço dos produtos são
+A entrada do cinema fica no 2º piso, que tem saída para Rua Lavras, e é ao final do corretor à primeira esquerda (espero
+ter explicado corretamente). Em um piso superior, fica a bomboniere e a entrada para as salas. Os preços dos produtos são
 bem altos. O menor combo (pipoca e refri) que você consegue, sem assinar um dos três tipos de planos que a Cinemark
 oferece, não sai por menos de 44 reais.
 
@@ -119,17 +119,17 @@ Assim como o Pátio Savassi, se você não tiver carro, vai ter que pegar um ôn
 
 Até o momento em que escrevo isso esse foi o lugar mais estranho que fui. Mas é um estranho no sentido de ser diferente. Geralmente os shoppings centers (que é onde esse cinema fica) têm características em comum: são bem iluminados, tem amplos espaços e corredores, tem uma arquitetura diferenciada dos demais prédios e por aí vai. Mas o Shopping Del Rey é um ponto fora da curva.
 
-Primeiro que, quando você entra no shopping parece estar em um shopping de outra cidade. É um shopping gigante, mas tem apenas 3 andares. Isso não é um problema, pelo contrário, mas o que me causou estranheza foi o fato de ser increvelmente mau iluminado. Eu passei uma tarde inteira lá e ao meio dia boa parte do shopping estava um pouco as escuras.
+Primeiro que, quando você entra no shopping parece estar em um shopping de outra cidade. É um shopping gigante, mas tem apenas 3 andares. Isso não é um problema, pelo contrário, mas o que me causou estranheza foi o fato de ser increvelmente mal iluminado. Eu passei uma tarde inteira lá e ao meio-dia boa parte do shopping estava um pouco as escuras.
 
-A outra coisa que me causou estranheza e bastante incômodo foi o fato de que alguns lugares no shopping é como um labirinto. Para ir ao banheiro, no terceiro andar você entra num apertado corredor, que é como uma ravina entre as gigantescas lojas, aí você vira prum lado, vira pro outro e vualá, está o banheiro. Pensou que acabou a viração? Na-na-ni-na-não. Depois de passar pela porta você vira a esquerda, e dá para as pias, mais a frente, virando a direita, aí sim você tem acesso as cabines dos sanitários.
+A outra coisa que me causou estranheza e bastante incômodo foi que alguns lugares no shopping é como um labirinto. Para ir ao banheiro, no terceiro andar você entra num apertado corredor, que é como uma ravina entre as gigantescas lojas, aí você vira prum lado, vira para o outro e vualá, está o banheiro. Pensou que acabou a viração? Na-na-ni-na-não. Após passar pela porta você vira a esquerda, e dá para as pias, mais a frente, virando a direita, aí, sim, você tem acesso às cabines dos sanitários.
 
-Cabines essas que tem uma minúscula porta, à proprósito. Eu sempre ouvi falar de design hostil à gente gorda, mas nunca tinha visto nada tão claro disso. Qualquer pessoa mais cheinha teria que passar de lado pela porta.
+Cabines essas que tem uma minúscula porta, a propósito. Eu sempre ouvi falar de design hostil à gente gorda, mas nunca tinha visto nada tão claro disso. Qualquer pessoa mais "cheinha" teria que passar de lado pela porta.
 
-Do lado de fora esse shopping também é uma grande e sintuosa massa de concreto. "Brutalismo" - é o nome desse estilo de arquitetura.
+Do lado de fora esse shopping também é uma grande e sinuosa massa de concreto. "Brutalismo" - é o nome desse estilo de arquitetura.
 
 Bom, agora vamos falar do cinema. Não é ruim. É fácil de achar - fica no final do terceiro piso e assim como os outros têm bomboniere, mas não tem banheiro próprio. Se quiser ir vai ter que ir no do shopping e passar pelo labirinto. Na primeira vez que fui assisti há dois filmes, na sala 4 e outro na sala 2. O moço que libera a entrada pediu comprovante de meia. Eu tirei a identidade do bolso, ele não olhou e liberou o acesso.
 
-A sala 4 e 2 são muito diferentes entre sim. A 4 é muito apertada. Não tem muito assentos - deve caber pouco mais de 100 pessoas e todo o espaço que a sala tinha para acomodar cadeiras foram usados. O conforto é OK. Não tem nada de mais. Não é tão bom quanto as salas do Ponteio mas também não é das mais desconfortáveis. A sala 2, por sua vez, é uma sala maior. Grande e que acomoda mais gente. Gostei mais dela.
+A sala 4 e 2 são muito diferentes entre sim. A 4 é muito apertada. Não tem muito assentos - deve caber pouco mais de 100 pessoas e todo o espaço que a sala tinha para acomodar cadeiras foram usados. O conforto é OK. Não tem nada de mais. Não é tão bom quanto as salas do Ponteio mas também não é das mais desconfortáveis. A sala 2, por sua vez, é uma sala maior. Grande e acomoda mais gente. Gostei mais dela.
 
 O atendimento foi bom. Ah, para chegar ao shopping é muito tranquilo. Tem ônibus que vai até ele saindo direto do centrão da cidade.
 
@@ -143,36 +143,36 @@ Na entrada do cinema tem a bilheteria. Lá, além de comprar os ingressos físic
 
 Lá dentro, fora as salas de cinema, têm uma carissíma cafeteria - que cobra por volta de 6 reais um café coado e uma pequena livraria. Têm também várias poltronas e cadeiras para recepcionar tanto os clientes da cafeteria quanto alguém que tiver de bobeira.
 
-O banheiro também é um ponto negativo. É minúsculo. Mais minúsculo mesmo. Tem uma pia grande, dois mictórios e uma cabine - não supreendentimento minúscula também.
+O banheiro também é um ponto negativo. É minúsculo. Mais minúsculo mesmo. Tem uma pia grande, dois mictórios e uma cabine - não "surpreentedemente" minúscula também.
 
 Vamos falar do que interessa? Isso mesmo das salas de cinema. São 3. Na primeira vez que fui tive o prazer de ir em duas. E elas eram iguaiszinhas. Como é cinema de rua a diferença de altura das poltronas é quase nula, então se alguém mais cabeçudo que você tiver na sua frente, vai atrapalhar a sua experiência.
 
-O primeiro filme que vi foi na sala 2 e eu entrei no cinema, subi as escadas e entrei para a sala sem ninguém confirmar meu ingresso ou pedir para verificar nada. Abri a porta e como estava em uma cena mais escura achei que tivesse sozinho. Tive dificuldade para achar algum assento. Quando achei, me sentei e segundos depois, com o filme já em uma cena clara vi 3 cabecinhas a minha frente - eu não estava sozinho...
+O primeiro filme que vi foi à sala 2 e eu entrei no cinema, subi as escadas e entrei para a sala sem ninguém confirmar meu ingresso ou pedir para verificar nada. Abri a porta e como estava em uma cena mais escura achei que tivesse sozinho. Tive dificuldade para achar algum assento. Quando achei, me sentei e segundos depois, com o filme já em uma cena clara vi 3 cabecinhas a minha frente - eu não estava sozinho...
 
 Se você não curtir café, mais a tarde fica um carrinho de pipoca na porta do cinema. Na rua de cima tem um Subway também - bem pequeno aliás.
 
 A outra sala que fui, foi a sala 3, que fica no primeiro piso. Eu cheguei lá, entrei na fila que tinha, passei pelo moço que estava na porta. E ele perguntou assim: "Mundos também?", o nome do filme era "Entre dois mundos", eu disse que sim, ele não confirmou ou pediu nada e eu entrei. Fácil assim.
 
-Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas poutronas, a tela do mesmo tamanho. Um letreiro pequeno em neon escrito "Proibido fumar" e outro, do outro lado escrito "Saída".
+Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas poltronas, a tela do mesmo tamanho. Um letreiro pequeno em neon escrito "Proibido fumar" e outro, do outro lado escrito "Saída".
 
-Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir despretenciosamente um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for pra te fazer pensar.
+Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir a um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for para te fazer pensar.
 
 ## Cinema Minas Tenis Club <VPBadge type="tip">Cinema de rua</VPBadge>
 
 É um cinema elitizado. Não que as coisas sejam caras e muito fora do que é praticado, mas falo das pessoas que frequentam esse cinema. O Cinema é dentro da área do Minas Tenis Club e da Unimed. E o Minas Tenis Club é frequentado pela classe A e B. Por isso começo dizendo que é um cinema elitizado. Isso pode incomodar quem for lá. Me incomodou, mas isso pode ser "pira" minha.
 
-Já disse onde fica mas não falei em qual andar. É no subsolo. Muito limpo, organizado e com uma baita estrutura. Fica próximo de uma cafeteria da Mellita que tem dentro do clube.
+Já disse onde fica, mas não falei em qual andar. É no subsolo. Muito limpo, organizado e com uma baita estrutura. Fica próximo de uma cafeteria da Mellita que tem dentro do clube.
 
 Possui três salas. Todas iguais. O que muda é só a entrada. São salas pequenas, que comportam no máximo 50 pessoas. A distância entre a poltrona e a cadeira é bem pequena. É muito fácil você sem querer ficar empurrando a poltrona da frente, e isso vai incomodar quem tiver nela.
 
-Na primeira vez que fui tive que me expremer quatro vezes para pessoas que estavam no final da fileira sairem.
+Na primeira vez que fui tive que me expremer quatro vezes para pessoas que estavam no final da fileira saírem.
 
-Os ombros das poltronas não tem lugar para colocar copo. Se for beber alguma coisa, ou toma tudo de uma vez ou deixa no chão. As poltronas também não são muito confortáveis.
+Os ombros das poltronas não tem lugar para colocar copo. Se for beber alguma coisa, ou toma tudo de uma vez, ou deixa no chão. As poltronas também não são muito confortáveis.
 
 Por falar em beber, o cinema tem uma bomboniere. Vende pipoca, doces e guloseimas e refrigerante de lata. As coisas não são muito caras, tipo, o Batom, aquele chocolate da Nestlé, é vendido por R$ 2,20.
 
-O banheiro tem uma cabine e alguns mictórios. É de fácil acesso. [Na galeria têm uma foto que tirei de um adesivo que colocaram encima de um dos mictórios.](/gallery)
+O banheiro tem uma cabine e alguns mictórios. É de fácil acesso. [Na galeria têm uma foto que tirei de um adesivo que colocaram em cima de um dos mictórios.](/gallery)
 
-Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasado, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada.
+Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasados, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí, sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada.
 
-Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stich (2025)"](/movies#lilo-stich-2025) estava em cartaz lá.
+Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stitch (2025)"](/movies#lilo-stitch-2025) estava em cartaz lá.
