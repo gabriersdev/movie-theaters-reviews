@@ -70,6 +70,8 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                     [Vermiglio](#vermiglio)                      |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     |
 |                         [A Luz](#a-luz)                          |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|                          [Nós (?)](#0)                           |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 
 ## Minha irmã e eu
 
@@ -432,3 +434,15 @@ No início fui surpreendido, pois o filme é japonês, depois tive mais uma surp
 <DateStrFormatted date="16-08-2025" />
 
 Nada nesse filme tem lé com cré. Você começa achando que o filme é sobre uma coisa, depois o enredo muda e termina sem entender nada - ou até entende um pouquinho. Não vou "cimentá" sobre esse filme, porque acho que não vale muito a pena. Também não recomendaria para ninguém.
+
+## O último azul
+
+<DateStrFormatted date="18-10-2025" />
+
+...
+
+## Nós (?)
+
+<DateStrFormatted date="18-10-2025" />
+
+...
