@@ -70,8 +70,8 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                     [Vermiglio](#vermiglio)                      |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     |
 |                         [A Luz](#a-luz)                          |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|                          [Nó (?)](#no)                           |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|                          [Nós (?)](#0)                           |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 
 ## Minha irmã e eu
 
@@ -435,14 +435,30 @@ No início fui surpreendido, pois o filme é japonês, depois tive mais uma surp
 
 Nada nesse filme tem lé com cré. Você começa achando que o filme é sobre uma coisa, depois o enredo muda e termina sem entender nada - ou até entende um pouquinho. Não vou "cimentá" sobre esse filme, porque acho que não vale muito a pena. Também não recomendaria para ninguém.
 
+## Nó
+
+<DateStrFormatted date="19-10-2025" />
+
+OK. "Nó" delitivamente é um filme. Não diria que é um filme ruim, até por que existem cenas ótimas, ao mesmo tempo que tem diálogos pavorosos. 
+
+Curitiba é uma cidade com uma esquerda tão cirandeira quanto a de São Paulo. E nesse filme, colocaram diálogos extremamente forçados e que jamais ocorreriam na realidade de uma família sustentada por uma mãe, que acabou de largar o marido, que cria três filhas, é pobre e trabalha numa fábrica de pipoca doce e salgadinhos de pacote.
+
+Alguns podem realmente achar que estou pegando pesado aqui por X ou Y motivo, mas estou tentando ser aqui o mais legal com esse filme, mas é bem difícil. Logo no início tem uma cena, que, por algum motivo acaba com a gíria "olhar para o próprio espelho" (ou algo assim) - e por algum raio de motivo levam isso para uma crítica social sobre a colonização - já que foram os portugueses que trouxeram espelho para cá e usavam como moeda de troca com os indígenas. E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, com todo o respeito, muito difícil de ser real com o estilo de vida que ela têm e até mesmo algumas posturas que ela tem na trama.
+
+...
+
 ## O último azul
 
-<DateStrFormatted date="18-10-2025" />
+<DateStrFormatted date="19-10-2025" />
 
-...
+Na trama, depois de 75 anos, os idosos são obrigados a ir para uma colônia do governo e a família recebe uma pensão pelo parente. A senhora tem 77 anos e recebe a notícia que tem uma semana para ir para a colônia. A casa dela é marcada, com o que dizem ser "uma homenagem do governo pelos anos de serviços prestados". A polícia cidadã é responsável por fazer a vigilância e procurar os idosos, que fogem da colônia. 
 
-## Nós (?)
+Mas a nossa senhora tem um sonho: quer voar de avião, não importa para onde, não importa por quanto tempo, mas ela quer voar.
 
-<DateStrFormatted date="18-10-2025" />
+Ela vai até uma agência de turismo, mas a filha, que nesse tempo já é tutora da senhora não autoriza a viagem. Ela resolve, então, fretar um barco para levá-la até um vilarejo afastado onde, supostamente, conseguiria alguém que voasse com ela. Nessa, ela conhece um barqueiro carrancudo que mostra para ela o poder de ver o futuro em um caracol azul. Chegando no vilarejo ela se ilude com um sujeito que torra o dinheiro dela. Sem opções, ela desiste de realizar o sonho e volta para a casa e começa os preparos para ir para a colônia.
 
-...
+Ninguém sabe o que acontece com os idosos na colônia. Muita gente diz que quem vai não volta, que a família não consegue saber da pessoa depois... Durante o filme, de fundo, sem alarde, aparecem várias pichações como: "Devolvam nossos idosos", "Idoso também é gente" e por aí vai. 
+
+Quando a senhora ia entrar no ônibus para ir para a colônia ela foge. E, por alguns acasos acaba encontrando uma "freira", já de idade e cabelos ralos e esbranquiçados, com sotaque espanhol-aportuguesado que conseguiu comprar a liberdade. 
+
+Esse filme é de-li-ci-o-so. E o que para mim, faz o filme ser tão bom é que ele não se propõem a nada, é simples, espontâneo, não inventa moda e principalmente, não tem final. Só acaba. Muita gente não gosta de filmes assim, querem um roteiro fechado, com uma solução e um final (geralmente bom), mas, "O último azul" não entrega isso. Ele te faz, pelo menos por alguns instantes que seja, se questionar sobre o que será que aconteceu com a senhora da história, o que raios acontecia com os velhos na colônia? O futuro realmente é para todos? As semelhanças de elementos nesse filme com eventos históricos conhecidos não é coincidência.
