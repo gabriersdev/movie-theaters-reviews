@@ -154,7 +154,7 @@ espectadores como eu, que esperam um final minimamente justo.
 ## Venom: A Última Rodada
 
 "A Última Rodada" foi o título escolhido para o último filme da saga de Eddie Brock e o simbionte Venom. O filme é mais
-um filme de “super-herói” genérico que segue a já cansada jornada do herói.
+um filme de "super-herói" genérico que segue a já cansada jornada do herói.
 
 No filme, Venom e Eddie estão a ser cassados por possuir o codex (nome ótimo e original, diga-se de passagem) - que é
 basicamente, uma espécie de fórmula para criar outros simbiontes.
@@ -439,24 +439,32 @@ Nada nesse filme tem lé com cré. Você começa achando que o filme é sobre um
 
 <DateStrFormatted date="19-10-2025" />
 
-OK. "Nó" delitivamente é um filme. Não diria que é um filme ruim, até por que existem cenas ótimas, ao mesmo tempo que tem diálogos pavorosos. 
+OK. "Nó" é, definitivamente, um filme. Não diria que é um filme ruim, até porque existem cenas ótimas - ao mesmo tempo, em que há diálogos pavorosos.
 
-Curitiba é uma cidade com uma esquerda tão cirandeira quanto a de São Paulo. E nesse filme, colocaram diálogos extremamente forçados e que jamais ocorreriam na realidade de uma família sustentada por uma mãe, que acabou de largar o marido, que cria três filhas, é pobre e trabalha numa fábrica de pipoca doce e salgadinhos de pacote.
+Curitiba é uma cidade com uma esquerda tão cirandeira quanto a de São Paulo. E, nesse filme, colocaram diálogos extremamente forçados, que jamais ocorreriam na realidade de uma família sustentada por uma mãe recém-separada, com três filhas, pobre, que trabalha numa fábrica de pipoca doce e salgadinhos de pacote.
 
-Alguns podem realmente achar que estou pegando pesado aqui por X ou Y motivo, mas estou tentando ser aqui o mais legal com esse filme, mas é bem difícil. Logo no início tem uma cena, que, por algum motivo acaba com a gíria "olhar para o próprio espelho" (ou algo assim) - e por algum raio de motivo levam isso para uma crítica social sobre a colonização - já que foram os portugueses que trouxeram espelho para cá e usavam como moeda de troca com os indígenas. E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, com todo o respeito, muito difícil de ser real com o estilo de vida e até mesmo algumas posturas que ela tem no filme.
+Alguns podem achar que estou pegando pesado aqui por X ou Y motivo, mas juro que estou tentando ser o mais justo possível com esse filme - só que é bem difícil. Logo no início, há uma cena que, por algum motivo, termina com a gíria "olhar para o próprio espelho" (ou algo assim) - e, por algum raio de motivo, isso é levado para uma crítica social sobre a colonização, já que foram os portugueses que trouxeram espelhos para cá e os usavam como moeda de troca com os indígenas.
+
+E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, com todo o respeito, muito difícil de acreditar, considerando o estilo de vida e até mesmo algumas posturas que ela tem no filme.
 
 ## O último azul
 
 <DateStrFormatted date="19-10-2025" />
 
-Na trama, depois de 75 anos, os idosos são obrigados a ir para uma colônia do governo e a família recebe uma pensão pelo parente. A senhora tem 77 anos e recebe a notícia que tem uma semana para ir para a colônia. A casa dela é marcada, com o que dizem ser "uma homenagem do governo pelos anos de serviços prestados". A polícia cidadã é responsável por fazer a vigilância e procurar os idosos, que fogem da colônia. 
+Na trama, depois de 75 anos, os idosos são obrigados a ir para uma colônia do governo, e a família recebe uma pensão pelo parente. A senhora tem 77 anos quando recebe a notícia de que tem uma semana para ir para a colônia. A casa dela é marcada com o que dizem ser "uma homenagem do governo pelos anos de serviços prestados". A polícia cidadã é responsável por fazer a vigilância e caçar os idosos que fogem da colônia.
 
-Mas a nossa senhora tem um sonho: quer voar de avião, não importa para onde, não importa por quanto tempo, mas ela quer voar.
+Mas a nossa senhora tem um sonho: quer voar de avião. Não importa para onde, não importa por quanto tempo - ela só quer voar.
 
-Ela vai até uma agência de turismo, mas a filha, que nesse tempo já é tutora da senhora não autoriza a viagem. Ela resolve, então, fretar um barco para levá-la até um vilarejo afastado onde, supostamente, conseguiria alguém que voasse com ela. Nessa, ela conhece um barqueiro carrancudo que mostra para ela o poder de ver o futuro em um caracol azul. Chegando no vilarejo ela se ilude com um sujeito que torra o dinheiro dela. Sem opções, ela desiste de realizar o sonho e volta para a casa e começa os preparos para ir para a colônia.
+Ela vai até uma agência de turismo, mas a filha - que, nesse momento, já é sua tutora - não autoriza a viagem. Então, a senhora resolve fretar um barco para levá-la até um vilarejo afastado, onde supostamente conseguiria alguém disposto a voar com ela. Nessa jornada, conhece um barqueiro carrancudo que lhe mostra o poder de ver o futuro em um caracol azul.
 
-Ninguém sabe o que acontece com os idosos na colônia. Muita gente diz que quem vai não volta, que a família não consegue saber da pessoa depois... Durante o filme, de fundo, sem alarde, aparecem várias pichações como: "Devolvam nossos idosos", "Idoso também é gente" e por aí vai. 
+Chegando ao vilarejo, ela se ilude com um sujeito que torra todo o dinheiro dela. Sem opções, desiste de realizar o sonho e volta para casa, começando os preparativos para ir para a colônia.
 
-Quando a senhora ia entrar no ônibus para ir para a colônia ela foge. E, por alguns acasos acaba encontrando uma "freira", já de idade e cabelos ralos e esbranquiçados, com sotaque espanhol-aportuguesado que conseguiu comprar a liberdade. 
+Ninguém sabe o que realmente acontece com os idosos por lá. Muita gente diz que quem vai, não volta - que a família nunca mais tem notícias. Durante o filme, de fundo, sem destaque, aparecem pichações como: "Devolvam nossos idosos", "Idoso também é gente" e outras do tipo.
 
-Esse filme é de-li-ci-o-so. E o que para mim, faz o filme ser tão bom é que ele não se propõem a nada, é simples, espontâneo, não inventa moda e principalmente, não tem final. Só acaba. Muita gente não gosta de filmes assim, querem um roteiro fechado, com uma solução e um final (geralmente bom), mas, "O último azul" não entrega isso. Ele te faz, pelo menos por alguns instantes que seja, se questionar sobre o que será que aconteceu com a senhora da história, o que raios acontecia com os velhos na colônia? O futuro realmente é para todos? As semelhanças de elementos nesse filme com eventos históricos conhecidos não é coincidência.
+Quando a senhora está prestes a entrar no ônibus rumo à colônia, ela foge. E, por uma série de acasos, acaba encontrando uma "freira" - já idosa, de cabelos ralos e esbranquiçados, com um sotaque espanhol-aportuguesado - que conseguiu comprar a própria liberdade.
+
+Esse filme é de-li-ci-o-so. E o que, para mim, o torna tão bom é justamente o fato de não se propor a nada grandioso. É simples, espontâneo, não inventa moda e, principalmente, não tem final. Ele simplesmente acaba.
+
+Muita gente não gosta de filmes assim - preferem roteiros fechadinhos, com solução e final (geralmente feliz) - mas O Último Azul não entrega isso. Ele te faz, nem que por alguns instantes, se questionar: o que será que aconteceu com a senhora da história? O que raios acontecia com os velhos na colônia? O futuro realmente é para todos?
+
+As semelhanças entre os elementos desse filme e eventos históricos conhecidos definitivamente não são coincidências.
