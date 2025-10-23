@@ -21,7 +21,7 @@ Listado a partir dos melhores aos piores
 
 |                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
 |:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    3    |
+|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    4    |
 | [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
 |                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
 |                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |   5   |     4      |    3    |
@@ -156,6 +156,8 @@ A outra sala que fui, foi a sala 3, que fica no primeiro piso. Eu cheguei lá, e
 Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas poltronas, a tela do mesmo tamanho. Um letreiro pequeno em neon escrito "Proibido fumar" e outro, do outro lado escrito "Saída".
 
 Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir a um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for para te fazer pensar.
+
+Tive a oportunidade de visitar a sala 1 do cinema quando vi ao filme [O último azul](/movies#o-ultimo-azul). É uma sala bem maior que as outras duas, com mais lugares, mas a tela, acredito eu, tenha o mesmo tamanho. As poltronas não são tão confortáveis quanto as das salas 2 e 3, são mais antigas. No geral a sala 1 tem o aspecto de ser mais velha que as outras e também não é tão bem climatizada. 
 
 ## Cinema Minas Tenis Club <VPBadge type="tip">Cinema de rua</VPBadge>
 
