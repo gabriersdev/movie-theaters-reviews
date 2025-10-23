@@ -443,9 +443,7 @@ OK. "Nó" delitivamente é um filme. Não diria que é um filme ruim, até por q
 
 Curitiba é uma cidade com uma esquerda tão cirandeira quanto a de São Paulo. E nesse filme, colocaram diálogos extremamente forçados e que jamais ocorreriam na realidade de uma família sustentada por uma mãe, que acabou de largar o marido, que cria três filhas, é pobre e trabalha numa fábrica de pipoca doce e salgadinhos de pacote.
 
-Alguns podem realmente achar que estou pegando pesado aqui por X ou Y motivo, mas estou tentando ser aqui o mais legal com esse filme, mas é bem difícil. Logo no início tem uma cena, que, por algum motivo acaba com a gíria "olhar para o próprio espelho" (ou algo assim) - e por algum raio de motivo levam isso para uma crítica social sobre a colonização - já que foram os portugueses que trouxeram espelho para cá e usavam como moeda de troca com os indígenas. E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, com todo o respeito, muito difícil de ser real com o estilo de vida que ela têm e até mesmo algumas posturas que ela tem na trama.
-
-...
+Alguns podem realmente achar que estou pegando pesado aqui por X ou Y motivo, mas estou tentando ser aqui o mais legal com esse filme, mas é bem difícil. Logo no início tem uma cena, que, por algum motivo acaba com a gíria "olhar para o próprio espelho" (ou algo assim) - e por algum raio de motivo levam isso para uma crítica social sobre a colonização - já que foram os portugueses que trouxeram espelho para cá e usavam como moeda de troca com os indígenas. E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, com todo o respeito, muito difícil de ser real com o estilo de vida e até mesmo algumas posturas que ela tem no filme.
 
 ## O último azul
 
