@@ -70,8 +70,9 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                     [Vermiglio](#vermiglio)                      |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     |
 |                         [A Luz](#a-luz)                          |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|                             [N](#no)                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|                            [Nó](#no)                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
+|              [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                     [Cineart Cidade][cineart-cidade]                      |
 
 ## Minha irmã e eu
 
@@ -468,3 +469,13 @@ Esse filme é de-li-ci-o-so. E o que, para mim, o torna tão bom é justamente o
 Muita gente não gosta de filmes assim - preferem roteiros fechadinhos, com solução e final (geralmente feliz) - mas O Último Azul não entrega isso. Ele te faz, nem que por alguns instantes, se questionar: o que será que aconteceu com a senhora da história? O que raios acontecia com os velhos na colônia? O futuro realmente é para todos?
 
 As semelhanças entre os elementos desse filme e eventos históricos conhecidos definitivamente não são coincidências.
+
+## Telefone Preto 2
+
+<DateStrFormatted date="28-10-2025" />
+
+É clichê dizer que este filme (de terror) é aterrorizante? Pode ser que sim, mas de fato é. Os últimos 2 filmes de terror que vi ([A mulher no Jardim](#a-mulher-no-jardim) e [Pecadores](#pecadores)) não me causaram tanto medo quanto "Telefone Preto 2". Para quem viu o primeiro filme sabe que o menino conseguiu matar o sequestrador e sair do cativeiro. Neste segundo filme, anos depois de tudo o que aconteceu, a irmã do menino começa a ter sonhos sobre assassinatos, enquanto o menino continua a receber ligações. 
+
+Só que agora, a história ganha novos contornos quando eles descobrem sobre que o sequestrador pode ter começado a matança em um "retiro" católico, no mesmo lugar em que a mãe deles trabalhou como monitora. 
+
+O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.  
