@@ -29,7 +29,7 @@ Listado a partir dos melhores aos piores
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
 |             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
-|                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    4    |
+|                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
 
 ¹ CQPL = Conforto, qualidade, preço e localização  
 ² Variedade = Variedade do catálogo
@@ -59,6 +59,7 @@ a atenção: a limpeza. Muita pipoca e restos de embalagens no chão. Da segunda
 não reparei na limpeza. Na terceira vez em que fui ao Cidade, a sala 6 estava bem limpa e agradável.
 
 Na 4ª vez que fui ao cinema, na sala 5, também tinha um vagalume :D.
+Na 5ª vez que fui ao cinema, a sala 7 também tinha um vagalume.
 
 ## Cineart - Minas Shopping
 
