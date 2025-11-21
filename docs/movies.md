@@ -8,6 +8,7 @@ head:
 
 <script setup>
   import DateStrFormatted from "./components/DateStrFormatted.vue";
+  import MovieBanner from "./components/MovieBanner.vue";
   import {VPBadge} from "vitepress/theme";
 </script>
 
@@ -73,6 +74,7 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                            [Nó](#no)                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |              [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                     [Cineart Cidade][cineart-cidade]                      |
+|             [Jujutsu no Kaisen](#jujutsu-no-kaisen)              |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
 
 ## Minha irmã e eu
 
@@ -479,3 +481,15 @@ As semelhanças entre os elementos desse filme e eventos históricos conhecidos 
 Só que agora, a história ganha novos contornos quando eles descobrem sobre que o sequestrador pode ter começado a matança em um "retiro" católico, no mesmo lugar em que a mãe deles trabalhou como monitora. 
 
 O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.  
+
+## Jujutsu no Kaisen
+
+<MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
+
+<DateStrFormatted date="20-11-2025" />
+
+Acho que toda a experiência cinéfila é válida. Não assisto animes e não curto muito o gênero, mas resolvi ver o filme. E bem, assim como outros animes conhecidos é full adrenalina. 
+
+Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma antecipação da terceira temporada do anime, então, acho que por isso que é assim.
+
+> Nesse dia a meia foi 24 reais... Era um feriado, mas ainda assim muito caro. A meia do [Ponteio](/movie-theaters-list#cineart-ponteio), o shopping mais caro da rede em Belo Horizonte é 25 reais nos feriados e fins de semana.
