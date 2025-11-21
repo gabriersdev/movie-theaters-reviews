@@ -24,7 +24,7 @@ Listado a partir dos melhores aos piores
 |                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    4    |
 | [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
 |                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
-|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 | Excelente |   5   |     4      |    3    |
+|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 |    Bom    |   4   |     4      |    4    |
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
 |             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
@@ -43,6 +43,8 @@ Shopping. Conta com umas cinco ou seis salas normais e uma sala IMAX.
 
 O acesso ao shopping é muito fácil e em frente tem a estação de metrô Santa Efigênia. O shopping é grande e geralmente
 mais vazio que os outros de BH.
+
+> Até o início de 2025 o valor do ingresso nessa unidade do Cineart era bem acessível. A meia durante a semana, na sala normal, custava por volta de 17 reais e nos fins de semana e feriados, por volta de 21 reais. Só que, na última vez que fui (novembro de 2025), num feriado, a meia estava 24 reais. Considerando que a meia naquele mesmo dia na unidade mais cara da rede em BH estava 25 reais, rebaixei o conceito desse cinema de "Excelente" para "Bom".   
 
 ## Cineart - Shopping Cidade
 
