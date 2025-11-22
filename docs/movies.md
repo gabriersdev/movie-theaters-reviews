@@ -74,7 +74,7 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                            [Nó](#no)                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |              [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                     [Cineart Cidade][cineart-cidade]                      |
-|             [Jujutsu no Kaisen](#jujutsu-no-kaisen)              |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
+|    [Jujutsu no Kaisen: Execução](#jujutsu-no-kaisen-execucao)    |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
 
 ## Minha irmã e eu
 
@@ -482,7 +482,7 @@ Só que agora, a história ganha novos contornos quando eles descobrem sobre que
 
 O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.  
 
-## Jujutsu no Kaisen
+## Jujutsu no Kaisen - Execução
 
 <MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
 
