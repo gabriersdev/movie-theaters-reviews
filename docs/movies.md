@@ -493,3 +493,19 @@ Acho que toda a experiência cinéfila é válida. Não assisto animes e não cu
 Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma antecipação da terceira temporada do anime, então, acho que por isso que é assim.
 
 > Nesse dia a meia foi 24 reais... Era um feriado, mas ainda assim muito caro. A meia do [Ponteio](/movie-theaters-list#cineart-ponteio), o shopping mais caro da rede em Belo Horizonte é 25 reais nos feriados e fins de semana.
+
+## Hamnet - A Vida Antes de Hamlet
+
+...
+
+<MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet"/>
+
+<DateStrFormatted date="06-02-2026" />
+
+## A Única Saída
+
+...
+
+<MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída"/>
+
+<DateStrFormatted date="06-02-2026" />
