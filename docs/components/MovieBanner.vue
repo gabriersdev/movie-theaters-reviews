@@ -9,11 +9,12 @@
 export default {
   props: {
     src: String,
-    movieName: String
+    movieName: String,
+    copyrightPlatform: String
   },
   computed: {
     getAltText() {
-      return `Capa do filme "${this.movieName}". Letterboxd - Reprodução.`
+      return `Capa do filme "${this.movieName}". ${this.copyrightPlatform ?? "Letterboxd"} - Reprodução.`
     }
   }
 }

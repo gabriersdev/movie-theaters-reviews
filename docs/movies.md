@@ -496,16 +496,16 @@ Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma a
 
 ## Hamnet - A Vida Antes de Hamlet
 
-...
+<MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet" copyrightPlatform="MUBI"/>
 
-<MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet"/>
+Bom, bonito, bem escrito. Tem a parte teatral que não curti tanto, mas é um bom filme. Imagino que para quem leu Shakespeare deve ser ainda mais fantástico. Nada mais a falar.
 
 <DateStrFormatted date="06-02-2026" />
 
 ## A Única Saída
 
-...
+<MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída" copyrightPlatform="MUBI"/>
 
-<MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída"/>
+Ma-ra-vi-lho-so. Divertido, descontraído, perfeito, além de bem escrito. Muito melhor que um bocado desses filmes que receberam indicações para o flop que é o tal do Oscar.
 
 <DateStrFormatted date="06-02-2026" />
