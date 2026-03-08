@@ -74,7 +74,7 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                            [Nó](#no)                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |              [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                     [Cineart Cidade][cineart-cidade]                      |
-|             [Jujutsu no Kaisen](#jujutsu-no-kaisen)              |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
+|    [Jujutsu no Kaisen: Execução](#jujutsu-no-kaisen-execucao)    |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
 
 ## Minha irmã e eu
 
@@ -482,7 +482,7 @@ Só que agora, a história ganha novos contornos quando eles descobrem sobre que
 
 O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.  
 
-## Jujutsu no Kaisen
+## Jujutsu no Kaisen - Execução
 
 <MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
 
@@ -493,3 +493,19 @@ Acho que toda a experiência cinéfila é válida. Não assisto animes e não cu
 Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma antecipação da terceira temporada do anime, então, acho que por isso que é assim.
 
 > Nesse dia a meia foi 24 reais... Era um feriado, mas ainda assim muito caro. A meia do [Ponteio](/movie-theaters-list#cineart-ponteio), o shopping mais caro da rede em Belo Horizonte é 25 reais nos feriados e fins de semana.
+
+## Hamnet - A Vida Antes de Hamlet
+
+...
+
+<MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet"/>
+
+<DateStrFormatted date="06-02-2026" />
+
+## A Única Saída
+
+...
+
+<MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída"/>
+
+<DateStrFormatted date="06-02-2026" />
