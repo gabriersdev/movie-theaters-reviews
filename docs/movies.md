@@ -476,11 +476,11 @@ As semelhanças entre os elementos desse filme e eventos históricos conhecidos 
 
 <DateStrFormatted date="28-10-2025" />
 
-É clichê dizer que este filme (de terror) é aterrorizante? Pode ser que sim, mas de fato é. Os últimos 2 filmes de terror que vi ([A mulher no Jardim](#a-mulher-no-jardim) e [Pecadores](#pecadores)) não me causaram tanto medo quanto "Telefone Preto 2". Para quem viu o primeiro filme sabe que o menino conseguiu matar o sequestrador e sair do cativeiro. Neste segundo filme, anos depois de tudo o que aconteceu, a irmã do menino começa a ter sonhos sobre assassinatos, enquanto o menino continua a receber ligações. 
+É clichê dizer que este filme (de terror) é aterrorizante? Pode ser que sim, mas de fato é. Os últimos 2 filmes de terror que vi ([A mulher no Jardim](#a-mulher-no-jardim) e [Pecadores](#pecadores)) não me causaram tanto medo quanto "Telefone Preto 2". Para quem viu o primeiro filme sabe que o menino conseguiu matar o sequestrador e sair do cativeiro. Neste segundo filme, anos depois de tudo o que aconteceu, a irmã do menino começa a ter sonhos sobre assassinatos, enquanto o menino continua a receber ligações.
 
-Só que agora, a história ganha novos contornos quando eles descobrem sobre que o sequestrador pode ter começado a matança em um "retiro" católico, no mesmo lugar em que a mãe deles trabalhou como monitora. 
+Só que agora, a história ganha novos contornos quando eles descobrem sobre que o sequestrador pode ter começado a matança em um "retiro" católico, no mesmo lugar em que a mãe deles trabalhou como monitora.
 
-O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.  
+O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.
 
 ## Jujutsu no Kaisen - Execução
 
@@ -488,7 +488,7 @@ O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.
 
 <DateStrFormatted date="20-11-2025" />
 
-Acho que toda a experiência cinéfila é válida. Não assisto animes e não curto muito o gênero, mas resolvi ver o filme. E bem, assim como outros animes conhecidos é full adrenalina. 
+Acho que toda a experiência cinéfila é válida. Não assisto animes e não curto muito o gênero, mas resolvi ver o filme. E bem, assim como outros animes conhecidos é full adrenalina.
 
 Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma antecipação da terceira temporada do anime, então, acho que por isso que é assim.
 
@@ -509,3 +509,28 @@ Bom, bonito, bem escrito. Tem a parte teatral que não curti tanto, mas é um bo
 Ma-ra-vi-lho-so. Divertido, descontraído, perfeito, além de bem escrito. Muito melhor que um bocado desses filmes que receberam indicações para o flop que é o tal do Oscar.
 
 <DateStrFormatted date="06-02-2026" />
+
+## Devoradores de Estrelas
+
+<MovieBanner src="./movies/devoradores-de-estrelas.jpg" movieName="Devoradores de Estrelas" copyrightPlatform="Velox Tickets"/>
+
+...
+
+<DateStrFormatted date="20-03-2026" />
+
+## Narciso
+
+<MovieBanner src="./movies/narciso.jpg" movieName="Narciso" copyrightPlatform="Velox Tickets"/>
+
+Há algum tempo tenho assistido filmes no cinema sem pesquisar sobre ele antes. De vez em quando, numa dessas, eu acho uma pérola. Se foi assim com [A Única Saída](#a-unica-saida), [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista) e [Cloud](#cloud-nuvem-de-vinganca), com Narciso a história é outra.
+
+A história é de um menino que voltou da adoção na véspera do aniversário, mora numa casa com outros dois meninos mais velhos, uma menina, a "mãe" deles e o irmão dela. Não é um abrigo de crianças abandonadas, mas funciona como se fosse. Eles moram na periferia e são pobres. O bairro não aparenta ser tão perigoso mas tem um muleque (que já chegou a morar nessa mesma casa), que é envolvido.
+
+O filme se desenvolve a medida que o dia da véspera do aniversário do menino (cujo o nome, o filme é batizado)(?) vai passando. Ele recebe um presente do menino envolvido e a "mãe" dele desaprova, ele ganha uma bola de basquete de um dos "irmãos" e com ela faz uma descoberta que muda completamente o rumo da história.
+
+<!-- TODO: verificar se está correto. -->
+
+O filme se propõe a ser uma crítica sobre preconceito étnico mas acaba que é tudo muito ruim. Eu sinceramente não estou muito bem das bolas mas eu não entendi NADA da anologia que acontece ao final. A atuação dos atores não é boa e é até doído de se assistir. Não foi uma boa experiência. Não achei um bom filme.
+
+<!--  TODO: isso está no lugar certo? -->
+<DateStrFormatted date="01-04-2026" />
