@@ -514,7 +514,15 @@ Ma-ra-vi-lho-so. Divertido, descontraído, perfeito, além de bem escrito. Muito
 
 <MovieBanner src="./movies/devoradores-de-estrelas.jpg" movieName="Devoradores de Estrelas" copyrightPlatform="Velox Tickets"/>
 
-...
+Eu venho aqui e as vezes falo sobre o que tratam os filmes que vi. De vez em quando tem alguns spoilers, as vezes nem isso têm (eu só falo o quão ruim foi assistir ao filme), mas, com esse (talvez não seja a primeira vez que escrevo sobre isso), vou falar muitos dos sentimentos que eu senti assistindo a Devoradores de Estrelas:
+
+<!--  TODO: avaliar a linguagem usada -->
+É um filme que "mexe" muito com as emoções de quem assiste. Tem toda aquela lore sobre amizade, sobre lealdade, questionamentos sobre o que é melhor e mais correto fazer, etc. Você sofre junto do personagem principal a angustia em saber que o amigo que ele faz no filme vai morrer (mais de uma vez) e que a vida na Terra (se bem que não tá valendo muito a pena se compadecer com esse planeta e as vidas que aqui vivem) pode acabar. As vezes as mudanças de sentimentos sentidos (?) é bem brusca e têm uma mistura de emoções.
+
+> Devoradores de Estrelas é um "comfort movie". Dá para vê-lo (mesmo que tenha a parte do sofrimento) e esperar um final feliz. :)
+
+<!--  TODO: avaliar a necessidade desse comentário e o quão ele é expositivo -->
+> Disclaimer (?): Num mundo em que a apatia passa, cada dia mais, a ser o sentimento constante (?) da maioria das pessoas, ter uma explosão (?) de sentimentos é uma experiência marcante.
 
 <DateStrFormatted date="20-03-2026" />
 
