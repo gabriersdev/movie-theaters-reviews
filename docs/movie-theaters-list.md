@@ -28,6 +28,7 @@ Listado a partir dos melhores aos piores
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
 |             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
+|                       [Cinemark - BH Shopping](./movie-theaters-list#cinemark-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
 |                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
 
@@ -181,3 +182,9 @@ O banheiro tem uma cabine e alguns mictórios. É de fácil acesso. [Na galeria 
 Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasados, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí, sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada.
 
 Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stitch (2025)"](/movies#lilo-stitch-2025) estava em cartaz lá.
+
+## Cinemark - BH Shopping
+
+<!--  TODO: avaliar coesão e linguagem -->
+
+Não tive uma experiência legal. Tal qual a unidade do Pátio Savassi as opções de combo que tinham eram extremamente caras. Mas, diferente do Pátio, o ingresso da primeira vez que fui, foi caro. R$ 32 um ingresso para uma sala com um "sabor" melhor (?) e R$ 49,90 num combo de refri grande (papo de uns 700ml) e refil de pipoca grande (que não dá pra comer sozinho). Sinceramente não vale a pena, mesmo o filme que vi (Devoradores de Estrelas) ser bom, não vale os R$ 82 pagos.
