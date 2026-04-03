@@ -92,7 +92,9 @@ const images = [
 ]
 
 const handleCLick = (e: MouseEvent): void => {
-  const {src, alt} = e.target
+  const target = e.target as HTMLImageElement;
+  const src = target.src;
+  const alt = target.alt;
 
   if (src) {
     if (typeof document === 'undefined') return;

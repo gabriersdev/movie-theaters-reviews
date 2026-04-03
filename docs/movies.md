@@ -484,9 +484,9 @@ O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.
 
 ## Jujutsu no Kaisen - Execução
 
-<MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
-
 <DateStrFormatted date="20-11-2025" />
+
+<MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
 
 Acho que toda a experiência cinéfila é válida. Não assisto animes e não curto muito o gênero, mas resolvi ver o filme. E bem, assim como outros animes conhecidos é full adrenalina.
 
@@ -496,21 +496,23 @@ Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma a
 
 ## Hamnet - A Vida Antes de Hamlet
 
+<DateStrFormatted date="06-02-2026" />
+
 <MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet" copyrightPlatform="MUBI"/>
 
 Bom, bonito, bem escrito. Tem a parte teatral que não curti tanto, mas é um bom filme. Imagino que para quem leu Shakespeare deve ser ainda mais fantástico. Nada mais a falar.
 
-<DateStrFormatted date="06-02-2026" />
-
 ## A Única Saída
+
+<DateStrFormatted date="06-02-2026" />
 
 <MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída" copyrightPlatform="MUBI"/>
 
 Ma-ra-vi-lho-so. Divertido, descontraído, perfeito, além de bem escrito. Muito melhor que um bocado desses filmes que receberam indicações para o flop que é o tal do Oscar.
 
-<DateStrFormatted date="06-02-2026" />
-
 ## Devoradores de Estrelas
+
+<DateStrFormatted date="20-03-2026" />
 
 <MovieBanner src="./movies/devoradores-de-estrelas.jpg" movieName="Devoradores de Estrelas" copyrightPlatform="Velox Tickets"/>
 
@@ -524,9 +526,9 @@ Eu venho aqui e as vezes falo sobre o que tratam os filmes que vi. De vez em qua
 <!--  TODO: avaliar a necessidade desse comentário e o quão ele é expositivo -->
 > Disclaimer (?): Num mundo em que a apatia passa, cada dia mais, a ser o sentimento constante (?) da maioria das pessoas, ter uma explosão (?) de sentimentos é uma experiência marcante.
 
-<DateStrFormatted date="20-03-2026" />
-
 ## Narciso
+
+<DateStrFormatted date="01-04-2026" />
 
 <MovieBanner src="./movies/narciso.jpg" movieName="Narciso" copyrightPlatform="Velox Tickets"/>
 
@@ -539,6 +541,3 @@ O filme se desenvolve a medida que o dia da véspera do aniversário do menino (
 <!-- TODO: verificar se está correto. -->
 
 O filme se propõe a ser uma crítica sobre preconceito étnico mas acaba que é tudo muito ruim. Eu sinceramente não estou muito bem das bolas mas eu não entendi NADA da anologia que acontece ao final. A atuação dos atores não é boa e é até doído de se assistir. Não foi uma boa experiência. Não achei um bom filme.
-
-<!--  TODO: isso está no lugar certo? -->
-<DateStrFormatted date="01-04-2026" />
