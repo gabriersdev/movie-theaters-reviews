@@ -31,6 +31,8 @@ head:
 
 [cinema-minas-tenis-club]:./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua
 
+[cinemark-bh-shopping]:./movie-theaters-list#cinemark-xd-bh-shopping
+
 <!-- Fim das variáveis -->
 
 # Filmes

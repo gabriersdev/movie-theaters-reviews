@@ -28,7 +28,7 @@ Listado a partir dos melhores aos piores
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
 |             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
-|                       [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](./movie-theaters-list#cinemark-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
+|                       [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](./movie-theaters-list#cinemark-xd-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
 |                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
 

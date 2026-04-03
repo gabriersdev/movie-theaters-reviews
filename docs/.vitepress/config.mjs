@@ -90,5 +90,9 @@ export default defineConfig({
         ],
       },
     },
-  }
+  },
+  
+  ignoreDeadLinks: [
+    './cinemark-bh-shopping'
+  ]
 })
