@@ -21,13 +21,14 @@ Listado a partir dos melhores aos piores
 
 |                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
 |:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    4    |
-| [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
+|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    5    |
+| [Cineart <VPBadge type="tip">IMAX</VPBadge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
 |                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
 |                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 |    Bom    |   4   |     4      |    4    |
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
 |             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
+|                       [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](./movie-theaters-list#cinemark-xd-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
 |                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
 
@@ -181,3 +182,13 @@ O banheiro tem uma cabine e alguns mictórios. É de fácil acesso. [Na galeria 
 Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos atrasados, não tinha ninguém para me recepcionar ou verificar meu ingresso. O que eu fiz? Meti a mão na porta e entrei na sala. No segundo filme, aí, sim, tinha uma funcionária que verificava os ingressos. Me pediu comprovante da meia-entrada.
 
 Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stitch (2025)"](/movies#lilo-stitch-2025) estava em cartaz lá.
+
+## Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping
+
+![Cinemark - BH Shopping](/movie-theaters/bh-shopping.jpg)
+
+Não tive uma experiência muito boa. Assim como na unidade do Pátio Savassi, as opções de combo eram extremamente caras. A diferença é que, nesse caso, o ingresso também foi caro já na primeira vez que fui.
+
+Paguei R$ 32 em um ingresso para uma sala supostamente "melhor" e R$ 49,90 em um combo com refrigerante grande (cerca de 700 ml) e refil de pipoca grande — que, sinceramente, é grande demais para uma pessoa só.
+
+No fim das contas, a conta deu R$ 82. Mesmo o filme que assisti [Devoradores de Estrelas](/movies#devoradores-de-estrelas) sendo bom, não achei que a experiência tenha valido esse preço.

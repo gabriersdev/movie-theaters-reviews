@@ -17,9 +17,10 @@ export default {
     const updateTexts = () => {
       // Traduz textos
       Array.from(document?.querySelectorAll("body *")).filter(el => [
-        "note", "important", "tip", "previous page", "next page", "caution", "search", "warning",
-      ].includes(el.textContent.toLowerCase())).forEach(el => {
-        switch (el.textContent.toLowerCase()) {
+          "note", "important", "tip", "previous page", "next page", "caution", "search", "warning", "edit this page"
+        ].includes(el.textContent.toLowerCase()?.trim())
+      ).forEach(el => {
+        switch (el.textContent.toLowerCase()?.trim()) {
           case 'note':
             el.textContent = 'NOTA';
             break;
@@ -43,6 +44,9 @@ export default {
             break;
           case 'search':
             el.innerHTML = 'Pesquisar&nbsp;&nbsp;';
+            break;
+          case "edit this page":
+            el.querySelector("a").innerHTML = `<span data-v-29ec59c0="" class="vpi-square-pen edit-link-icon"></span> Editar esta página`;
             break;
         }
       })

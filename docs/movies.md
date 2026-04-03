@@ -9,6 +9,7 @@ head:
 <script setup>
   import DateStrFormatted from "./components/DateStrFormatted.vue";
   import MovieBanner from "./components/MovieBanner.vue";
+  import LocalStrFormatted from "./components/LocalStrFormatted.vue";
   import {VPBadge} from "vitepress/theme";
 </script>
 
@@ -29,6 +30,8 @@ head:
 [una-belas-artes]:./movie-theaters-list#una-belas-artes-cinema-de-rua
 
 [cinema-minas-tenis-club]:./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua
+
+[cinemark-bh-shopping]:./movie-theaters-list#cinemark-xd-bh-shopping
 
 <!-- Fim das variáveis -->
 
@@ -75,6 +78,10 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
 |              [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                     [Cineart Cidade][cineart-cidade]                      |
 |    [Jujutsu no Kaisen: Execução](#jujutsu-no-kaisen-execucao)    |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
+|    [Hamnet - A vida antes de Hamlet](#hamnet-a-vida-antes-de-hamlet)               |         Drama          |                  [Una Belas Artes][una-belas-artes]                   |
+|    [A Única Saída](#a-unica-saida)                               |         Comédia (?)        |                  [Una Belas Artes][una-belas-artes]                       |
+|    [Devoradores de Estrelas](#devoradores-de-estrelas)           |         Drama (?)          |    [Cinemark BH Shopping](cinemark-bh-shopping)                           |
+|    [Narciso](#narciso)                                           |         Drama              |           [Una Belas Artes][una-belas-artes]                              |
 
 ## Minha irmã e eu
 
@@ -156,7 +163,7 @@ espectadores como eu, que esperam um final minimamente justo.
 
 ## Venom: A Última Rodada
 
-"A Última Rodada" foi o título escolhido para o último filme da saga de Eddie Brock e o simbionte Venom. O filme é mais
+*A Última Rodada* foi o título escolhido para o último filme da saga de Eddie Brock e o simbionte Venom. O filme é mais
 um filme de "super-herói" genérico que segue a já cansada jornada do herói.
 
 No filme, Venom e Eddie estão a ser cassados por possuir o codex (nome ótimo e original, diga-se de passagem) - que é
@@ -175,7 +182,7 @@ No filme tem tudo do mais clichê:
 
 ## O segundo ato
 
-É um filme francês sobre um filme que está a ser gravado, escrito e dirigido por uma AI. O filme é uma comédia leve e
+É um filme francês sobre um filme que está a ser gravado, escrito e dirigido por uma IA. O filme é uma comédia leve e
 bem humorada, com cenas e diálogos longuíssimos que quebram a quarta parede dentro da quarta parede (a primeira pelo
 filme que está a ser gravado, a segunda pelo filme que estamos a assistir).
 
@@ -255,13 +262,14 @@ contando o que aconteceu nos anos seguintes.
 ## Better Man
 
 <DateStrFormatted date="23-03-2025" />
+<LocalStrFormatted movieTheaterId="3"/>
 
 > [!CAUTION]
 > ⚠️ Gatilho: suicídio, abuso de drogas e dependência.
 > Esse filme aborda o tema de forma explícita e visual. Se você é sensível ao tema ou está num momento difícil, não assista.
 > Comecei com o filme rolando há uns 30 minutos. Me atrasei porque confundi os pontos de ônibus do 3050...
 
-"Better Man", ou "Melhor Homem", em português é um filme fantástico. Este foi o primeiro musical que vi nos últimos anos genuinamente bom e que não me causou uma crise de ansiedade, esperando pelo final.
+*Better Man*, ou "Melhor Homem", em português é um filme fantástico. Este foi o primeiro musical que vi nos últimos anos genuinamente bom e que não me causou uma crise de ansiedade, esperando pelo final.
 
 É a história de Robbie Williams, um músico que eu sequer sabia da existência. No filme, ele é um chimpanzé - provavelmente por que para as pessoas ele era muito descolado e divertido, sei lá.
 
@@ -271,6 +279,7 @@ parte do crescimento dele e ele não esteve presente nos últimos momentos de vi
 ## Vitória
 
 <DateStrFormatted date="23-03-2025" />
+<LocalStrFormatted movieTheaterId="3"/>
 
 No início eu fiquei confuso, meio incomodado com a atuação da Fernanda Montenegro, ela falava baixo e meio embolado, ficava difícil de entender e também em vários momentos era lenta - mas isso é coisa da idade. Chegar aos 90 anos não é para qualquer um, passar dos 90 então...
 
@@ -282,11 +291,12 @@ A Fernanda com certeza foi a atriz perfeita para o papel - não somente pelo fat
 
 Vitória não é um filme policial, não é de investigação, não é um filme de suspense. É baseado em uma história real, não só da idosa que inspirou o filme, mas também de milhões de outros brasileiros que dia sim, dia também, vê - talvez não de uma janela - a inação do poder público, a canalhice comendo solta e o crime, na frente de casa.
 
-> Se filmes genuinamente merecedores ganhassem o Oscar, "Vitória" mereceria um.
+> Se filmes genuinamente merecedores ganhassem o Oscar, *Vitória* mereceria um.
 
 ## Pecadores
 
 <DateStrFormatted date="19-04-2025" />
+<LocalStrFormatted movieTheaterId="5"/>
 
 Uma patacoada. Sinceramente, se você espera alguma coisa desse filme você vive em Marte - ou não, talvez você só tenha mais saco que eu para a história do filme.
 
@@ -302,6 +312,7 @@ Não sei se algo salva essa bomba, talvez a trilha sonora, a edição - cheia de
 ## A mulher no jardim
 
 <DateStrFormatted date="11-05-2025" />
+<LocalStrFormatted movieTheaterId="9"/>
 
 Assim como pecadores um filme de "Terror (?)". Mas é pior. Bem pior para falar a verdade. A história é desencadeada por um drama familiar, em que a mãe da família não é feliz com o seu casamento/vida. Em uma noite, voltando de um jantar conturbado, ela e o seu marido se envolvem em um acidente. Ele morre e ela sobrevive, mas têm que usar uma tala na perna. Naquela noite ela pediu para morrer, mas
 a morte não veio.
@@ -318,6 +329,7 @@ O tempo vai passando e a mulher chegando mais perto da casa, até que, em determ
 ## Lilo & Stitch 2025
 
 <DateStrFormatted date="10-06-2025" />
+<LocalStrFormatted movieTheaterId="8"/>
 
 É literalmente o live action da animação. Com poucas mudanças, tipo:
 
@@ -330,6 +342,7 @@ Ainda assim é um filme legal. Entretivo.
 ## Bailarina
 
 <DateStrFormatted date="10-06-2025" />
+<LocalStrFormatted movieTheaterId="8"/>
 
 É um filme do universo de John Wick. A protagonista do filme é uma menina que viu o pai ser morto quando era criança. Ela cresce numa legião e treinada para ser uma assassina. E é isso que ela se torna. Porém, quando encontram pessoas que tinham as mesmas cicatrizes daquelas que mataram seu pai ela resolve ir atrás de justiça.
 
@@ -342,17 +355,18 @@ Um bom filme. Ação bacana. Quem curte o universo de John Wick vai gostar desse
 ## Manas
 
 <DateStrFormatted date="11-06-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 > [!CAUTION]
 > ⚠️ Gatilho: abuso, violência
 
-Até então, "Vitória" tinha sido o último filme que me tinha tocado no cinema. Escolhi assistir Manas pela sinopse que estava no 'site' do cinema:
+Até então, [Vitória](#vitoria) tinha sido o último filme que me tinha tocado no cinema. Escolhi assistir Manas pela sinopse que estava no 'site' do cinema:
 
 > Marcielle, uma jovem de 13 anos que vive na Ilha do Marajó (PA), começa a entender que o futuro não lhe reserva muitas opções. Encurralada pela resignação da mãe e movida pela idealização da figura da irmã que partiu, ela decide confrontar a engrenagem violenta que rege a sua família e as mulheres da sua comunidade.
 
 Eu juro que não tinha lido "Ilha de Marajó", porque senão lembraria imediatamente das fake news que circulou no ano passado (2024). Mas ainda assim, essa sinopse diz muito pouco sobre o que é o filme. E tá certo. Eu também não vi o trailer. Mas da metade em diante, o filme aborda diretamente as violências que as jovens da região sofrem.
 
-Sem a presença do estado e no meio da Floresta Amazônica, cercada de água por todos os lados, viver na ilha é um exercício diário de sobrevivência. "Manas" é como as meninas se chamam. O filme não aborda as violências de forma escrachada.
+Sem a presença do estado e no meio da Floresta Amazônica, cercada de água por todos os lados, viver na ilha é um exercício diário de sobrevivência. *Manas* é como as meninas se chamam. O filme não aborda as violências de forma escrachada.
 
 Muito bem filmado, o espectador precisa estar atento ao que a câmera mostra. E é uma realidade desoladora e cruel.
 
@@ -369,6 +383,7 @@ A diretora teve todo o cuidado de não tornar o filme um espetáculo público de
 ## Entre dois mundos
 
 <DateStrFormatted date="11-06-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Não esperava nada desse filme e entregou tudo. Também escolhi assisti pelo resumo: "uma escritora resolve trabalhar como faxineira para escrever seu livro sobre faxineiras. Porém, como será que as pessoas vão reagir ao saber da verdade?" - Era mais ou menos isso.
 
@@ -379,6 +394,7 @@ A última frase do filme é algo tipo assim: "É melhor cada um saber o seu luga
 ## Silencio das ostras
 
 <DateStrFormatted date="28-06-2025" />
+<LocalStrFormatted movieTheaterId="6"/>
 
 > [!NOTE]
 > Descobri após escrever a review que o gênero oficial do filme é ficção. Faz bem mais sentido. Não sei de onde tirei que era um documentário, peço desculpas.
@@ -406,14 +422,16 @@ Ela anda tanto que chega no mar. E o documentário acaba. O que vêm depois são
 ## O Barbeiro Conspiracionista
 
 <DateStrFormatted date="28-06-2025" />
+<LocalStrFormatted movieTheaterId="6"/>
 
-Uma comédia italiana. Certo dia um Barbeiro Conspiracionista percebe que o poste em frente a sua barbearia pisca como um padrão. Ele então descobre que as piscadas são uma mensagem, em código morse. A partir daí a história começa a ganhar grande proporção, atraindo uma legião de gente e a atenção de um político da região.
+Uma comédia italiana. Certo dia um *Barbeiro Conspiracionista* percebe que o poste em frente a sua barbearia pisca como um padrão. Ele então descobre que as piscadas são uma mensagem, em código morse. A partir daí a história começa a ganhar grande proporção, atraindo uma legião de gente e a atenção de um político da região.
 
 Maravilhoso e entretivo.
 
 ## Vermiglio
 
 <DateStrFormatted date="03-08-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Quando eu cheguei o filme já tava rolando há 40 minutos. É muito triste. O filme gira em torno de uma família no vilarejo de Vermiglio, na Italia, durante a Segunda Guerra Mundial e os eventos são desencadeados depois que dois soldados desertam e vão para o vilarejo.
 
@@ -424,8 +442,9 @@ Eles descobrem o que aconteceu com o marido, Pietro, quando em um dia leem o jor
 ## Cloud - Nuvem de vingança
 
 <DateStrFormatted date="03-08-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
-Não esperava muito desse filme, para falar a verdade não esperava nada. Há algum tempo eu não assisto à 'trailers' antes de assistir a algum filme, nem vejo resenhas para ter uma experiência e um julgamento melhor assistindo ao filme. Com 'Cloud' não foi diferente, e que bom.
+Não esperava muito desse filme, para falar a verdade não esperava nada. Há algum tempo eu não assisto à trailers antes de assistir a algum filme, nem vejo resenhas para ter uma experiência e um julgamento melhor assistindo ao filme. Com *Cloud* não foi diferente, e que bom.
 
 No início fui surpreendido, pois o filme é japonês, depois tive mais uma surpresa com uma história extremamente original e diferenciada. E no final saí da sala maravilhado com todo o filme - que oficialmente é de terror, até tem um pouco de terror, mas têm muito mais 'suspense' e ação, principalmente do meio para o final.
 
@@ -435,14 +454,16 @@ No início fui surpreendido, pois o filme é japonês, depois tive mais uma surp
 ## A Luz
 
 <DateStrFormatted date="16-08-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Nada nesse filme tem lé com cré. Você começa achando que o filme é sobre uma coisa, depois o enredo muda e termina sem entender nada - ou até entende um pouquinho. Não vou "cimentá" sobre esse filme, porque acho que não vale muito a pena. Também não recomendaria para ninguém.
 
 ## Nó
 
 <DateStrFormatted date="19-10-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
-OK. "Nó" é, definitivamente, um filme. Não diria que é um filme ruim, até porque existem cenas ótimas - ao mesmo tempo, em que há diálogos pavorosos.
+OK. *Nó* é, definitivamente, um filme. Não diria que é um filme ruim, até porque existem cenas ótimas - ao mesmo tempo, em que há diálogos pavorosos.
 
 Curitiba é uma cidade com uma esquerda tão cirandeira quanto a de São Paulo. E, nesse filme, colocaram diálogos extremamente forçados, que jamais ocorreriam na realidade de uma família sustentada por uma mãe recém-separada, com três filhas, pobre, que trabalha numa fábrica de pipoca doce e salgadinhos de pacote.
 
@@ -453,6 +474,7 @@ E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, 
 ## O último azul
 
 <DateStrFormatted date="19-10-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Na trama, depois de 75 anos, os idosos são obrigados a ir para uma colônia do governo, e a família recebe uma pensão pelo parente. A senhora tem 77 anos quando recebe a notícia de que tem uma semana para ir para a colônia. A casa dela é marcada com o que dizem ser "uma homenagem do governo pelos anos de serviços prestados". A polícia cidadã é responsável por fazer a vigilância e caçar os idosos que fogem da colônia.
 
@@ -468,27 +490,29 @@ Quando a senhora está prestes a entrar no ônibus rumo à colônia, ela foge. E
 
 Esse filme é de-li-ci-o-so. E o que, para mim, o torna tão bom é justamente o fato de não se propor a nada grandioso. É simples, espontâneo, não inventa moda e, principalmente, não tem final. Ele simplesmente acaba.
 
-Muita gente não gosta de filmes assim - preferem roteiros fechadinhos, com solução e final (geralmente feliz) - mas O Último Azul não entrega isso. Ele te faz, nem que por alguns instantes, se questionar: o que será que aconteceu com a senhora da história? O que raios acontecia com os velhos na colônia? O futuro realmente é para todos?
+Muita gente não gosta de filmes assim - preferem roteiros fechadinhos, com solução e final (geralmente feliz) - mas *O Último Azul* não entrega isso. Ele te faz, nem que por alguns instantes, se questionar: o que será que aconteceu com a senhora da história? O que raios acontecia com os velhos na colônia? O futuro realmente é para todos?
 
 As semelhanças entre os elementos desse filme e eventos históricos conhecidos definitivamente não são coincidências.
 
 ## Telefone Preto 2
 
 <DateStrFormatted date="28-10-2025" />
+<LocalStrFormatted movieTheaterId="9"/>
 
-É clichê dizer que este filme (de terror) é aterrorizante? Pode ser que sim, mas de fato é. Os últimos 2 filmes de terror que vi ([A mulher no Jardim](#a-mulher-no-jardim) e [Pecadores](#pecadores)) não me causaram tanto medo quanto "Telefone Preto 2". Para quem viu o primeiro filme sabe que o menino conseguiu matar o sequestrador e sair do cativeiro. Neste segundo filme, anos depois de tudo o que aconteceu, a irmã do menino começa a ter sonhos sobre assassinatos, enquanto o menino continua a receber ligações. 
+É clichê dizer que este filme (de terror) é aterrorizante? Pode ser que sim, mas de fato é. Os últimos 2 filmes de terror que vi ([A mulher no Jardim](#a-mulher-no-jardim) e [Pecadores](#pecadores)) não me causaram tanto medo quanto *Telefone Preto 2*. Para quem viu o primeiro filme sabe que o menino conseguiu matar o sequestrador e sair do cativeiro. Neste segundo filme, anos depois de tudo o que aconteceu, a irmã do menino começa a ter sonhos sobre assassinatos, enquanto o menino continua a receber ligações.
 
-Só que agora, a história ganha novos contornos quando eles descobrem sobre que o sequestrador pode ter começado a matança em um "retiro" católico, no mesmo lugar em que a mãe deles trabalhou como monitora. 
+Só que agora, a história ganha novos contornos quando eles descobrem sobre que o sequestrador pode ter começado a matança em um "retiro" católico, no mesmo lugar em que a mãe deles trabalhou como monitora.
 
-O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.  
+O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.
 
 ## Jujutsu no Kaisen - Execução
 
+<DateStrFormatted date="20-11-2025" />
+<LocalStrFormatted movieTheaterId="2"/>
+
 <MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
 
-<DateStrFormatted date="20-11-2025" />
-
-Acho que toda a experiência cinéfila é válida. Não assisto animes e não curto muito o gênero, mas resolvi ver o filme. E bem, assim como outros animes conhecidos é full adrenalina. 
+Acho que toda a experiência cinéfila é válida. Não assisto animes e não curto muito o gênero, mas resolvi ver o filme. E bem, assim como outros animes conhecidos é full adrenalina.
 
 Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma antecipação da terceira temporada do anime, então, acho que por isso que é assim.
 
@@ -496,16 +520,50 @@ Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma a
 
 ## Hamnet - A Vida Antes de Hamlet
 
+<DateStrFormatted date="06-02-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
+
 <MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet" copyrightPlatform="MUBI"/>
 
 Bom, bonito, bem escrito. Tem a parte teatral que não curti tanto, mas é um bom filme. Imagino que para quem leu Shakespeare deve ser ainda mais fantástico. Nada mais a falar.
 
-<DateStrFormatted date="06-02-2026" />
-
 ## A Única Saída
+
+<DateStrFormatted date="06-02-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 <MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída" copyrightPlatform="MUBI"/>
 
 Ma-ra-vi-lho-so. Divertido, descontraído, perfeito, além de bem escrito. Muito melhor que um bocado desses filmes que receberam indicações para o flop que é o tal do Oscar.
 
-<DateStrFormatted date="06-02-2026" />
+## Devoradores de Estrelas
+
+<DateStrFormatted date="20-03-2026" />
+<LocalStrFormatted movieTheaterId="7"/>
+
+<MovieBanner src="./movies/devoradores-de-estrelas.jpg" movieName="Devoradores de Estrelas" copyrightPlatform="Velox Tickets"/>
+
+Às vezes venho aqui falar sobre os filmes que assisti. Em alguns textos acabo soltando spoilers; em outros, nem isso - às vezes só falo o quão ruim foi a experiência. Mas, com esse filme (e talvez não seja a primeira vez que escrevo algo assim), quero falar mais sobre os sentimentos que tive assistindo a *Devoradores de Estrelas*.
+
+É um filme que mexe bastante com as emoções de quem assiste. Existe toda uma construção sobre amizade, lealdade e sobre questionamentos do que é melhor ou mais correto fazer. Você acompanha a angústia do personagem principal ao perceber que o amigo que ele faz durante a história vai morrer - mais de uma vez - enquanto, ao mesmo tempo, a vida na Terra corre risco de acabar. Em alguns momentos, as mudanças de emoção são bem bruscas e o filme mistura diferentes sentimentos.
+
+> Devoradores de Estrelas é um "filme de conforto". Dá para assistir - mesmo com momentos de sofrimento - esperando um final feliz.
+
+Num mundo em que a apatia parece se tornar, cada vez mais, o sentimento dominante, viver uma explosão de emoções acaba sendo uma experiência marcante.
+
+## Narciso
+
+<DateStrFormatted date="01-04-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
+
+<MovieBanner src="./movies/narciso.jpg" movieName="Narciso" copyrightPlatform="Velox Tickets"/>
+
+Há algum tempo venho assistindo a filmes no cinema sem pesquisar nada sobre eles antes. De vez em quando, nessa abordagem, acabo encontrando uma pérola. Foi assim com [A Única Saída](#a-unica-saida), [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista) e [Cloud](#cloud-nuvem-de-vinganca). Com *Narciso*, porém, a história foi diferente.
+
+A trama acompanha um menino que voltou de uma adoção na véspera do seu aniversário. Ele mora em uma casa com dois meninos mais velhos, uma menina, a "mãe" deles e o irmão dela. Não é exatamente um abrigo para crianças abandonadas, mas funciona quase como um. Eles vivem na periferia e têm uma vida simples. O bairro não aparenta ser particularmente perigoso, mas há um garoto - que já chegou a morar naquela mesma casa - que acabou se envolvendo com coisas erradas.
+
+O filme acompanha os acontecimentos ao longo desse dia, na véspera do aniversário do menino, cujo nome batiza o título da obra. Em determinado momento ele recebe um presente do garoto envolvido, algo que a "mãe" desaprova. Mais tarde, ganha também uma bola de basquete de um dos "irmãos". É com essa bola que ele faz uma descoberta que muda completamente o rumo da história.
+
+O filme se propõe a ser uma crítica ao preconceito étnico, mas, na prática, tudo acaba funcionando muito mal. Talvez eu não estivesse no melhor estado de espírito naquele dia, mas sinceramente não entendi nada da analogia apresentada no final. As atuações também não ajudam: são fracas e, em alguns momentos, chegam a ser dolorosas de assistir.
+
+No fim das contas, não foi uma boa experiência. Não achei um bom filme.

@@ -10,7 +10,7 @@
 - <s>Cineart - Shopping Boulevard</s> - <Badge type="tip">✅ Visitado</Badge>
 - <s>Cineart - Shopping Cidade</s> - <Badge type="tip">✅ Visitado</Badge>
 - Cineart - Via Shopping
-- Cinemark - BH Shopping
+- <s>Cinemark - BH Shopping - <Badge type="tip">✅ Visitado</Badge></s>
 - Cinemark - Diamond
 - <s>Cinemark - Pátio Savassi</s> - <Badge type="tip">✅ Visitado</Badge>
 - Cinemark - Shopping Estação
@@ -22,6 +22,6 @@
 ## Gráfico
 
 <figure>
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[8, 8]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[9, 7]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
   <figcaption></figcaption>
 </figure>
