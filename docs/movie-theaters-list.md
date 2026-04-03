@@ -185,6 +185,8 @@ Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm 
 
 ## Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping
 
+![Cinemark - BH Shopping](/movie-theaters/bh-shopping.jpg)
+
 Não tive uma experiência muito boa. Assim como na unidade do Pátio Savassi, as opções de combo eram extremamente caras. A diferença é que, nesse caso, o ingresso também foi caro já na primeira vez que fui.
 
 Paguei R$ 32 em um ingresso para uma sala supostamente "melhor" e R$ 49,90 em um combo com refrigerante grande (cerca de 700 ml) e refil de pipoca grande — que, sinceramente, é grande demais para uma pessoa só.

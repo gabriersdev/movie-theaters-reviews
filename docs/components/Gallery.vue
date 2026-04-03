@@ -6,7 +6,7 @@
   </div>
 </template>
 
-<style setup>
+<style>
 .modal-dialog {
   border: 1px solid #FFFFFF10;
   outline: unset;
@@ -27,12 +27,9 @@
   object-fit: cover;
 
   @media screen and (min-width: 768px) {
-      max-width: 100vh;
+    max-width: 100vh;
   }
 }
-
-
-
 </style>
 
 <script setup lang="ts">
@@ -88,7 +85,11 @@ const images = [
   [
     "./gallery/20250628_193118.jpg",
     "Adesivo no banheiro masculino do cinema do Minas Tenis Club."
-  ]
+  ],
+  [
+    "./gallery/20260401_164751.jpg",
+    "Foto tirada antes do início da sessão de Narciso no Una Belas Artes."
+  ],
 ]
 
 const handleCLick = (e: MouseEvent): void => {
@@ -116,7 +117,7 @@ const handleCLick = (e: MouseEvent): void => {
     p.appendChild(text1)
     p.innerHTML += "&nbsp;<br/>"
     p.appendChild(text2)
-    p.classList.value = 'text-center text-slate-100 p-3 text-[16px] bg-black/15 text-balance m-0'
+    p.classList.value = 'text-center text-white p-3 text-[16px] bg-black/15 text-balance m-0'
 
     const img = document?.createElement('img')
     img.classList.value = 'img-dialog'

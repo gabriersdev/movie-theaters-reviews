@@ -9,6 +9,7 @@ head:
 <script setup>
   import DateStrFormatted from "./components/DateStrFormatted.vue";
   import MovieBanner from "./components/MovieBanner.vue";
+  import LocalStrFormatted from "./components/LocalStrFormatted.vue";
   import {VPBadge} from "vitepress/theme";
 </script>
 
@@ -259,6 +260,7 @@ contando o que aconteceu nos anos seguintes.
 ## Better Man
 
 <DateStrFormatted date="23-03-2025" />
+<LocalStrFormatted movieTheaterId="3"/>
 
 > [!CAUTION]
 > ⚠️ Gatilho: suicídio, abuso de drogas e dependência.
@@ -275,6 +277,7 @@ parte do crescimento dele e ele não esteve presente nos últimos momentos de vi
 ## Vitória
 
 <DateStrFormatted date="23-03-2025" />
+<LocalStrFormatted movieTheaterId="3"/>
 
 No início eu fiquei confuso, meio incomodado com a atuação da Fernanda Montenegro, ela falava baixo e meio embolado, ficava difícil de entender e também em vários momentos era lenta - mas isso é coisa da idade. Chegar aos 90 anos não é para qualquer um, passar dos 90 então...
 
@@ -291,6 +294,7 @@ Vitória não é um filme policial, não é de investigação, não é um filme 
 ## Pecadores
 
 <DateStrFormatted date="19-04-2025" />
+<LocalStrFormatted movieTheaterId="5"/>
 
 Uma patacoada. Sinceramente, se você espera alguma coisa desse filme você vive em Marte - ou não, talvez você só tenha mais saco que eu para a história do filme.
 
@@ -306,6 +310,7 @@ Não sei se algo salva essa bomba, talvez a trilha sonora, a edição - cheia de
 ## A mulher no jardim
 
 <DateStrFormatted date="11-05-2025" />
+<LocalStrFormatted movieTheaterId="9"/>
 
 Assim como pecadores um filme de "Terror (?)". Mas é pior. Bem pior para falar a verdade. A história é desencadeada por um drama familiar, em que a mãe da família não é feliz com o seu casamento/vida. Em uma noite, voltando de um jantar conturbado, ela e o seu marido se envolvem em um acidente. Ele morre e ela sobrevive, mas têm que usar uma tala na perna. Naquela noite ela pediu para morrer, mas
 a morte não veio.
@@ -322,6 +327,7 @@ O tempo vai passando e a mulher chegando mais perto da casa, até que, em determ
 ## Lilo & Stitch 2025
 
 <DateStrFormatted date="10-06-2025" />
+<LocalStrFormatted movieTheaterId="8"/>
 
 É literalmente o live action da animação. Com poucas mudanças, tipo:
 
@@ -334,6 +340,7 @@ Ainda assim é um filme legal. Entretivo.
 ## Bailarina
 
 <DateStrFormatted date="10-06-2025" />
+<LocalStrFormatted movieTheaterId="8"/>
 
 É um filme do universo de John Wick. A protagonista do filme é uma menina que viu o pai ser morto quando era criança. Ela cresce numa legião e treinada para ser uma assassina. E é isso que ela se torna. Porém, quando encontram pessoas que tinham as mesmas cicatrizes daquelas que mataram seu pai ela resolve ir atrás de justiça.
 
@@ -346,6 +353,7 @@ Um bom filme. Ação bacana. Quem curte o universo de John Wick vai gostar desse
 ## Manas
 
 <DateStrFormatted date="11-06-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 > [!CAUTION]
 > ⚠️ Gatilho: abuso, violência
@@ -373,6 +381,7 @@ A diretora teve todo o cuidado de não tornar o filme um espetáculo público de
 ## Entre dois mundos
 
 <DateStrFormatted date="11-06-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Não esperava nada desse filme e entregou tudo. Também escolhi assisti pelo resumo: "uma escritora resolve trabalhar como faxineira para escrever seu livro sobre faxineiras. Porém, como será que as pessoas vão reagir ao saber da verdade?" - Era mais ou menos isso.
 
@@ -383,6 +392,7 @@ A última frase do filme é algo tipo assim: "É melhor cada um saber o seu luga
 ## Silencio das ostras
 
 <DateStrFormatted date="28-06-2025" />
+<LocalStrFormatted movieTheaterId="6"/>
 
 > [!NOTE]
 > Descobri após escrever a review que o gênero oficial do filme é ficção. Faz bem mais sentido. Não sei de onde tirei que era um documentário, peço desculpas.
@@ -410,6 +420,7 @@ Ela anda tanto que chega no mar. E o documentário acaba. O que vêm depois são
 ## O Barbeiro Conspiracionista
 
 <DateStrFormatted date="28-06-2025" />
+<LocalStrFormatted movieTheaterId="6"/>
 
 Uma comédia italiana. Certo dia um *Barbeiro Conspiracionista* percebe que o poste em frente a sua barbearia pisca como um padrão. Ele então descobre que as piscadas são uma mensagem, em código morse. A partir daí a história começa a ganhar grande proporção, atraindo uma legião de gente e a atenção de um político da região.
 
@@ -418,6 +429,7 @@ Maravilhoso e entretivo.
 ## Vermiglio
 
 <DateStrFormatted date="03-08-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Quando eu cheguei o filme já tava rolando há 40 minutos. É muito triste. O filme gira em torno de uma família no vilarejo de Vermiglio, na Italia, durante a Segunda Guerra Mundial e os eventos são desencadeados depois que dois soldados desertam e vão para o vilarejo.
 
@@ -428,6 +440,7 @@ Eles descobrem o que aconteceu com o marido, Pietro, quando em um dia leem o jor
 ## Cloud - Nuvem de vingança
 
 <DateStrFormatted date="03-08-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Não esperava muito desse filme, para falar a verdade não esperava nada. Há algum tempo eu não assisto à trailers antes de assistir a algum filme, nem vejo resenhas para ter uma experiência e um julgamento melhor assistindo ao filme. Com *Cloud* não foi diferente, e que bom.
 
@@ -439,12 +452,14 @@ No início fui surpreendido, pois o filme é japonês, depois tive mais uma surp
 ## A Luz
 
 <DateStrFormatted date="16-08-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Nada nesse filme tem lé com cré. Você começa achando que o filme é sobre uma coisa, depois o enredo muda e termina sem entender nada - ou até entende um pouquinho. Não vou "cimentá" sobre esse filme, porque acho que não vale muito a pena. Também não recomendaria para ninguém.
 
 ## Nó
 
 <DateStrFormatted date="19-10-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 OK. *Nó* é, definitivamente, um filme. Não diria que é um filme ruim, até porque existem cenas ótimas - ao mesmo tempo, em que há diálogos pavorosos.
 
@@ -457,6 +472,7 @@ E por aí vai. A mãe tem uma consciência de classe fora de série - o que é, 
 ## O último azul
 
 <DateStrFormatted date="19-10-2025" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 Na trama, depois de 75 anos, os idosos são obrigados a ir para uma colônia do governo, e a família recebe uma pensão pelo parente. A senhora tem 77 anos quando recebe a notícia de que tem uma semana para ir para a colônia. A casa dela é marcada com o que dizem ser "uma homenagem do governo pelos anos de serviços prestados". A polícia cidadã é responsável por fazer a vigilância e caçar os idosos que fogem da colônia.
 
@@ -479,6 +495,7 @@ As semelhanças entre os elementos desse filme e eventos históricos conhecidos 
 ## Telefone Preto 2
 
 <DateStrFormatted date="28-10-2025" />
+<LocalStrFormatted movieTheaterId="9"/>
 
 É clichê dizer que este filme (de terror) é aterrorizante? Pode ser que sim, mas de fato é. Os últimos 2 filmes de terror que vi ([A mulher no Jardim](#a-mulher-no-jardim) e [Pecadores](#pecadores)) não me causaram tanto medo quanto *Telefone Preto 2*. Para quem viu o primeiro filme sabe que o menino conseguiu matar o sequestrador e sair do cativeiro. Neste segundo filme, anos depois de tudo o que aconteceu, a irmã do menino começa a ter sonhos sobre assassinatos, enquanto o menino continua a receber ligações.
 
@@ -489,6 +506,7 @@ O filme tem alguns furos, muitos clichês, violência gráfica, mas é bom.
 ## Jujutsu no Kaisen - Execução
 
 <DateStrFormatted date="20-11-2025" />
+<LocalStrFormatted movieTheaterId="2"/>
 
 <MovieBanner src="./movies/jujutsu-no-kaisen.jpg" movieName="Jujutsu no Kaisen"/>
 
@@ -501,6 +519,7 @@ Esse filme tem pouquíssimo enredo ou cenas que não sejam de luta. Ele é uma a
 ## Hamnet - A Vida Antes de Hamlet
 
 <DateStrFormatted date="06-02-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 <MovieBanner src="./movies/hamnet-a-vida-antes-hamlet.webp" movieName="Hamnet: a vida antes de Hamlet" copyrightPlatform="MUBI"/>
 
@@ -509,6 +528,7 @@ Bom, bonito, bem escrito. Tem a parte teatral que não curti tanto, mas é um bo
 ## A Única Saída
 
 <DateStrFormatted date="06-02-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 <MovieBanner src="./movies/a-unica-saida.webp" movieName="A única saída" copyrightPlatform="MUBI"/>
 
@@ -517,6 +537,7 @@ Ma-ra-vi-lho-so. Divertido, descontraído, perfeito, além de bem escrito. Muito
 ## Devoradores de Estrelas
 
 <DateStrFormatted date="20-03-2026" />
+<LocalStrFormatted movieTheaterId="7"/>
 
 <MovieBanner src="./movies/devoradores-de-estrelas.jpg" movieName="Devoradores de Estrelas" copyrightPlatform="Velox Tickets"/>
 
@@ -531,6 +552,7 @@ Num mundo em que a apatia parece se tornar, cada vez mais, o sentimento dominant
 ## Narciso
 
 <DateStrFormatted date="01-04-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
 
 <MovieBanner src="./movies/narciso.jpg" movieName="Narciso" copyrightPlatform="Velox Tickets"/>
 

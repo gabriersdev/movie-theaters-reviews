@@ -15,12 +15,18 @@ export default {
   computed: {
     movieTheater() {
       const movieTheaterList = [
-        // TODO - inserir lista de cinemas de movie-theaters-list.md
-        [1, "Name", "link-do-movie-theaters-list#id"]
+        [1, "Una Belas Artes", "./movie-theaters-list#una-belas-artes-cinema-de-rua"],
+        [2, "Cineart - Shopping Boulevard", "./movie-theaters-list#cineart-shopping-boulevard"],
+        [3, "Cineart - Ponteio", "./movie-theaters-list#cineart-ponteio"],
+        [4, "Cinemark - Patio Savassi", "./movie-theaters-list#cinemark-patio-savassi"],
+        [5, "Cineart - Minas Shopping", "./movie-theaters-list#cineart-minas-shopping"],
+        [6, "Cinema Minas Tenis Club", "./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua"],
+        [7, "Cinemark - BH Shopping", "./movie-theaters-list#cinemark-xd-bh-shopping"],
+        [8, "Cineart - Shopping Del Rey", "./movie-theaters-list#cineart-del-rey"],
+        [9, "Cineart - Shopping Cidade", "./movie-theaters-list#cineart-shopping-cidade"]
       ];
 
-      // TODO - retorna nome do cinema de acordo com o id e link
-      const match = movieTheaterList.find(i => i[0] === this.movieTheaterId);
+      const match = movieTheaterList.find(i => i[0].toString() === this.movieTheaterId.toString());
       if (match) return [match[1], match[2]];
       return ["", ""];
     }

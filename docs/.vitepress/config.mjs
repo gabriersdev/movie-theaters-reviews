@@ -1,4 +1,6 @@
 import {defineConfig} from 'vitepress'
+import tailwind from '@tailwindcss/postcss'
+import autoprefixer from 'autoprefixer'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -78,4 +80,15 @@ export default defineConfig({
       }
     }
   },
+
+  vite: {
+    css: {
+      postcss: {
+        plugins: [
+          tailwind,
+          autoprefixer,
+        ],
+      },
+    },
+  }
 })
