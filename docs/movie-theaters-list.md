@@ -21,7 +21,7 @@ Listado a partir dos melhores aos piores
 
 |                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
 |:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    4    |
+|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    5    |
 | [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
 |                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
 |                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 |    Bom    |   4   |     4      |    4    |
@@ -185,6 +185,8 @@ Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm 
 
 ## Cinemark - BH Shopping
 
-<!--  TODO: avaliar coesão e linguagem -->
+Não tive uma experiência muito boa. Assim como na unidade do Pátio Savassi, as opções de combo eram extremamente caras. A diferença é que, nesse caso, o ingresso também foi caro já na primeira vez que fui.
 
-Não tive uma experiência legal. Tal qual a unidade do Pátio Savassi as opções de combo que tinham eram extremamente caras. Mas, diferente do Pátio, o ingresso da primeira vez que fui, foi caro. R$ 32 um ingresso para uma sala com um "sabor" melhor (?) e R$ 49,90 num combo de refri grande (papo de uns 700ml) e refil de pipoca grande (que não dá pra comer sozinho). Sinceramente não vale a pena, mesmo o filme que vi (Devoradores de Estrelas) ser bom, não vale os R$ 82 pagos.
+Paguei R$ 32 em um ingresso para uma sala supostamente "melhor" e R$ 49,90 em um combo com refrigerante grande (cerca de 700 ml) e refil de pipoca grande — que, sinceramente, é grande demais para uma pessoa só.
+
+No fim das contas, a conta deu R$ 82. Mesmo o filme que assisti (*Devoradores de Estrelas*) sendo bom, não achei que a experiência tenha valido esse preço.
