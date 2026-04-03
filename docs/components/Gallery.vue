@@ -1,12 +1,27 @@
 <template>
   <div>
-    <div class="columns-2 gap-4 space-y-4">
-      <img v-for="(img, index) in images" :key="index" :src="img[0]" class="w-full rounded-lg cursor-pointer" :alt="img[1] || `Foto do cinema e/ou do deslocamento para o cinema`" @click="handleCLick"/>
+    <div class="gallery-grid">
+      <img v-for="(img, index) in images" :key="index" :src="img[0]" class="gallery-image" :alt="img[1] || `Foto do cinema e/ou do deslocamento para o cinema`" @click="handleCLick"/>
     </div>
   </div>
 </template>
 
 <style>
+.gallery-grid {
+  column-count: 2;
+  gap: 1rem;
+}
+
+.gallery-grid > * {
+  margin-bottom: 1rem;
+}
+
+.gallery-image {
+  width: 100%;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
 .modal-dialog {
   border: 1px solid #FFFFFF10;
   outline: unset;
@@ -14,19 +29,25 @@
   background: #2E2E3250;
   backdrop-filter: blur(50px);
 
-  &::backdrop {
-    background: #00000085;
+  p {
+    color: #d5dbe4;
   }
+}
 
-  div {
-    overflow: hidden;
-  }
+.modal-dialog::backdrop {
+  background: #00000085;
+}
+
+.modal-dialog div {
+  overflow: hidden;
 }
 
 .img-dialog {
   object-fit: cover;
+}
 
-  @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
+  .img-dialog {
     max-width: 100vh;
   }
 }
@@ -114,10 +135,11 @@ const handleCLick = (e: MouseEvent): void => {
     const text2 = document?.createTextNode('Clique aqui ou fora da imagem para fechar.')
 
     const p = document.createElement('p')
+    p.appendChild(document.createElement('br'))
     p.appendChild(text1)
     p.innerHTML += "&nbsp;<br/>"
-    p.appendChild(text2)
-    p.classList.value = 'text-center text-white p-3 text-[16px] bg-black/15 text-balance m-0'
+    p.appendChild(document.createElement('b').appendChild(text2))
+    p.classList.value = 'text-center text-white p-3 text-[16px] bg-black/15 text-balance m-0 cursor-pointer text-decoration-underline'
 
     const img = document?.createElement('img')
     img.classList.value = 'img-dialog'
