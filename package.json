@@ -14,12 +14,8 @@
     "leaflet": "^1.9.4",
     "postcss": "^8.5.8",
     "tailwindcss": "^4.2.2",
-    "vite": "^8.0.3",
+    "vite": "^6.1.0",
     "vitepress": "^1.6.4",
     "vue": "^3.5.31"
-  },
-  "overrides": {
-    "@tailwindcss/postcss": "^4.2.2",
-    "esbuild": "^0.27.0"
   }
 }
