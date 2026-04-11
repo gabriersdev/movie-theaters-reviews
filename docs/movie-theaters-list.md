@@ -19,18 +19,18 @@ head:
 
 Listado a partir dos melhores aos piores
 
-|                                                        Nome                                                         | Conceito  | CQPL¹ | Variedade² | Visitas |
-|:-------------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                       [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                        | Excelente |   4   |     5      |    6    |
-|                             [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                              | Excelente |   5   |     5      |    2    |
-| [Cineart <VPBadge type="tip">IMAX</VPBadge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
-|                  [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                   |    Bom    |   4   |     4      |    4    |
-|                      [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                       |    Bom    |   4   |     4      |    1    |
-|               [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)                |    Bom    |   4   |     3      |    1    |
-|                      [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                       |    Bom    |   4   |     3      |    3    |
-|      [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](./movie-theaters-list#cinemark-xd-bh-shopping)       |    OK     |   3   |     3      |    1    |
-|                         [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                         |    OK     |   3   |     3      |    1    |
-|                     [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                      |  Regular  |   3   |     3      |    5    |
+|                                              Nome                                              | Conceito  | CQPL¹ | Variedade² | Visitas |
+|:----------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
+|                [Una Belas Artes](#una-belas-artes-cinema-de-rua)                               | Excelente |   4   |     5      |    6    |
+|                             [Cineart - Ponteio](#cineart-ponteio)                              | Excelente |   5   |     5      |    2    |
+| [Cineart <VPBadge type="tip">IMAX</VPBadge> - Shopping Boulevard](#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
+|                  [Cineart - Shopping Boulevard](#cineart-shopping-boulevard)                   |    Bom    |   4   |     4      |    4    |
+|                      [Cinemark - Patio Savassi](#cinemark-patio-savassi)                       |    Bom    |   4   |     4      |    1    |
+|               [Cinema Minas Tenis Club](#cinema-minas-tenis-club-cinema-de-rua)                |    Bom    |   4   |     3      |    1    |
+|                      [Cineart - Minas Shopping](#cineart-minas-shopping)                       |    Bom    |   4   |     3      |    3    |
+|      [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](#cinemark-xd-bh-shopping)       |    OK     |   3   |     3      |    1    |
+|                         [Cineart - Shopping Del Rey](#cineart-del-rey)                         |    OK     |   3   |     3      |    1    |
+|                     [Cineart - Shopping Cidade](#cineart-shopping-cidade)                      |  Regular  |   3   |     3      |    5    |
 
 ¹ CQPL = Conforto, qualidade, preço e localização  
 ² Variedade = Variedade do catálogo

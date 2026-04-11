@@ -1,5 +1,6 @@
 <script setup>
 import {onMounted} from 'vue'
+import {VPBadge} from "vitepress/theme";
 
 onMounted(async () => {
   const places = [
@@ -8,11 +9,11 @@ onMounted(async () => {
       address: "Rua Estrela do Sul, 89 - Santa Tereza, Belo Horizonte - MG, 31010-240",
       coords: {x: "-19.9162593", y: "-43.9195692"}
     },
-    {
-      name: "Cine TJ - Pampulha Mall",
-      address: "Av. Pres. Antônio Carlos, 8100 - Loja 111B - Shopping Pampulha Mall, Belo Horizonte - MG, 31210-800",
-      coords: {x: "-19.8505222", y: "-43.9638805"}
-    },
+    // {
+    //   name: "Cine TJ - Pampulha Mall",
+    //   address: "Av. Pres. Antônio Carlos, 8100 - Loja 111B - Shopping Pampulha Mall, Belo Horizonte - MG, 31210-800",
+    //   coords: {x: "-19.8505222", y: "-43.9638805"}
+    // },
     {
       name: "Cineart - Del Rey",
       address: "Av. Pres. Carlos Luz, 3001 - Pampulha, Belo Horizonte - MG, 31250-010",
@@ -33,11 +34,11 @@ onMounted(async () => {
       address: "Av. Olegário Maciel, 1600 - Lourdes, Belo Horizonte - MG, 30180-111",
       coords: {x: "-19.9277742", y: "-43.9472404"}
     },
-    {
-      name: "Cinemark - Shopping Estação",
-      address: "Av. Cristiano Machado, 11833 - Vila Cloris, Belo Horizonte - MG, 31744-007",
-      coords: {x: "-19.8206", y: "-43.9472"}
-    },
+    // {
+    //   name: "Cinemark - Shopping Estação",
+    //   address: "Av. Cristiano Machado, 11833 - Vila Cloris, Belo Horizonte - MG, 31744-007",
+    //   coords: {x: "-19.8206", y: "-43.9472"}
+    // },
     {
       name: "Cinépolis - Shopping Estação BH",
       address: "Av. Cristiano Machado, 11833 - Vila Cloris, Belo Horizonte - MG, 31744-007",
@@ -77,6 +78,52 @@ onMounted(async () => {
       name: "Cinemark - Pátio Savassi",
       address: "Av. do Contorno, 6061 - Savassi, Belo Horizonte - MG, 30110-044",
       coords: {x: "-19.9391", y: "-43.9283"}
+    },
+    {
+      name: "Cinema Minas Tênis Clube",
+      address: "Rua da Bahia, 2244 - Lourdes, Belo Horizonte - MG, 30160-012",
+      coords: {x: "-19.9351", y: "-43.9409"}
+    },
+    {
+      name: "Palácio das Artes - Cine Humberto Mauro",
+      address: "Av. Afonso Pena, 1537 - Centro, Belo Horizonte - MG, 30130-004",
+      coords: {x: "-19.9230", y: "-43.9351"}
+    },
+    {
+      name: "Cineart - Itaú Power Shopping",
+      address: "Av. David Sarnoff, 5160 - Cidade Industrial, Contagem - MG, 32210-110",
+      coords: {x: "-19.9477", y: "-44.0249"},
+      notPlanned: true,
+    },
+    {
+      name: "Cineart - Shopping Contagem",
+      address: "Av. Severino Ballesteros Rodrigues, 850 - Cabral, Contagem - MG, 32110-005",
+      coords: {x: "-19.8824", y: "-44.0371"},
+      notPlanned: true,
+    },
+    {
+      name: "Cinesercla - Big Shopping",
+      address: "Av. João César de Oliveira, 1275 - Eldorado, Contagem - MG, 32315-000",
+      coords: {x: "-19.9360", y: "-44.0435"},
+      notPlanned: true,
+    },
+    {
+      name: "Cineart - Monte Carmo Shopping",
+      address: "Av. Juiz Marco Túlio Isaac, 1119 - Ingá Alta, Betim - MG, 32604-165",
+      coords: {x: "-19.9599", y: "-44.1862"},
+      notPlanned: true,
+    },
+    {
+      name: "Cinemark - Partage Shopping Betim",
+      address: "Rod. Fernão Dias, 601 - Km 492 - São João, Betim - MG, 32655-505",
+      coords: {x: "-19.9469", y: "-44.1673"},
+      notPlanned: true,
+    },
+    {
+      name: "Cinesercla - Shopping Justinópolis",
+      address: "Av. Denise Cristina da Rocha, 2900 - Cerejeira, Ribeirão das Neves - MG, 33902-450",
+      coords: {x: "-19.7891", y: "-44.0151"},
+      notPlanned: true,
     }
   ]
 
@@ -84,14 +131,19 @@ onMounted(async () => {
 
   const divListItems = document?.querySelector("#list-items")
 
-  places.toSorted((a, b) => a.name.localeCompare(b.name)).forEach(place => {
-    // L.marker([parseFloat(place.coords.x), parseFloat(place.coords.y)]).addTo(mapInstance).bindPopup(`<b>${place.name}</b>&nbsp;<a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${place.coords.x},${place.coords.y}" rel="noopener noreferrer" target="_blank">Abrir</a>`)
-    if (divListItems) {
-      const li = document?.createElement("li")
-      li.innerHTML = `<span>${place.name}</span><br><a href="https://www.google.com/maps/search/?api=1&query=${place.address}" target="_blank" rel="noreferrer noopener">${place.address}</a>`
-      divListItems.appendChild(li)
-    }
-  })
+  places
+      .toSorted((a, b) => a.name.localeCompare(b.name))
+      // TODO - ordenacao: os planejados true no final e os sem no começo
+      .toSorted((a, b) => a.notPlanned || b.notPlanned)
+      .forEach(place => {
+        // L.marker([parseFloat(place.coords.x), parseFloat(place.coords.y)]).addTo(mapInstance).bindPopup(`<b>${place.name}</b>&nbsp;<a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${place.coords.x},${place.coords.y}" rel="noopener noreferrer" target="_blank">Abrir</a>`)
+        if (divListItems) {
+          const li = document?.createElement("li")
+          // TODO - component VPBadge não funciona aqui desta forma. Refatorar e implementar geração com Vue
+          li.innerHTML = `<VPBagde type="tip">XXXX</VPBagde> <a href="https://www.google.com/maps/search/?api=1&query=${place.address}" target="_blank" rel="noreferrer noopener"><span>${place.name}</span></a>`
+          divListItems.appendChild(li)
+        }
+      })
   // map.value = mapInstance
 })
 </script>

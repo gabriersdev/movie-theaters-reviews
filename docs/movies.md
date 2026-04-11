@@ -80,7 +80,7 @@ Listado em ordem crescente a partir da data em que vi os filmes
 |    [Jujutsu no Kaisen: Execução](#jujutsu-no-kaisen-execucao)     |         Anime (?)          |                    [Cineart Boulevard][cineart-boulevard]                    |
 | [Hamnet - A vida antes de Hamlet](#hamnet-a-vida-antes-de-hamlet) |          Romance           |                      [Una Belas Artes][una-belas-artes]                      |
 |                  [A Única Saída](#a-unica-saida)                  |          Comédia           |                      [Una Belas Artes][una-belas-artes]                      |
-|        [Devoradores de Estrelas](#devoradores-de-estrelas)        |           Ficção           | [Cinemark BH Shopping<VPBadge type="tip">XD</VPBadge>](cinemark-bh-shopping) |
+|        [Devoradores de Estrelas](#devoradores-de-estrelas)        |           Ficção           | [Cinemark BH Shopping<VPBadge type="tip">XD</VPBadge>][cinemark-bh-shopping] |
 |                        [Narciso](#narciso)                        |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
 |                         [Tatame](#tatame)                         |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
 |           [A Cronologia da Água](#a-cronologia-da-agua)           |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
