@@ -76,12 +76,12 @@ const images = [
     "Créditos de \"Better Man\"."
   ],
   [
-    "./gallery/20250322_182938.jpg",
-    "Fachada do Ponteio. Tirado do outro lado da rua."
-  ],
-  [
     "./gallery/20240811_171012.jpg",
     "Do filme \"Deadpool\"."
+  ],
+  [
+    "./gallery/20250322_182938.jpg",
+    "Fachada do Ponteio. Tirado do outro lado da rua."
   ],
   [
     "./gallery/20250322_165809.jpg",
@@ -110,6 +110,22 @@ const images = [
   [
     "./gallery/20260401_164751.jpg",
     "Foto tirada antes do início da sessão de Narciso no Una Belas Artes."
+  ],
+  [
+    "./gallery/20260407_191416.jpg",
+    "Quadros no Una Belas Artes em abril de 2026."
+  ],
+  [
+    "./gallery/20260407_191413.jpg",
+    "Quadros no Una Belas Artes em abril de 2026."
+  ],
+  [
+    "./gallery/20260407_150943.jpg",
+    "Sala 2 do Una Belas Artes."
+  ],
+  [
+    "./gallery/20260407_150443.jpg",
+    "Fachada da Biblioteca Pública do estado."
   ],
 ]
 
