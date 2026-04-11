@@ -44,50 +44,53 @@ head:
 
 Listado em ordem crescente a partir da data em que vi os filmes
 
-|                              Filme                               |           Gênero           |                                  Cinema                                   |
-|:----------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------:|
-|               [Minha irmã e eu](#minha-irma-e-eu)                |          Comédia           |                     [Cineart Cidade][cineart-cidade]                      |
-|                        [Duna 2](#duna-2)                         |           Ficção           | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                  [Guerra Civil](#guerra-civil)                   |            Ação            |             [Cineart Minas Shopping][cineart-minas-shopping]              |
-|               [Godzilla e Kong](#godzilla-e-kong)                |           Ficção           |                  [Cineart Boulevard][cineart-boulevard]                   |
-| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado) |           Ficção           |                     [Cineart Cidade][cineart-cidade]                      |
-|          [Deadpool e Wolverine](#deadpoll-e-wolverine)           |            Ação            | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                [The Crow (2024)](#the-crow-2024)                 |           Terror           |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
-|             [Pisque duas vezes](#pisque-duas-vezes)              |          Suspense          |             [Cinemark Patio Savassi][cinemark-patio-savassi]              |
-|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)        |          Musical           |                  [Cineart Boulevard][cineart-boulevard]                   |
-|         [Venom: A Última Rodada](#venom-a-ultima-rodada)         |            Ação            |                     [Cineart Cidade][cineart-cidade]                      |
-|                 [O segundo ato](#o-segundo-ato)                  |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
-|              [Ainda estou aqui](#ainda-estou-aqui)               |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
-|       [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |          Comédia           |             [Cineart Minas Shopping][cineart-minas-shopping]              |
-|                      [Conclave](#conclave)                       |          Thriller          |                  [Cineart Boulevard][cineart-boulevard]                   |
-|                  [O Brutalista](#o-brutalista)                   |           Drama            | [Cineart Boulevard <VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard] |
-|                    [Better Man](#better-man)                     |          Musical           |                    [Cineart Ponteio][cineart-ponteio]                     |
-|                       [Vitória](#vitoria)                        |           Drama            |                    [Cineart Ponteio][cineart-ponteio]                     |
-|                     [Pecadores](#pecadores)                      |         Terror (?)         |             [Cineart Minas Shopping][cineart-minas-shopping]              |
-|            [A mulher no jardim](#a-mulher-no-jardim)             |         Terror (?)         |                     [Cineart Cidade][cineart-cidade]                      |
-|            [Lilo & Stitch (2025)](#lilo-stitch-2025)             |          Infantil          |                    [Cineart Del Rey][cineart-del-rey]                     |
-|                     [Bailarina](#bailarina)                      |            Ação            |                    [Cineart Del Rey][cineart-del-rey]                     |
-|                         [Manas](#manas)                          |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|             [Entre dois mundos](#entre-dois-mundos)              |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|          [Silencio das ostras](#o-silencio-das-ostras)           |      Documentário (?)      |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
-|   [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista)    |          Comédia           |            [Cinema Minas Tenis Club][cinema-minas-tenis-club]             |
-|                     [Vermiglio](#vermiglio)                      |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|      [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                    [Una Belas Artes][una-belas-artes]                     |
-|                         [A Luz](#a-luz)                          |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|                            [Nó](#no)                             |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|                 [O último azul](#o-ultimo-azul)                  |           Drama            |                    [Una Belas Artes][una-belas-artes]                     |
-|              [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                     [Cineart Cidade][cineart-cidade]                      |
-|    [Jujutsu no Kaisen: Execução](#jujutsu-no-kaisen-execucao)    |         Anime (?)          |                  [Cineart Boulevard][cineart-boulevard]                   |
-|    [Hamnet - A vida antes de Hamlet](#hamnet-a-vida-antes-de-hamlet)               |         Drama          |                  [Una Belas Artes][una-belas-artes]                   |
-|    [A Única Saída](#a-unica-saida)                               |         Comédia (?)        |                  [Una Belas Artes][una-belas-artes]                       |
-|    [Devoradores de Estrelas](#devoradores-de-estrelas)           |         Drama (?)          |    [Cinemark BH Shopping](cinemark-bh-shopping)                           |
-|    [Narciso](#narciso)                                           |         Drama              |           [Una Belas Artes][una-belas-artes]                              |
+|                               Filme                               |           Gênero           |                                    Cinema                                    |
+|:-----------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------:|
+|                [Minha irmã e eu](#minha-irma-e-eu)                |          Comédia           |                       [Cineart Cidade][cineart-cidade]                       |
+|                         [Duna 2](#duna-2)                         |           Ficção           |   [Cineart Boulevard<VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard]   |
+|                   [Guerra Civil](#guerra-civil)                   |            Ação            |               [Cineart Minas Shopping][cineart-minas-shopping]               |
+|                [Godzilla e Kong](#godzilla-e-kong)                |           Ficção           |                    [Cineart Boulevard][cineart-boulevard]                    |
+| [Planeta dos Macados: O reinado](#planeta-dos-macacos-o-reinado)  |           Ficção           |                       [Cineart Cidade][cineart-cidade]                       |
+|           [Deadpool e Wolverine](#deadpoll-e-wolverine)           |            Ação            |   [Cineart Boulevard<VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard]   |
+|                 [The Crow (2024)](#the-crow-2024)                 |           Terror           |               [Cinemark Patio Savassi][cinemark-patio-savassi]               |
+|              [Pisque duas vezes](#pisque-duas-vezes)              |          Suspense          |               [Cinemark Patio Savassi][cinemark-patio-savassi]               |
+|        [Coringa: Delírio a dois](#coringa-delirio-a-dois)         |          Musical           |                    [Cineart Boulevard][cineart-boulevard]                    |
+|         [Venom: A Última Rodada](#venom-a-ultima-rodada)          |            Ação            |                       [Cineart Cidade][cineart-cidade]                       |
+|                  [O segundo ato](#o-segundo-ato)                  |           Drama            |                      [Cineart Ponteio][cineart-ponteio]                      |
+|               [Ainda estou aqui](#ainda-estou-aqui)               |           Drama            |                      [Cineart Ponteio][cineart-ponteio]                      |
+|        [O Auto da Compadecida 2](#o-auto-da-compadecida-2)        |          Comédia           |               [Cineart Minas Shopping][cineart-minas-shopping]               |
+|                       [Conclave](#conclave)                       |          Thriller          |                    [Cineart Boulevard][cineart-boulevard]                    |
+|                   [O Brutalista](#o-brutalista)                   |           Drama            |   [Cineart Boulevard<VPBadge type="tip">IMAX</VPBadge>][cineart-boulevard]   |
+|                     [Better Man](#better-man)                     |          Musical           |                      [Cineart Ponteio][cineart-ponteio]                      |
+|                        [Vitória](#vitoria)                        |           Drama            |                      [Cineart Ponteio][cineart-ponteio]                      |
+|                      [Pecadores](#pecadores)                      |           Terror           |               [Cineart Minas Shopping][cineart-minas-shopping]               |
+|             [A mulher no jardim](#a-mulher-no-jardim)             |           Terror           |                       [Cineart Cidade][cineart-cidade]                       |
+|             [Lilo & Stitch (2025)](#lilo-stitch-2025)             |          Infantil          |                      [Cineart Del Rey][cineart-del-rey]                      |
+|                      [Bailarina](#bailarina)                      |            Ação            |                      [Cineart Del Rey][cineart-del-rey]                      |
+|                          [Manas](#manas)                          |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|              [Entre dois mundos](#entre-dois-mundos)              |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|           [Silencio das ostras](#o-silencio-das-ostras)           |           Ficção           |              [Cinema Minas Tenis Club][cinema-minas-tenis-club]              |
+|    [O Barbeiro Conspiracionista](#o-barbeiro-conspiracionista)    |          Comédia           |              [Cinema Minas Tenis Club][cinema-minas-tenis-club]              |
+|                      [Vermiglio](#vermiglio)                      |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|       [Cloud - Nuvem de Vingança](#cloud-nuvem-de-vinganca)       | Terror (com bastante ação) |                      [Una Belas Artes][una-belas-artes]                      |
+|                          [A Luz](#a-luz)                          |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|                             [Nó](#no)                             |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|                  [O último azul](#o-ultimo-azul)                  |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|               [Telefone Preto 2](#telefone-preto-2)               |           Terror           |                       [Cineart Cidade][cineart-cidade]                       |
+|    [Jujutsu no Kaisen: Execução](#jujutsu-no-kaisen-execucao)     |         Anime (?)          |                    [Cineart Boulevard][cineart-boulevard]                    |
+| [Hamnet - A vida antes de Hamlet](#hamnet-a-vida-antes-de-hamlet) |          Romance           |                      [Una Belas Artes][una-belas-artes]                      |
+|                  [A Única Saída](#a-unica-saida)                  |          Comédia           |                      [Una Belas Artes][una-belas-artes]                      |
+|        [Devoradores de Estrelas](#devoradores-de-estrelas)        |           Ficção           | [Cinemark BH Shopping<VPBadge type="tip">XD</VPBadge>](cinemark-bh-shopping) |
+|                        [Narciso](#narciso)                        |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|                         [Tatame](#tatame)                         |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
+|           [A Cronologia da Água](#a-cronologia-da-agua)           |           Drama            |                      [Una Belas Artes][una-belas-artes]                      |
 
 ## Minha irmã e eu
 
 Duas irmãs preparam-se para fazer a festa de aniversário da mãe delas - e vai ser especial, contando com a presença de
 toda a família. Porém, numa discussão elas chateiam a mãe que resolve fugir. Na procura da mãe, as duas irmãs
 aproximam-se, reconstruindo uma conexão que há muito não tinham.
+
 > É uma comédia leve, tem um pouco de apelo sexual, mas nada vulgar. O filme é estrelado pela Tatá Werneck e Ingrid
 > Guimarães, que mesmo numa história fraca, de orçamento limitado, conseguem "salvar" o filme, com o carisma e a "graça
 > natural" que elas têm.
@@ -97,6 +100,7 @@ aproximam-se, reconstruindo uma conexão que há muito não tinham.
 É a continuação de Duna, de 2021. Neste longa, os personagens unem forças para derrubar e tomar novamente o controle do
 planeta pela Casa de Especiarias dos Atreides. Paul Atreides passa a ser visto pelo "povo do deserto" como um deus e
 lidera a empreitada contra o Império.
+
 > O filme é ótimo.
 
 ## Guerra Civil
@@ -104,6 +108,7 @@ lidera a empreitada contra o Império.
 Nos Estados Unidos distópico, alguns estados estão numa guerra civil contra o governo e o exército. Um grupo de
 jornalistas decide ir até Washington entrevistar o presidente antes que ele seja assassinado. Mas até chegar a capital,
 eles tem muitas barreiras no caminho.
+
 > É bom e fora da casinha.
 
 ## Godzilla e Kong
@@ -111,6 +116,7 @@ eles tem muitas barreiras no caminho.
 Na Terra Oca, Kong machuca o dente e precisa da ajuda dos humanos para repará-lo. Enquanto isso, Godzilla segue como
 um "guardião" da Terra apesar da sua grande habilidade em destruir tudo pelo caminho. Uma insurreição começa a surgir na
 Terra Oca e os dois precisam se unir para combater o inimigo.
+
 > O filme não é bom. A história não cativa; é muito tempo de tela de gritos e os personagens humanos são bem
 > estereotipados.
 
@@ -120,6 +126,7 @@ Um tirano tem sob o seu poder, grupos e mais grupos de macacos. O objetivo dele 
 os humanos deixaram para trás e para isso ele escraviza macacos em busca de abrir uma porta de um "abrigo subterrâneo" que os humanos
 se estabeleceram. O nosso personagem principal, junto dos seus amigos e uma "figura falante" desencadeiam grandes
 peripécias...
+
 > O filme é xôxo. Saí da sala com a percepção de que faltava algo. Talvez seja o desenrolar da história que foi bastante previsível, ou a duração do filme, que não é o meu gênero mais preferido, ou ainda "figura falante" que não cativa muito e é desmascarada algumas vezes...
 
 ## Deadpoll e Wolverine
@@ -169,7 +176,7 @@ um filme de "super-herói" genérico que segue a já cansada jornada do herói.
 No filme, Venom e Eddie estão a ser cassados por possuir o codex (nome ótimo e original, diga-se de passagem) - que é
 basicamente, uma espécie de fórmula para criar outros simbiontes.
 
-Na tentativa de fuga, Eddie acaba **acidentalmente** encontrando uma família meio conspiracionista meio 'hippie' em
+Na tentativa de fuga, Eddie acaba **acidentalmente** encontrando uma família meio conspiracionista meio "hippie" em
 busca de ver a área 51 antes que ela fosse desativada e a partir daí, praticamente, que o filme começa.
 
 No filme tem tudo do mais clichê:
@@ -360,7 +367,7 @@ Um bom filme. Ação bacana. Quem curte o universo de John Wick vai gostar desse
 > [!CAUTION]
 > ⚠️ Gatilho: abuso, violência
 
-Até então, [Vitória](#vitoria) tinha sido o último filme que me tinha tocado no cinema. Escolhi assistir Manas pela sinopse que estava no 'site' do cinema:
+Até então, [Vitória](#vitoria) tinha sido o último filme que me tinha tocado no cinema. Escolhi assistir Manas pela sinopse que estava no "site" do cinema:
 
 > Marcielle, uma jovem de 13 anos que vive na Ilha do Marajó (PA), começa a entender que o futuro não lhe reserva muitas opções. Encurralada pela resignação da mãe e movida pela idealização da figura da irmã que partiu, ela decide confrontar a engrenagem violenta que rege a sua família e as mulheres da sua comunidade.
 
@@ -446,7 +453,7 @@ Eles descobrem o que aconteceu com o marido, Pietro, quando em um dia leem o jor
 
 Não esperava muito desse filme, para falar a verdade não esperava nada. Há algum tempo eu não assisto à trailers antes de assistir a algum filme, nem vejo resenhas para ter uma experiência e um julgamento melhor assistindo ao filme. Com *Cloud* não foi diferente, e que bom.
 
-No início fui surpreendido, pois o filme é japonês, depois tive mais uma surpresa com uma história extremamente original e diferenciada. E no final saí da sala maravilhado com todo o filme - que oficialmente é de terror, até tem um pouco de terror, mas têm muito mais 'suspense' e ação, principalmente do meio para o final.
+No início fui surpreendido, pois o filme é japonês, depois tive mais uma surpresa com uma história extremamente original e diferenciada. E no final saí da sala maravilhado com todo o filme - que oficialmente é de terror, até tem um pouco de terror, mas têm muito mais "suspense" e ação, principalmente do meio para o final.
 
 > Se puderem, apenas assistam a esse filme. Serão 2 horas de tela, com quase todas as cenas muito bem-feitas e trabalhadas.
 > Apesar de a mensagem que o filme deixa ser muito individualista, e o enredo girar em torno de uma prática antiética, o conjunto da obra é bom.
@@ -567,3 +574,27 @@ O filme acompanha os acontecimentos ao longo desse dia, na véspera do aniversá
 O filme se propõe a ser uma crítica ao preconceito étnico, mas, na prática, tudo acaba funcionando muito mal. Talvez eu não estivesse no melhor estado de espírito naquele dia, mas sinceramente não entendi nada da analogia apresentada no final. As atuações também não ajudam: são fracas e, em alguns momentos, chegam a ser dolorosas de assistir.
 
 No fim das contas, não foi uma boa experiência. Não achei um bom filme.
+
+## Tatame
+
+<DateStrFormatted date="07-04-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
+
+<MovieBanner src="./movies/tatame.jpg" movieName="Tatame" copyrightPlatform="Velox Tickets"/>
+
+Não sou de falar isso, até por que gosto muito de filmes que terminam em aberto: eu curti muito [*O Último Azul*](#o-ultimo-azul) e *"Se7en"*, mas eu acho que algumas histórias precisam de um final feliz.
+
+Para mim, é o caso desse filme. É muito sofrimento para a treinadora, mas principalmente para a Leila...
+
+## A Cronologia da Água
+
+<DateStrFormatted date="07-04-2026" />
+<LocalStrFormatted movieTheaterId="1"/>
+
+> [!CAUTION]
+> ⚠️ Gatilho: abuso, uso e abuso de drogas, violência
+
+<MovieBanner src="./movies/a-cronologia-da-agua.jpg" movieName="A Cronologia da Água" copyrightPlatform="Velox Tickets"/>
+
+Filme pesado, misericórdia...  
+São muitos os abusos que a protagonista sofre...

@@ -1,27 +1,47 @@
+<script setup>
+  import {VPBadge} from "vitepress/theme";
+</script>
+
 # Metas
 
 ## Cinemas para visitar
 
+- <s>Cineart - Del Rey</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Cineart - Minas Shopping</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Cineart - Ponteio</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Cineart - Shopping Boulevard</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Cineart - Shopping Cidade</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Cinemark - BH Shopping - <VPBadge type="tip">✅ Visitado</VPBadge></s>
+- <s>Cinemark - Pátio Savassi</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Cinema Minas Tenis Club</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
+- <s>Una Cine Belas Artes</s> - <VPBadge type="tip">✅ Visitado</VPBadge>
 - Cine Santa Tereza
-- Cine TJ - Pampulha Mall
-- <s>Cineart - Del Rey</s> - <Badge type="tip">✅ Visitado</Badge>
-- <s>Cineart - Minas Shopping</s> - <Badge type="tip">✅ Visitado</Badge>
-- <s>Cineart - Ponteio</s> - <Badge type="tip">✅ Visitado</Badge>
-- <s>Cineart - Shopping Boulevard</s> - <Badge type="tip">✅ Visitado</Badge>
-- <s>Cineart - Shopping Cidade</s> - <Badge type="tip">✅ Visitado</Badge>
 - Cineart - Via Shopping
-- <s>Cinemark - BH Shopping - <Badge type="tip">✅ Visitado</Badge></s>
-- Cinemark - Diamond
-- <s>Cinemark - Pátio Savassi</s> - <Badge type="tip">✅ Visitado</Badge>
-- Cinemark - Shopping Estação
 - Cinépolis - Shopping Estação BH
+- Cinemark - Diamond
 - Cinesercla - Shopping Norte
-- <s>Una Cine Belas Artes</s> - <Badge type="tip">✅ Visitado</Badge>
-- <s>Cinema Minas Tenis Club</s> - <Badge type="tip">✅ Visitado</Badge>
+- Palácio das Artes - Cine Humberto Mauro
 
 ## Gráfico
 
 <figure>
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[9, 7]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitado','Pendente'],datasets:[{data:[9, 6]}]}}&format=png" alt="Gráfico comparando os cinemas visitados e os que ainda não foram visitados">
   <figcaption></figcaption>
 </figure>
+
+## Em planejamento - outros cinemas na RMBH
+
+### Contagem
+
+- Cineart - Itaú Power Shopping
+- Cineart - Shopping Contagekm
+- Cinesercla - Big Shopping
+
+### Betim
+
+- Cineart - Monte Carmo Shopping
+- Cinemark - Partage Shopping Betim
+
+### Ribeirão das Neves
+
+- Cinesercla - Shopping Justinópolis
