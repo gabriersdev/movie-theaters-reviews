@@ -4,7 +4,8 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "update": "npm update",
-    "cypress": "npx cypress run"
+    "cypress": "npx cypress run",
+    "compress-images": "node compress-images.js"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.2",
@@ -19,6 +20,7 @@
     "vue": "^3.5.31"
   },
   "devDependencies": {
-    "esbuild": ">=0.25.0"
+    "esbuild": ">=0.25.0",
+    "sharp": "^0.33.2"
   }
 }

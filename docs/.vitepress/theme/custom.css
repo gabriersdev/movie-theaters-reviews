@@ -58,3 +58,13 @@ html {
 .text-decoration-underline {
     text-decoration: underline !important;
 }
+
+.custom-block.github-alert {
+    .custom-block-title {
+        font-weight: 800 !important;
+    }
+
+    p:not(p:first-child) {
+        font-size: 13px !important;
+    }
+}

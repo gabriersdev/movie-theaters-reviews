@@ -13,24 +13,24 @@ head:
 # Cinemas
 
 > [!INFO]
-> [Confira a galeria, com imagem dos cinemas e/ou dos passeios](./gallery)
+> [Confira a galeria, com imagem dos cinemas e dos passeios](./gallery)
 
 ## ➡️ Classificação dos cinemas visitados
 
 Listado a partir dos melhores aos piores
 
-|                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
-|:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    5    |
-| [Cineart <VPBadge type="tip">IMAX</VPBadge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
-|                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
-|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 |    Bom    |   4   |     4      |    4    |
-|                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
-|                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
-|             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
-|                       [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](./movie-theaters-list#cinemark-xd-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
-|                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
-|                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
+|                                              Nome                                              | Conceito  | CQPL¹ | Variedade² | Visitas |
+|:----------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
+|                [Una Belas Artes](#una-belas-artes-cinema-de-rua)                               | Excelente |   4   |     5      |    6    |
+|                             [Cineart - Ponteio](#cineart-ponteio)                              | Excelente |   5   |     5      |    2    |
+| [Cineart <VPBadge type="tip">IMAX</VPBadge> - Shopping Boulevard](#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
+|                  [Cineart - Shopping Boulevard](#cineart-shopping-boulevard)                   |    Bom    |   4   |     4      |    4    |
+|                      [Cinemark - Patio Savassi](#cinemark-patio-savassi)                       |    Bom    |   4   |     4      |    1    |
+|               [Cinema Minas Tenis Club](#cinema-minas-tenis-club-cinema-de-rua)                |    Bom    |   4   |     3      |    1    |
+|                      [Cineart - Minas Shopping](#cineart-minas-shopping)                       |    Bom    |   4   |     3      |    3    |
+|      [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](#cinemark-xd-bh-shopping)       |    OK     |   3   |     3      |    1    |
+|                         [Cineart - Shopping Del Rey](#cineart-del-rey)                         |    OK     |   3   |     3      |    1    |
+|                     [Cineart - Shopping Cidade](#cineart-shopping-cidade)                      |  Regular  |   3   |     3      |    5    |
 
 ¹ CQPL = Conforto, qualidade, preço e localização  
 ² Variedade = Variedade do catálogo
@@ -45,7 +45,7 @@ Shopping. Conta com umas cinco ou seis salas normais e uma sala IMAX.
 O acesso ao shopping é muito fácil e em frente tem a estação de metrô Santa Efigênia. O shopping é grande e geralmente
 mais vazio que os outros de BH.
 
-> Até o início de 2025 o valor do ingresso nessa unidade do Cineart era bem acessível. A meia durante a semana, na sala normal, custava por volta de 17 reais e nos fins de semana e feriados, por volta de 21 reais. Só que, na última vez que fui (novembro de 2025), num feriado, a meia estava 24 reais. Considerando que a meia naquele mesmo dia na unidade mais cara da rede em BH estava 25 reais, rebaixei o conceito desse cinema de "Excelente" para "Bom".   
+> Até o início de 2025 o valor do ingresso nessa unidade do Cineart era bem acessível. A meia durante a semana, na sala normal, custava por volta de 17 reais e nos fins de semana e feriados, por volta de 21 reais. Só que, na última vez que fui (novembro de 2025), num feriado, a meia estava 24 reais. Considerando que a meia naquele mesmo dia na unidade mais cara da rede em BH estava 25 reais, rebaixei o conceito desse cinema de "Excelente" para "Bom".
 
 ## Cineart - Shopping Cidade
 
@@ -161,7 +161,7 @@ Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas po
 
 Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir a um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for para te fazer pensar.
 
-Tive a oportunidade de visitar a sala 1 do cinema quando vi ao filme [O último azul](/movies#o-ultimo-azul). É uma sala bem maior que as outras duas, com mais lugares, mas a tela, acredito eu, tenha o mesmo tamanho. As poltronas não são tão confortáveis quanto as das salas 2 e 3, são mais antigas. No geral a sala 1 tem o aspecto de ser mais velha que as outras e também não é tão bem climatizada. 
+Tive a oportunidade de visitar a sala 1 do cinema quando vi ao filme [O último azul](/movies#o-ultimo-azul). É uma sala bem maior que as outras duas, com mais lugares, mas a tela, acredito eu, tenha o mesmo tamanho. As poltronas não são tão confortáveis quanto as das salas 2 e 3, são mais antigas. No geral a sala 1 tem o aspecto de ser mais velha que as outras e também não é tão bem climatizada.
 
 ## Cinema Minas Tenis Club <VPBadge type="tip">Cinema de rua</VPBadge>
 

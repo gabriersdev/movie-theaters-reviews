@@ -28,8 +28,8 @@ export default defineConfig({
         items: [
           {text: 'Filmes assistidos', link: '/movies'},
           {text: 'Ranking e Cinemas', link: '/movie-theaters-list'},
-          {text: 'Galeria 🆕', link: '/gallery'},
-          {text: 'Roteiro 🆕', link: '/map'},
+          {text: 'Galeria', link: '/gallery'},
+          {text: 'Roteiro', link: '/map'},
           {text: 'Metas', link: '/goals'},
           {text: 'Sobre', link: '/about'},
         ]
