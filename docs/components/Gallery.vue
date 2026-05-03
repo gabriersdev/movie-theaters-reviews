@@ -127,6 +127,18 @@ const images = [
     "./gallery/20260407_150443.jpg",
     "Fachada da Biblioteca Pública do estado."
   ],
+  [
+    "./gallery/20260422_202909.jpg",
+    "Sala X do Belas Artes."
+  ],
+  [
+    "./gallery/20260422_200858.jpg",
+    "Vendo filme."
+  ],
+  [
+    "./gallery/20260422_214940.jpg",
+    "Vendo filme."
+  ],
 ]
 
 const handleCLick = (e: MouseEvent): void => {
