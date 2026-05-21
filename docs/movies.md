@@ -30,6 +30,8 @@ head:
 
 [cinema-minas-tenis-club]:./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua
 
+[cineart-open-air]:./movie-theaters-list#cineart-open-air
+
 <!-- Fim das variáveis -->
 
 # Filmes
@@ -542,3 +544,9 @@ O filme se propõe a ser uma crítica sobre preconceito étnico mas acaba que é
 
 <!--  TODO: isso está no lugar certo? -->
 <DateStrFormatted date="01-04-2026" />
+
+# TODO - adicionar falação dos novos filmes:
+- Velhos Bandidos
+- Rio de Sangue (?)
+- Jackson
+- Marte Um

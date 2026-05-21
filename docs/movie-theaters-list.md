@@ -28,9 +28,10 @@ Listado a partir dos melhores aos piores
 |                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
 |                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
 |             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
-|                       [Cinemark - BH Shopping](./movie-theaters-list#cinemark-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
+|                      [Cinemark - BH Shopping](./movie-theaters-list#cinemark-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
 |                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
 |                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
+|                          [Cineart - Open Air](./movie-theaters-list#cineart-open-air)                           |  Péssimo  |   0   |     0      |    1    |
 
 ¹ CQPL = Conforto, qualidade, preço e localização  
 ² Variedade = Variedade do catálogo
@@ -45,7 +46,7 @@ Shopping. Conta com umas cinco ou seis salas normais e uma sala IMAX.
 O acesso ao shopping é muito fácil e em frente tem a estação de metrô Santa Efigênia. O shopping é grande e geralmente
 mais vazio que os outros de BH.
 
-> Até o início de 2025 o valor do ingresso nessa unidade do Cineart era bem acessível. A meia durante a semana, na sala normal, custava por volta de 17 reais e nos fins de semana e feriados, por volta de 21 reais. Só que, na última vez que fui (novembro de 2025), num feriado, a meia estava 24 reais. Considerando que a meia naquele mesmo dia na unidade mais cara da rede em BH estava 25 reais, rebaixei o conceito desse cinema de "Excelente" para "Bom".   
+> Até o início de 2025 o valor do ingresso nessa unidade do Cineart era bem acessível. A meia durante a semana, na sala normal, custava por volta de 17 reais e nos fins de semana e feriados, por volta de 21 reais. Só que, na última vez que fui (novembro de 2025), num feriado, a meia estava 24 reais. Considerando que a meia naquele mesmo dia na unidade mais cara da rede em BH estava 25 reais, rebaixei o conceito desse cinema de "Excelente" para "Bom".
 
 ## Cineart - Shopping Cidade
 
@@ -161,7 +162,7 @@ Como eu disse as salas que fui eram iguaizinhas. Iguais em tudo mesmo. Mesmas po
 
 Esse cinema, assim como os outros da rede Belas Artes promovem filmes cults, fora do mainstream. Sempre que quiser assistir a um filme, vá em cinemas assim. Eu te garanto que vai te surpreender. Um filme não precisa ter uma história fechada, sempre com um final feliz. Ele pode só contar algo de uma perspectiva, sem levar a lugar nenhum. E tá tudo bem. O importante é como é contado, quais são as experiências que você vai ter/adquirir assistindo ao filme e, principalmente, qual a sua visão e o que tirou daquilo que viu - isso claro quando o filme for para te fazer pensar.
 
-Tive a oportunidade de visitar a sala 1 do cinema quando vi ao filme [O último azul](/movies#o-ultimo-azul). É uma sala bem maior que as outras duas, com mais lugares, mas a tela, acredito eu, tenha o mesmo tamanho. As poltronas não são tão confortáveis quanto as das salas 2 e 3, são mais antigas. No geral a sala 1 tem o aspecto de ser mais velha que as outras e também não é tão bem climatizada. 
+Tive a oportunidade de visitar a sala 1 do cinema quando vi ao filme [O último azul](/movies#o-ultimo-azul). É uma sala bem maior que as outras duas, com mais lugares, mas a tela, acredito eu, tenha o mesmo tamanho. As poltronas não são tão confortáveis quanto as das salas 2 e 3, são mais antigas. No geral a sala 1 tem o aspecto de ser mais velha que as outras e também não é tão bem climatizada.
 
 ## Cinema Minas Tenis Club <VPBadge type="tip">Cinema de rua</VPBadge>
 
@@ -187,4 +188,18 @@ Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm 
 
 <!--  TODO: avaliar coesão e linguagem -->
 
-Não tive uma experiência legal. Tal qual a unidade do Pátio Savassi as opções de combo que tinham eram extremamente caras. Mas, diferente do Pátio, o ingresso da primeira vez que fui, foi caro. R$ 32 um ingresso para uma sala com um "sabor" melhor (?) e R$ 49,90 num combo de refri grande (papo de uns 700ml) e refil de pipoca grande (que não dá pra comer sozinho). Sinceramente não vale a pena, mesmo o filme que vi (Devoradores de Estrelas) ser bom, não vale os R$ 82 pagos.
+Não tive uma experiência legal. Tal qual a unidade do Pátio Savassi as opções de combo que tinham eram extremamente caras. Mas, diferente do Pátio, o ingresso da primeira vez que fui, foi caro. R\$ 32 um ingresso para uma sala com um "sabor" melhor (?) e R\$ 49,90 num combo de refri grande (papo de uns 700ml) e refil de pipoca grande (que não dá pra comer sozinho). Sinceramente não vale a pena, mesmo o filme que vi (Devoradores de Estrelas) ser bom, não vale os R\$ 82 pagos.
+
+## Cineart - Open Air
+
+Existem certos ambientes que não é para gente. Eu começo escrevendo essa avaliação em meados de 2026 e há mais de 2 anos sou cliente assíduo do Cineart. A excessão da unidade no Via Shopping eu já fui e consumi em todas as outras de Belo Horizonte.
+
+Eu começo assim minha avaliação por quê, sinceramente, essa foi a minha pior experiência em um cinema. De longe. Eu comecei aqui falando que "certos ambientes não é para gente", por quê, inegavelmente, ainda há um conflito de classes na sociedade em 2026. 
+
+E o que levou essa experiência ser a pior que já tive em um cinema, é, em parte causado por um classismo (?).
+
+Para quem não sabe o "Cineart Open Air" não é exatamente um cinema. Mas aqui, como avalio cinemas e a ida nele, quereno ou não foi uma experiência, entra aqui como um cinema, mas, na realidade é um evento. Um evento que ocorre num dos bairros mais nobres de Belo Horizonte, num lugar chamado "Espaço 356". Talvez se eu soubesse o que me esperava, sequer teria ido ver o filme. 
+
+Eu fui, vestido normalmente e como de costume: calça preta, tênis bonito de academia, camiseta oversized e, por cima, um corta-vento preto, já que tava frio. 
+
+# TODO - finalizar
