@@ -50,3 +50,21 @@ html {
 .vp-doc img {
     border-radius: 8px !important;
 }
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.text-decoration-underline {
+    text-decoration: underline !important;
+}
+
+.custom-block.github-alert {
+    .custom-block-title {
+        font-weight: 800 !important;
+    }
+
+    p:not(p:first-child) {
+        font-size: 13px !important;
+    }
+}

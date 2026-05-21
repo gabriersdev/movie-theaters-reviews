@@ -1,12 +1,27 @@
 <template>
   <div>
-    <div class="columns-2 gap-4 space-y-4">
-      <img v-for="(img, index) in images" :key="index" :src="img[0]" class="w-full rounded-lg cursor-pointer" :alt="img[1] || `Foto do cinema e/ou do deslocamento para o cinema`" @click="handleCLick"/>
+    <div class="gallery-grid">
+      <img v-for="(img, index) in images" :key="index" :src="img[0]" class="gallery-image" :alt="img[1] || `Foto do cinema e/ou do deslocamento para o cinema`" @click="handleCLick"/>
     </div>
   </div>
 </template>
 
-<style setup>
+<style>
+.gallery-grid {
+  column-count: 2;
+  gap: 1rem;
+}
+
+.gallery-grid > * {
+  margin-bottom: 1rem;
+}
+
+.gallery-image {
+  width: 100%;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
 .modal-dialog {
   border: 1px solid #FFFFFF10;
   outline: unset;
@@ -14,25 +29,28 @@
   background: #2E2E3250;
   backdrop-filter: blur(50px);
 
-  &::backdrop {
-    background: #00000085;
+  p {
+    color: #d5dbe4;
   }
+}
 
-  div {
-    overflow: hidden;
-  }
+.modal-dialog::backdrop {
+  background: #00000085;
+}
+
+.modal-dialog div {
+  overflow: hidden;
 }
 
 .img-dialog {
   object-fit: cover;
-
-  @media screen and (min-width: 768px) {
-      max-width: 100vh;
-  }
 }
 
-
-
+@media screen and (min-width: 768px) {
+  .img-dialog {
+    max-width: 100vh;
+  }
+}
 </style>
 
 <script setup lang="ts">
@@ -58,12 +76,12 @@ const images = [
     "Créditos de \"Better Man\"."
   ],
   [
-    "./gallery/20250322_182938.jpg",
-    "Fachada do Ponteio. Tirado do outro lado da rua."
-  ],
-  [
     "./gallery/20240811_171012.jpg",
     "Do filme \"Deadpool\"."
+  ],
+  [
+    "./gallery/20250322_182938.jpg",
+    "Fachada do Ponteio. Tirado do outro lado da rua."
   ],
   [
     "./gallery/20250322_165809.jpg",
@@ -88,11 +106,45 @@ const images = [
   [
     "./gallery/20250628_193118.jpg",
     "Adesivo no banheiro masculino do cinema do Minas Tenis Club."
-  ]
+  ],
+  [
+    "./gallery/20260401_164751.jpg",
+    "Foto tirada antes do início da sessão de Narciso no Una Belas Artes."
+  ],
+  [
+    "./gallery/20260407_191416.jpg",
+    "Quadros no Una Belas Artes em abril de 2026."
+  ],
+  [
+    "./gallery/20260407_191413.jpg",
+    "Quadros no Una Belas Artes em abril de 2026."
+  ],
+  [
+    "./gallery/20260407_150943.jpg",
+    "Sala 2 do Una Belas Artes."
+  ],
+  [
+    "./gallery/20260407_150443.jpg",
+    "Fachada da Biblioteca Pública do estado."
+  ],
+  [
+    "./gallery/20260422_202909.jpg",
+    "Sala X do Belas Artes."
+  ],
+  [
+    "./gallery/20260422_200858.jpg",
+    "Vendo filme."
+  ],
+  [
+    "./gallery/20260422_214940.jpg",
+    "Vendo filme."
+  ],
 ]
 
 const handleCLick = (e: MouseEvent): void => {
-  const {src, alt} = e.target
+  const target = e.target as HTMLImageElement;
+  const src = target.src;
+  const alt = target.alt;
 
   if (src) {
     if (typeof document === 'undefined') return;
@@ -111,10 +163,11 @@ const handleCLick = (e: MouseEvent): void => {
     const text2 = document?.createTextNode('Clique aqui ou fora da imagem para fechar.')
 
     const p = document.createElement('p')
+    p.appendChild(document.createElement('br'))
     p.appendChild(text1)
     p.innerHTML += "&nbsp;<br/>"
-    p.appendChild(text2)
-    p.classList.value = 'text-center text-slate-100 p-3 text-[16px] bg-black/15 text-balance m-0'
+    p.appendChild(document.createElement('b').appendChild(text2))
+    p.classList.value = 'text-center text-white p-3 text-[16px] bg-black/15 text-balance m-0 cursor-pointer text-decoration-underline'
 
     const img = document?.createElement('img')
     img.classList.value = 'img-dialog'

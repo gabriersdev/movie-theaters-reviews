@@ -68,3 +68,6 @@ dist-ssr
 # Database
 *.sql
 *.db
+
+# Idea
+.idea/**/**

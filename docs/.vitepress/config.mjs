@@ -1,4 +1,6 @@
 import {defineConfig} from 'vitepress'
+import tailwind from '@tailwindcss/postcss'
+import autoprefixer from 'autoprefixer'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -26,8 +28,8 @@ export default defineConfig({
         items: [
           {text: 'Filmes assistidos', link: '/movies'},
           {text: 'Ranking e Cinemas', link: '/movie-theaters-list'},
-          {text: 'Galeria 🆕', link: '/gallery'},
-          {text: 'Roteiro 🆕', link: '/map'},
+          {text: 'Galeria', link: '/gallery'},
+          {text: 'Roteiro', link: '/map'},
           {text: 'Metas', link: '/goals'},
           {text: 'Sobre', link: '/about'},
         ]
@@ -78,4 +80,19 @@ export default defineConfig({
       }
     }
   },
+
+  vite: {
+    css: {
+      postcss: {
+        plugins: [
+          tailwind,
+          autoprefixer,
+        ],
+      },
+    },
+  },
+  
+  ignoreDeadLinks: [
+    './cinemark-bh-shopping'
+  ]
 })
