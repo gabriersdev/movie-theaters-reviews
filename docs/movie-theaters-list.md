@@ -200,6 +200,8 @@ E o que levou essa experiência ser a pior que já tive em um cinema, é, em par
 
 Para quem não sabe o "Cineart Open Air" não é exatamente um cinema. Mas aqui, como avalio cinemas e a ida nele, quereno ou não foi uma experiência, entra aqui como um cinema, mas, na realidade é um evento. Um evento que ocorre num dos bairros mais nobres de Belo Horizonte, num lugar chamado "Espaço 356". Talvez se eu soubesse o que me esperava, sequer teria ido ver o filme. 
 
-Eu fui, vestido normalmente e como de costume: calça preta, tênis bonito de academia, camiseta oversized e, por cima, um corta-vento preto, já que tava frio. 
+Eu fui, vestido normalmente e como de costume: calça preta, tênis bonito de academia, camiseta oversized e, por cima, um corta-vento preto, já que tava frio.
+
+
 
 # TODO - finalizar
