@@ -13,24 +13,25 @@ head:
 # Cinemas
 
 > [!INFO]
-> [Confira a galeria, com imagem dos cinemas e dos passeios](./gallery)
+> [Confira a galeria, com imagem dos cinemas e/ou dos passeios](./gallery)
 
 ## ➡️ Classificação dos cinemas visitados
 
 Listado a partir dos melhores aos piores
 
-|                                              Nome                                              | Conceito  | CQPL¹ | Variedade² | Visitas |
-|:----------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
-|                [Una Belas Artes](#una-belas-artes-cinema-de-rua)                               | Excelente |   4   |     5      |    6    |
-|                             [Cineart - Ponteio](#cineart-ponteio)                              | Excelente |   5   |     5      |    2    |
-| [Cineart <VPBadge type="tip">IMAX</VPBadge> - Shopping Boulevard](#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
-|                  [Cineart - Shopping Boulevard](#cineart-shopping-boulevard)                   |    Bom    |   4   |     4      |    4    |
-|                      [Cinemark - Patio Savassi](#cinemark-patio-savassi)                       |    Bom    |   4   |     4      |    1    |
-|               [Cinema Minas Tenis Club](#cinema-minas-tenis-club-cinema-de-rua)                |    Bom    |   4   |     3      |    1    |
-|                      [Cineart - Minas Shopping](#cineart-minas-shopping)                       |    Bom    |   4   |     3      |    3    |
-|      [Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping](#cinemark-xd-bh-shopping)       |    OK     |   3   |     3      |    1    |
-|                         [Cineart - Shopping Del Rey](#cineart-del-rey)                         |    OK     |   3   |     3      |    1    |
-|                     [Cineart - Shopping Cidade](#cineart-shopping-cidade)                      |  Regular  |   3   |     3      |    5    |
+|                                                      Nome                                                       | Conceito  | CQPL¹ | Variedade² | Visitas |
+|:---------------------------------------------------------------------------------------------------------------:|:---------:|:-----:|:----------:|:-------:|
+|                     [Una Belas Artes](./movie-theaters-list#una-belas-artes-cinema-de-rua)                      | Excelente |   4   |     4      |    4    |
+| [Cineart <Badge type="tip">IMAX</Badge> - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard) | Excelente |   5   |     4      |    3    |
+|                           [Cineart - Ponteio](./movie-theaters-list#cineart-ponteio)                            | Excelente |   5   |     5      |    2    |
+|                [Cineart - Shopping Boulevard](./movie-theaters-list#cineart-shopping-boulevard)                 |    Bom    |   4   |     4      |    4    |
+|                    [Cinemark - Patio Savassi](./movie-theaters-list#cinemark-patio-savassi)                     |    Bom    |   4   |     4      |    1    |
+|                    [Cineart - Minas Shopping](./movie-theaters-list#cineart-minas-shopping)                     |    Bom    |   4   |     3      |    3    |
+|             [Cinema Minas Tenis Club](./movie-theaters-list#cinema-minas-tenis-club-cinema-de-rua)              |    Bom    |   4   |     3      |    1    |
+|                      [Cinemark - BH Shopping](./movie-theaters-list#cinemark-bh-shopping)                       |    Bom    |   3   |     3      |    1    |
+|                       [Cineart - Shopping Del Rey](./movie-theaters-list#cineart-del-rey)                       |    Bom    |   3   |     3      |    1    |
+|                   [Cineart - Shopping Cidade](./movie-theaters-list#cineart-shopping-cidade)                    |  Regular  |   3   |     3      |    5    |
+|                          [Cineart - Open Air](./movie-theaters-list#cineart-open-air)                           |  Péssimo  |   0   |     0      |    1    |
 
 ¹ CQPL = Conforto, qualidade, preço e localização  
 ² Variedade = Variedade do catálogo
@@ -183,12 +184,24 @@ Na primeira vez que fui, assisti a dois filmes. No primeiro, cheguei 15 minutos 
 
 Assim como o [Una Belas Artes](#una-belas-artes-cinema-de-rua) esse cinema têm filmes fora do mainstream, mas também tem alguns títulos do mainstream. Na primeira vez que fui, ["Lilo & Stitch (2025)"](/movies#lilo-stitch-2025) estava em cartaz lá.
 
-## Cinemark <VPBadge type="tip">XD</VPBadge> - BH Shopping
+## Cinemark - BH Shopping
 
-![Cinemark - BH Shopping](/movie-theaters/bh-shopping.jpg)
+<!--  TODO: avaliar coesão e linguagem -->
 
-Não tive uma experiência muito boa. Assim como na unidade do Pátio Savassi, as opções de combo eram extremamente caras. A diferença é que, nesse caso, o ingresso também foi caro já na primeira vez que fui.
+Não tive uma experiência legal. Tal qual a unidade do Pátio Savassi as opções de combo que tinham eram extremamente caras. Mas, diferente do Pátio, o ingresso da primeira vez que fui, foi caro. R\$ 32 um ingresso para uma sala com um "sabor" melhor (?) e R\$ 49,90 num combo de refri grande (papo de uns 700ml) e refil de pipoca grande (que não dá pra comer sozinho). Sinceramente não vale a pena, mesmo o filme que vi (Devoradores de Estrelas) ser bom, não vale os R\$ 82 pagos.
 
-Paguei R$ 32 em um ingresso para uma sala supostamente "melhor" e R$ 49,90 em um combo com refrigerante grande (cerca de 700 ml) e refil de pipoca grande — que, sinceramente, é grande demais para uma pessoa só.
+## Cineart - Open Air
 
-No fim das contas, a conta deu R$ 82. Mesmo o filme que assisti [Devoradores de Estrelas](/movies#devoradores-de-estrelas) sendo bom, não achei que a experiência tenha valido esse preço.
+Existem certos ambientes que não é para gente. Eu começo escrevendo essa avaliação em meados de 2026 e há mais de 2 anos sou cliente assíduo do Cineart. A excessão da unidade no Via Shopping eu já fui e consumi em todas as outras de Belo Horizonte.
+
+Eu começo assim minha avaliação por quê, sinceramente, essa foi a minha pior experiência em um cinema. De longe. Eu comecei aqui falando que "certos ambientes não é para gente", por quê, inegavelmente, ainda há um conflito de classes na sociedade em 2026. 
+
+E o que levou essa experiência ser a pior que já tive em um cinema, é, em parte causado por um classismo (?).
+
+Para quem não sabe o "Cineart Open Air" não é exatamente um cinema. Mas aqui, como avalio cinemas e a ida nele, quereno ou não foi uma experiência, entra aqui como um cinema, mas, na realidade é um evento. Um evento que ocorre num dos bairros mais nobres de Belo Horizonte, num lugar chamado "Espaço 356". Talvez se eu soubesse o que me esperava, sequer teria ido ver o filme. 
+
+Eu fui, vestido normalmente e como de costume: calça preta, tênis bonito de academia, camiseta oversized e, por cima, um corta-vento preto, já que tava frio.
+
+
+
+# TODO - finalizar
